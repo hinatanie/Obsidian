@@ -4,6 +4,12 @@
   "showPreview": true,
   "recentPatterns": [
     {
+      "search": "\\?\\n\\+\\+\\+",
+      "replace": "",
+      "flags": "g",
+      "timestamp": 1785419586751
+    },
+    {
       "search": "\\n> \\n",
       "replace": "",
       "flags": "g",

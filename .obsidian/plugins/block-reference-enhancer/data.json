@@ -11,7 +11,7 @@
   "indexCache": {
     "schemaVersion": 4,
     "parserRevision": 3,
-    "builtAt": 1785418499988,
+    "builtAt": 1785422629511,
     "files": {
       "4. Ielts/2. Writing/1. 2025 february writting.md": {
         "path": "4. Ielts/2. Writing/1. 2025 february writting.md",
@@ -773,20 +773,6 @@
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/3. VPC.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/3. VPC.md",
-        "mtime": 1785400582493,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/10. Traffic.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/10. Traffic.md",
-        "mtime": 1785400638749,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
       "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md": {
         "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
         "mtime": 1785401272497,
@@ -794,66 +780,87 @@
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/4. Subnet.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/4. Subnet.md",
-        "mtime": 1785401339874,
-        "size": 6079,
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/10. Traffic.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/10. Traffic.md",
+        "mtime": 1785400638749,
+        "size": 0,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/5. IP addresses.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/5. IP addresses.md",
-        "mtime": 1785401493130,
-        "size": 5289,
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/3. VPC.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/3. VPC.md",
+        "mtime": 1785400582493,
+        "size": 0,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/6. Gateway.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/6. Gateway.md",
-        "mtime": 1785401703173,
-        "size": 7392,
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/4. Subnet.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/4. Subnet.md",
+        "mtime": 1785420654499,
+        "size": 4350,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/7. Route table.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/7. Route table.md",
-        "mtime": 1785401781173,
-        "size": 2917,
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/5. IP addresses.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/5. IP addresses.md",
+        "mtime": 1785420692982,
+        "size": 3633,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/8. Network.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/8. Network.md",
-        "mtime": 1785402126083,
-        "size": 10837,
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/6. Gateway.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/6. Gateway.md",
+        "mtime": 1785420737308,
+        "size": 5469,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/9. Bandwidth.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/9. Bandwidth.md",
-        "mtime": 1785402155669,
-        "size": 318,
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/7. Route table.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/7. Route table.md",
+        "mtime": 1785420767052,
+        "size": 2178,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/11. Protocol.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/11. Protocol.md",
-        "mtime": 1785402181739,
-        "size": 1145,
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/8. Network.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/8. Network.md",
+        "mtime": 1785420845603,
+        "size": 7401,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/1. CIDR.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/1. CIDR.md",
-        "mtime": 1785418369252,
-        "size": 4110,
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/11. Protocol.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/11. Protocol.md",
+        "mtime": 1785420876460,
+        "size": 839,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/9. Spaced repetition/2. EC2.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/9. Spaced repetition/2. EC2.md",
-        "mtime": 1785418498896,
-        "size": 4737,
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/9. Bandwidth.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/9. Bandwidth.md",
+        "mtime": 1785420888368,
+        "size": 219,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/2. EC2.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/2. EC2.md",
+        "mtime": 1785421425104,
+        "size": 3426,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/7. Split to smaller question and answer.md": {
+        "path": "7. Prompt/7. Split to smaller question and answer.md",
+        "mtime": 1785422580781,
+        "size": 946,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/1. CIDR.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/1. CIDR.md",
+        "mtime": 1785422628481,
+        "size": 2542,
         "blockIds": [],
         "referencedIds": []
       }
