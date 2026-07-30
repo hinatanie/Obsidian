@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e280d599519afe8",
+        "id": "10898a7429654014",
         "type": "tabs",
         "children": [
           {
-            "id": "9d72a3e03a0e0850",
+            "id": "8ed4423b7447a511",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. Checklist for Amazon VPC"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4e0f3d31460a681e",
@@ -95,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
+                "file": "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/3. Checklist for route table.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Checklist for Amazon VPC"
+              "title": "Backlinks for 3. Checklist for route table"
             }
           },
           {
@@ -114,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
+                "file": "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/3. Checklist for route table.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Checklist for Amazon VPC"
+              "title": "Outgoing links from 3. Checklist for route table"
             }
           },
           {
@@ -157,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
+                "file": "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/3. Checklist for route table.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Checklist for Amazon VPC"
+              "title": "Outline of 3. Checklist for route table"
             }
           }
         ]
@@ -184,11 +179,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d72a3e03a0e0850",
+  "active": "27f70305be2b9fb0",
   "lastOpenFiles": [
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/5. Checklist for NAT Gateway.canvas",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/4. Checklist for Internet Gateway 1.canvas",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/3. Checklist for route table.canvas",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)",
+    "2. Aws/1. Aws fcaj/Explore AWS Services",
+    "2. Aws/1. Aws fcaj",
+    "2. Aws",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/2. Checklist for subnets.canvas",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/2. Checklist for subnets.md",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/4. Checklist for Internet Gateway.canvas",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Untitled 2.canvas",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Untitled 1.canvas",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Untitled.canvas",
+    "2. Auction/6. Doc/Untitled.canvas",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Checklist for Amazon VPC.canvas",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Test.md",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Untitled.md",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Checklist for Amazon VPC.md",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Checklist for Amazon VPC 1.md",
+    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC 1.md",
     "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review",
     "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/Untitled",
-    "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Untitled.canvas",
     "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/Untitled.canvas",
     "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review",
     "1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md"

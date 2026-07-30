@@ -11,7 +11,7 @@
   "indexCache": {
     "schemaVersion": 4,
     "parserRevision": 3,
-    "builtAt": 1785390084491,
+    "builtAt": 1785398289586,
     "files": {
       "4. Ielts/2. Writing/1. 2025 february writting.md": {
         "path": "4. Ielts/2. Writing/1. 2025 february writting.md",
@@ -652,13 +652,6 @@
         "blockIds": [],
         "referencedIds": []
       },
-      "Syro Sidebar Review Tutorial.md": {
-        "path": "Syro Sidebar Review Tutorial.md",
-        "mtime": 1785321498976,
-        "size": 2049,
-        "blockIds": [],
-        "referencedIds": []
-      },
       "Untitled 6.md": {
         "path": "Untitled 6.md",
         "mtime": 1785321576564,
@@ -689,13 +682,6 @@
         "blockIds": [],
         "referencedIds": []
       },
-      "6. Spaced repetition/review/review.md": {
-        "path": "6. Spaced repetition/review/review.md",
-        "mtime": 1785384428797,
-        "size": 4076,
-        "blockIds": [],
-        "referencedIds": []
-      },
       "6. Spaced repetition/3. doc.md": {
         "path": "6. Spaced repetition/3. doc.md",
         "mtime": 1785384190999,
@@ -707,20 +693,6 @@
         "path": "2. Aws/2. Auction/8. Test.md",
         "mtime": 1785385357907,
         "size": 8517,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "prompt.md": {
-        "path": "prompt.md",
-        "mtime": 1785386010310,
-        "size": 32159,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
-        "mtime": 1785386265255,
-        "size": 15945,
         "blockIds": [],
         "referencedIds": []
       },
@@ -749,6 +721,69 @@
         "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/5. Checklist for NAT Gateway.md",
         "mtime": 1785390083456,
         "size": 15297,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
+        "mtime": 1785391710568,
+        "size": 15466,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/2. Prompt markdown into flashcards.md": {
+        "path": "7. Prompt/2. Prompt markdown into flashcards.md",
+        "mtime": 1785392419920,
+        "size": 2360,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/4. Prompt to create quiz.md": {
+        "path": "7. Prompt/4. Prompt to create quiz.md",
+        "mtime": 1785392498972,
+        "size": 2973,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/5. Prompt for cursor.md": {
+        "path": "7. Prompt/5. Prompt for cursor.md",
+        "mtime": 1785392559389,
+        "size": 8802,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/3. Prompt for AI help learn things.md": {
+        "path": "7. Prompt/3. Prompt for AI help learn things.md",
+        "mtime": 1785392619255,
+        "size": 2843,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Excalidraw/Drawing 2026-07-30 14.03.32.excalidraw.md": {
+        "path": "Excalidraw/Drawing 2026-07-30 14.03.32.excalidraw.md",
+        "mtime": 1785395012980,
+        "size": 570,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/1. Prompt file markdown into .canvas.md": {
+        "path": "7. Prompt/1. Prompt file markdown into .canvas.md",
+        "mtime": 1785397439191,
+        "size": 8023,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md": {
+        "path": "2. Aws/2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md",
+        "mtime": 1785397691628,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Test.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Test.md",
+        "mtime": 1785398288506,
+        "size": 1402,
         "blockIds": [],
         "referencedIds": []
       }
