@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"98ae9523fd1b05df","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is a route table?**|What is a route table?]]","x":1400,"y":5680,"width":350,"height":80},
-		{"id":"4f1bda959656e55e","type":"text","text":"A `route table` is a set of rules that tells network traffic where to go.  \nFor example, a route table can say:\n```\nTraffic to the internet → Internet Gateway\nTraffic inside VPC → local route\nTraffic to private network → VPN Gateway\n```\nRoute tables control network paths.  ","x":1800,"y":5680,"width":500,"height":258}
-	],
-	"edges":[
-		{"id":"c795eba8f7e9b503","fromNode":"98ae9523fd1b05df","fromSide":"right","toNode":"4f1bda959656e55e","toSide":"left"}
-	]
-}

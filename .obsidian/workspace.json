@@ -4,179 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "6a8275daf758e7a6",
+        "id": "1f8b980b4973ac05",
         "type": "tabs",
         "children": [
           {
-            "id": "3bf2175d07438c9b",
+            "id": "5de536fcc2c0afd7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Aws/2. Auction/1. Database/1. Database.md",
+                "file": "2. Aws/2. Auction/6. Doc/Doc1.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "1. Database"
+              "title": "Doc1"
             }
           },
           {
-            "id": "e2a48fc8bb04ca9f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/8. Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "8. Test"
-            }
-          },
-          {
-            "id": "34ac328fda9feb72",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Checklist for Amazon VPC.canvas",
-                "viewState": {
-                  "x": 548.2002242164992,
-                  "y": 10843.235176252028,
-                  "zoom": -1.1199998901367139
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "1. Checklist for Amazon VPC"
-            }
-          },
-          {
-            "id": "686e10efd1c17fc4",
+            "id": "95feda5a351448b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Prompt/1. Prompt file markdown into .canvas.md",
+                "file": "7. Prompt/7. Split to smaller question and answer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Prompt file markdown into .canvas"
-            }
-          },
-          {
-            "id": "9f5c6bae84caba8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Checklist for Amazon VPC"
-            }
-          },
-          {
-            "id": "eef61dbc669d0da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Prompt/1. Prompt file markdown into .canvas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Prompt file markdown into .canvas"
-            }
-          },
-          {
-            "id": "c47f70584d1260ed",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/2. Checklist for subnets.canvas",
-                "viewState": {
-                  "x": -88.41152249742335,
-                  "y": -506.8715919939309,
-                  "zoom": 0.04043495094826821
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "2. Checklist for subnets"
-            }
-          },
-          {
-            "id": "ab79483f5568ce5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Test"
-            }
-          },
-          {
-            "id": "d2c5f5cf7b278793",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Prompt/1. Prompt file markdown into .canvas.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1. Prompt file markdown into .canvas"
-            }
-          },
-          {
-            "id": "ad4b1cb0bd456a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Amazon VPC"
-            }
-          },
-          {
-            "id": "f07508e7e5bd9d8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/1. CIDR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. CIDR"
+              "title": "7. Split to smaller question and answer"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/1. CIDR.md",
+                "file": "2. Aws/2. Auction/6. Doc/Doc1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. CIDR"
+              "title": "Backlinks for Doc1"
             }
           },
           {
@@ -268,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/1. CIDR.md",
+                "file": "2. Aws/2. Auction/6. Doc/Doc1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. CIDR"
+              "title": "Outgoing links from Doc1"
             }
           },
           {
@@ -297,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/1. CIDR.md",
+                "file": "2. Aws/2. Auction/6. Doc/Doc1.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. CIDR"
+              "title": "Outline of Doc1"
             }
           },
           {
@@ -351,11 +212,30 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f07508e7e5bd9d8e",
+  "active": "5de536fcc2c0afd7",
   "lastOpenFiles": [
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Checklist for Amazon VPC.canvas",
     "7. Prompt/7. Split to smaller question and answer.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/1. CIDR.md",
+    "7. Prompt/5. Prompt for cursor.md",
+    "7. Prompt/4. Prompt to create quiz.md",
+    "7. Prompt/3. Prompt for AI help learn things.md",
+    "7. Prompt/2. Prompt markdown into flashcards.md",
+    "7. Prompt/1. Prompt file markdown into .canvas.md",
+    "2. Aws/2. Auction/6. Doc/Doc1.md",
+    "2. Aws/2. Auction/1. Database/1. Database.md",
+    "2. Aws/2. Auction/8. Test.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/2. EC2.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/1. CIDR.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md",
+    "7. Prompt/8. Create file based on topic.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/8. Network.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/11. Protocol.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/9. Bandwidth.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/7. Route table.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/6. Gateway.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/5. IP addresses.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/4. Subnet.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/3. VPC.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Checklist for Amazon VPC.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/1. CIDR.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/9. Bandwith.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/4. Checklist for Internet Gateway.canvas",
@@ -367,30 +247,12 @@
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/2. EC2.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/2. EC2.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/11. Protocol.md",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/9. Spaced repetition/2. EC2.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/8. Network.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/10. Traffic.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/9. Bandwidth.md",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/10. Traffic.md",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/1. CIDR.md",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/7. Route table.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/6. Gateway.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/5. IP addresses.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/4. Subnet.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation/3. VPC.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Presentation",
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1/9. Bandwidth.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1/8. Network.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1/7. Route table.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1/6. Gateway.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1/1. CIDR.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1/5. IP addresses.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1/4. Subnet.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1/3. VPC.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1/11. Protocol.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1/10. Traffic.md",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/Untitled",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/9. Spaced repetition",

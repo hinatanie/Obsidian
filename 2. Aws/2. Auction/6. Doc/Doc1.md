@@ -1,9 +1,3 @@
-<div id="video-bg-container">
-    <video autoplay loop muted playsinline>
-        <source src="app://local-file/C:/Users/ADMIN/Documents/Obsidian%20Vault/B%E1%BA%A2O%20ANH%20-%20C%C3%94%20%E1%BA%A4Y%20C%E1%BB%A6A%20ANH%20%E1%BA%A4Y%20-%20OFFICIAL%20MV.mp4" type="video/mp4">
-    </video>
-</div>
-
 #### The problem is your FastAPI needs its own isolated Python environment so installed packages do not conflict with other projects
 The solution is creating a virtual environment
 #### The problem is your project does not have virtual environment

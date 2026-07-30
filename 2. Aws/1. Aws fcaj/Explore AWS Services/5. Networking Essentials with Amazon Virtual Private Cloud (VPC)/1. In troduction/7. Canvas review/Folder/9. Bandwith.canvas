@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"c04df647c5e40be8","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What are bandwidth constraints?**|What are bandwidth constraints?]]","x":-100,"y":12950,"width":350,"height":80},
-		{"id":"0565755c6add04c3","type":"text","text":"`Bandwidth constraints` are limits on how much network traffic can pass through.  \nFor example, some resources or network paths may have limits on traffic speed or volume.  ","x":300,"y":12950,"width":500,"height":120}
-	],
-	"edges":[
-		{"id":"1ac55ae9fd07306c","fromNode":"c04df647c5e40be8","fromSide":"right","toNode":"0565755c6add04c3","toSide":"left"}
-	]
-}

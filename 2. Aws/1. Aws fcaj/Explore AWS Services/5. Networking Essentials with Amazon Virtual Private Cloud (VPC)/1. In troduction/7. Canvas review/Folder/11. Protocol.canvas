@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"4bb036f2301070c0","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is a protocol?**|What is a protocol?]]","x":-1010,"y":8544,"width":350,"height":80},
-		{"id":"16a978cc60c6f3d9","type":"text","text":"A `protocol` is a communication method.  \nExamples:\n```\nHTTP\nHTTPS\nTCP\nUDP\nICMP\nSSH\n```\nProtocols define how computers communicate with each other.  \n**Simple VPC example**  \nA common VPC design looks like this:\n```\nVPC: 10.0.0.0/16\n├── Public subnet: 10.0.1.0/24\n│   ├── Web server\n│   └── Load balancer\n│\n├── Private subnet: 10.0.2.0/24\n│   ├── Backend server\n│   └── Database\n│\n├── Internet Gateway\n│   └── Allows public subnet to access the internet\n│\n└── NAT Gateway\n    └── Allows private subnet to access the internet\n```\n**Simple idea**  \nA `VPC` is your private network inside AWS.  \nA `CIDR block` is the IP range of the VPC.  \nA `subnet` is a smaller network inside the VPC.  \nA `route table` controls where traffic goes.  \nAn `Internet Gateway` lets public resources connect to the internet.  \nA `NAT Gateway` lets private resources access the internet safely.  \nFor production, you usually create a custom VPC instead of only using the default VPC.  ","x":-610,"y":8544,"width":500,"height":1060}
-	],
-	"edges":[
-		{"id":"5a0619f8af83e7b9","fromNode":"4bb036f2301070c0","fromSide":"right","toNode":"16a978cc60c6f3d9","toSide":"left"}
-	]
-}
