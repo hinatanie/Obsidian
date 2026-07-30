@@ -822,64 +822,80 @@ The final explanation should make me understand not only what to do, but also:
 
 
 
-Convert the note below into flashcards using exactly this repeating structure:
+Convert the Markdown text I provide into flashcards according to the following rules.
+###### Conversion Rules
+Each section in the original text usually contains:
+1. A Markdown heading, for example:
 ```markdown
-#flashcards
-Question
-?
-+++
-#flashcards
-Answer
-?
-+++
-#flashcards
-Question
-?
-+++
-#flashcards
-Answer
+###### **What is Amazon VPC\?**
+```
+2. The theory or explanatory content that belongs to that heading.
+Convert each section into **two separate flashcards**.
+###### Flashcard: Heading
+Use this format:
+```markdown
+#flashcards 
+[KEEP THE ORIGINAL HEADING EXACTLY AS IT IS]
 ?
 +++
 ```
-Rules:
-1. Each flashcard must contain one clear question and answer
-2. Write each question and each answer as separate `#flashcards` blocks.
-3. Repeat this exact sequence for every flashcard:
+###### Flashcard: Theory Content
+Use this format:
 ```markdown
-#flashcards
-Question
-?
-+++
-#flashcards
-Answer
+#flashcards 
+[KEEP ALL CONTENT BELONGING TO THAT HEADING EXACTLY AS IT IS]
 ?
 +++
 ```
-11. Each question must be followed directly by its corresponding answer.
-Example output:
-````markdown
-#flashcards
-What is Amazon VPC?
-?
-+++
-#flashcards
-`Amazon VPC` stands for `Amazon Virtual Private Cloud`. It lets you create a private, controlled, and secure network inside the AWS Cloud.
-?
-+++
-#flashcards
-What resources can run inside a VPC?
-?
-+++
-#flashcards
-A VPC can contain resources such as:
+###### Mandatory Requirements
+- Every heading must become a separate flashcard.
+- All theory or explanatory content belonging to that heading must become the next separate flashcard.
+- Never combine a heading and its theory content into the same flashcard.
+- Add `#flashcards` at the beginning of every flashcard.
+- Add the following at the end of every flashcard:
 ```text
-EC2 servers
-Databases
-Load balancers
-Containers
 ?
 +++
-````
-
-Convert the following note:
-[PASTE YOUR NOTE HERE]
+```
+- Do not modify the original content.
+- Do not translate the content.
+- Do not summarize the content.
+- Do not correct spelling, grammar, or wording.
+- Do not add explanations or comments.
+- Do not remove any content.
+- Do not change the order of the sections.
+- Preserve all original Markdown formatting exactly, including:
+    - Headings such as `###`, `####`, and `#####`
+    - Bold text such as `**text**`
+    - Inline code such as `` `Amazon VPC` ``
+    - Escaped characters such as `\?`
+    - Fenced code blocks using triple backticks
+    - Code block language identifiers such as `text`, `bash`, or `python`
+    - Lists
+    - Blank lines
+    - Line breaks
+    - Spacing
+- Do not wrap the entire output inside one large code block.
+- Return only the converted flashcards.
+- Do not include an introduction, explanation, conclusion, or any text outside the converted content.
+###### Example
+Input:
+```markdown
+###### **What is Amazon VPC\?**
+`Amazon VPC` means `Amazon Virtual Private Cloud`.
+Amazon VPC lets you create your own private network inside AWS.
+```
+Output:
+```markdown
+#flashcards 
+###### **What is Amazon VPC\?**
+?
++++
+#flashcards 
+`Amazon VPC` means `Amazon Virtual Private Cloud`.
+Amazon VPC lets you create your own private network inside AWS.
+?
++++
+```
+###### Content to Convert
+[PASTE THE MARKDOWN CONTENT HERE]
