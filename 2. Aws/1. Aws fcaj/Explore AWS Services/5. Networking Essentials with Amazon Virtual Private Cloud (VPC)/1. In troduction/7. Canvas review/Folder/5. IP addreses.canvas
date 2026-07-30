@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"2c4acfd443b4d773","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is a private IP address?**|What is a private IP address?]]","x":-680,"y":3859,"width":350,"height":80},
+		{"id":"c560abf1a490387a","type":"text","text":"A `private IP address` is an internal IP address used inside a private network.  \nExample:\n```\n10.0.1.20\n```\nPrivate IP addresses are used for communication inside the VPC.  \nThey are not directly reachable from the public internet.  ","x":-280,"y":3859,"width":500,"height":234},
+		{"id":"38ffb293912dc8dd","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is a public IP address?**|What is a public IP address?]]","x":-680,"y":4134,"width":350,"height":80},
+		{"id":"266ab06645cfc2e3","type":"text","text":"A `public IP address` is an IP address that can be used on the public internet.  \nIf an EC2 instance has a public IP address and the correct routing/security settings, people from the internet can reach it.  ","x":-280,"y":4134,"width":500,"height":120},
+		{"id":"6ecc6b8f4d4b59f2","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is an Elastic IP address?**|What is an Elastic IP address?]]","x":-680,"y":4314,"width":350,"height":80},
+		{"id":"037d01cca7a7d3aa","type":"text","text":"An `Elastic IP address` is a static public IP address that you can allocate in AWS and attach to resources.  \nUnlike a normal public IP address, an Elastic IP can stay the same.  \nFor example, you can attach it to an EC2 instance or a NAT Gateway.\n<!--SR:!2026-07-30,1,230-->","x":-280,"y":4314,"width":500,"height":355},
+		{"id":"83c20171ca489618","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is source IP?**|What is source IP?]]","x":-680,"y":4509,"width":350,"height":80},
+		{"id":"49e73946e2ba9f5b","type":"text","text":"`Source IP` is the IP address where traffic comes from.  \nFor example:\n```\nUser IP → Web server\n```\nThe user's IP address is the source IP.  ","x":-280,"y":4509,"width":500,"height":190}
+	],
+	"edges":[
+		{"id":"d299fa9cd40a9ea5","fromNode":"2c4acfd443b4d773","fromSide":"right","toNode":"c560abf1a490387a","toSide":"left"},
+		{"id":"93d09a076e2fbcfe","fromNode":"38ffb293912dc8dd","fromSide":"right","toNode":"266ab06645cfc2e3","toSide":"left"},
+		{"id":"7340252e051436d8","fromNode":"6ecc6b8f4d4b59f2","fromSide":"right","toNode":"037d01cca7a7d3aa","toSide":"left"},
+		{"id":"2277f0229e5a3d07","fromNode":"83c20171ca489618","fromSide":"right","toNode":"49e73946e2ba9f5b","toSide":"left"}
+	]
+}

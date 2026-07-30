@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"c32269d32f8bf639","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What was EC2-Classic?**|What was EC2-Classic?]]","x":1920,"y":-1095,"width":350,"height":80},
+		{"id":"6cbdc28bf662f367","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is EC2-VPC?**|What is EC2-VPC?]]","x":1920,"y":-900,"width":350,"height":80},
+		{"id":"4f915cbc9e9b3a03","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is the default VPC?**|What is the default VPC?]]","x":1920,"y":-705,"width":350,"height":80},
+		{"id":"221ce6c2ac471074","type":"text","text":"`EC2-Classic` was the old AWS networking model.  \nIn this model, resources used a shared, flat network.  \nThat means EC2 instances were not running inside your own private VPC.  \nMany AWS customers used the shared AWS network model.  ","x":2320,"y":-1095,"width":500,"height":145},
+		{"id":"69eefa845772fae8","type":"text","text":"`EC2-VPC` is the current AWS networking model.  \nIn this model, resources run inside isolated virtual networks.  \nThat virtual network is your VPC.  \nThis is more secure and gives you more control.  ","x":2320,"y":-900,"width":500,"height":135},
+		{"id":"edac3fe743575e2f","type":"text","text":"AWS creates a default VPC in each Region.  \nThe default VPC uses this CIDR block:\n```\n172.31.0.0/16\n```\nThe default VPC is useful for learning and quick testing.  \n**Should you use the default VPC for production?**  \n?  \nFor real production systems, it is usually better to create a custom VPC.  \nA custom VPC gives you better control over:\n```\nIP ranges\nSubnets\nRouting\nGateways\nSecurity\nNetwork architecture\n```\n**Important VPC components**  \nThere are four important VPC components:\n```\nSubnet\nRoute table\nInternet Gateway\nNAT Gateway\n```\nThese components help control how traffic moves inside and outside your VPC.  ","x":2320,"y":-705,"width":500,"height":765},
+		{"id":"489211460d7d9785","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is Amazon EC2?**|What is Amazon EC2?]]","x":1920,"y":120,"width":350,"height":80},
+		{"id":"79d4de3a535f744a","type":"text","text":"`Amazon EC2` is a service that lets you create and run virtual servers in AWS.  \nAn EC2 instance is like a server in the cloud.  \nYou can install applications, databases, or backend services on it.  ","x":2320,"y":120,"width":500,"height":115}
+	],
+	"edges":[
+		{"id":"331952901ff252f5","fromNode":"c32269d32f8bf639","fromSide":"right","toNode":"221ce6c2ac471074","toSide":"left"},
+		{"id":"67ae9fcae75d8eba","fromNode":"6cbdc28bf662f367","fromSide":"right","toNode":"69eefa845772fae8","toSide":"left"},
+		{"id":"dd629a9f6dcae649","fromNode":"4f915cbc9e9b3a03","fromSide":"right","toNode":"edac3fe743575e2f","toSide":"left"},
+		{"id":"5e4cc10e5f8a80bc","fromNode":"489211460d7d9785","fromSide":"right","toNode":"79d4de3a535f744a","toSide":"left"}
+	]
+}

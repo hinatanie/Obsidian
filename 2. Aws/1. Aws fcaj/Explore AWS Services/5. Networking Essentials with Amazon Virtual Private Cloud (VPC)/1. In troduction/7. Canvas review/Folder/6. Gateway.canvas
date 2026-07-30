@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"6ea0e6b3b7943e60","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is an Internet Gateway?**|What is an Internet Gateway?]]","x":-1080,"y":6365,"width":350,"height":80},
+		{"id":"cf0095599ea04ce7","type":"text","text":"An `Internet Gateway` is a VPC component that allows resources in public subnets to access the internet.  \nIt also allows internet traffic to reach public resources in your VPC.  \nFor example, a public EC2 web server needs an Internet Gateway to be reachable from the internet.  ","x":-680,"y":6365,"width":500,"height":175},
+		{"id":"7769d8b793807b81","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is a NAT Gateway?**|What is a NAT Gateway?]]","x":-1080,"y":6545,"width":350,"height":80},
+		{"id":"51f4435ec0072ebf","type":"text","text":"A `NAT Gateway` allows private resources to access the internet without allowing the internet to directly access them.  \nFor example, an EC2 instance in a private subnet may need to download software updates.  \nIt can use a NAT Gateway for outbound internet access.  \nBut people from the internet cannot directly connect to that private EC2 instance.  ","x":-680,"y":6545,"width":500,"height":202},
+		{"id":"538e44bb83d2f56a","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is a gateway?**|What is a gateway?]]","x":-1080,"y":6080,"width":350,"height":80},
+		{"id":"790016cbd34f4c68","type":"text","text":"A `gateway` is a connection point between networks.  \nIn AWS, gateways help your VPC connect to:\n```\nThe internet\nAnother private network\nAn on-premises network\n```","x":-680,"y":6080,"width":500,"height":225},
+		{"id":"582f351d7c1c0093","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is a Virtual Private Gateway?**|What is a Virtual Private Gateway?]]","x":-1080,"y":6840,"width":350,"height":80},
+		{"id":"3144d1aaa5198094","type":"text","text":"`Virtual Private Gateway`, or `VGW`, is a gateway used to connect a VPC to another private network.  \nIt is often used with a VPN connection to connect AWS to an on-premises network.  \nFor example:\n```\nCompany office network → VPN → Virtual Private Gateway → AWS VPC\n```","x":-680,"y":6840,"width":500,"height":242},
+		{"id":"73c6e409d5858682","type":"text","text":"[[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC#**What is a NAT Instance?**|What is a NAT Instance?]]","x":-1080,"y":7120,"width":350,"height":80},
+		{"id":"45973b5332a0b641","type":"text","text":"A `NAT Instance` is an EC2 instance manually configured to perform NAT.  \nYou manage it yourself.  \nCompared with a NAT Gateway, a NAT Instance gives more control but requires more maintenance.  ","x":-680,"y":7120,"width":500,"height":145}
+	],
+	"edges":[
+		{"id":"b35ece17bca85594","fromNode":"538e44bb83d2f56a","fromSide":"right","toNode":"790016cbd34f4c68","toSide":"left"},
+		{"id":"2f90263d1796edce","fromNode":"6ea0e6b3b7943e60","fromSide":"right","toNode":"cf0095599ea04ce7","toSide":"left"},
+		{"id":"9e26bb136a79badc","fromNode":"7769d8b793807b81","fromSide":"right","toNode":"51f4435ec0072ebf","toSide":"left"},
+		{"id":"48233104fc66de98","fromNode":"582f351d7c1c0093","fromSide":"right","toNode":"3144d1aaa5198094","toSide":"left"},
+		{"id":"80576665d1def74a","fromNode":"73c6e409d5858682","fromSide":"right","toNode":"45973b5332a0b641","toSide":"left"}
+	]
+}
