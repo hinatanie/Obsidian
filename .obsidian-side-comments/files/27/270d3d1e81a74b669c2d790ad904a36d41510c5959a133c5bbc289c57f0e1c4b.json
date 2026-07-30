@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "filePath": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
+  "fileHash": "270d3d1e81a74b669c2d790ad904a36d41510c5959a133c5bbc289c57f0e1c4b",
+  "updatedAt": "2026-07-09T13:12:50.078Z",
+  "comments": [
+    {
+      "id": "7564f4e0-7dee-441b-8abe-8dc5c2095164",
+      "anchor": {
+        "startOffset": 12,
+        "endOffset": 348,
+        "selectedText": "##### **What is Amazon VPC\\?**\n?\n`<!--c:s2jam-->Amazon VPC` means `Amazon Virtual Private Cloud`.  \nAmazon VPC lets you create your own private, controlled, and secure network inside AWS.  \nNormally, if you run servers in a company data center, you need to design the network yourself.  \nFor example:<!--/c:s2jam-->\n```text\nIP addresses",
+        "prefix": "#flashcards\n",
+        "suffix": "\nSubnets\nRouting\nGateways\nSecurity\n```\nA",
+        "version": 2,
+        "context": {
+          "before": "#flashcards\n",
+          "after": "\nSubnets\nRouting\nGateways\nSecurity\n```\nAmazon VPC gives you the same kind of con",
+          "normalizedBefore": "#flashcards",
+          "normalizedSelectedText": "##### **What is Amazon VPC\\?** ? `<!--c:s2jam-->Amazon VPC` means `Amazon Virtual Private Cloud`. Amazon VPC lets you create your own private, controlled, and secure network inside AWS. Normally, if you run servers in a company data center, you need to design the network yourself. For example:<!--/c:s2jam--> ```text IP addresses",
+          "normalizedAfter": "Subnets Routing Gateways Security ``` Amazon VPC gives you the same kind of con"
+        },
+        "position": {
+          "lineStart": 2,
+          "lineEnd": 9,
+          "columnStart": 1,
+          "columnEnd": 13
+        },
+        "source": {
+          "mode": "source",
+          "createdAt": "2026-07-09T13:12:36.197Z",
+          "updatedAt": "2026-07-09T13:12:36.197Z"
+        }
+      },
+      "mark": {
+        "type": "highlight",
+        "color": "yellow"
+      },
+      "tags": [],
+      "note": {
+        "content": "fsfa",
+        "createdAt": "2026-07-09T13:12:36.251Z",
+        "updatedAt": "2026-07-09T13:12:39.347Z"
+      },
+      "status": "active"
+    }
+  ]
+}

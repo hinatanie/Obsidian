@@ -1,0 +1,1587 @@
+.draw-in-canvas-capture-layer {
+	position: absolute;
+	inset: 0;
+	z-index: 3;
+	cursor: crosshair;
+	pointer-events: auto;
+	touch-action: none;
+	background: transparent;
+}
+
+.draw-in-canvas-capture-layer.is-pen-cursor-active {
+	cursor: none;
+}
+
+.draw-in-canvas-capture-layer:focus {
+	outline: none;
+}
+
+.draw-in-canvas-pen-cursor {
+	--draw-in-canvas-pen-cursor-size: 8px;
+
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10000;
+	box-sizing: border-box;
+	width: var(--draw-in-canvas-pen-cursor-size);
+	height: var(--draw-in-canvas-pen-cursor-size);
+	border: 1.5px solid var(--draw-in-canvas-current-color, var(--interactive-accent));
+	border-radius: 50%;
+	color: var(--draw-in-canvas-current-color, var(--interactive-accent));
+	opacity: 0;
+	pointer-events: none;
+	transform: translate3d(-9999px, -9999px, 0) translate(-50%, -50%);
+	transition: opacity 80ms ease-out;
+	filter: drop-shadow(0 0 1px var(--background-primary)) drop-shadow(0 0 2px rgb(0 0 0 / 0.35));
+	will-change: transform;
+}
+
+.draw-in-canvas-pen-cursor::before,
+.draw-in-canvas-pen-cursor::after {
+	content: "";
+	position: absolute;
+	border-radius: 999px;
+	background: currentColor;
+	opacity: 0.85;
+	pointer-events: none;
+}
+
+.draw-in-canvas-pen-cursor::before {
+	top: -5px;
+	bottom: -5px;
+	left: 50%;
+	width: 1px;
+	transform: translateX(-50%);
+}
+
+.draw-in-canvas-pen-cursor::after {
+	top: 50%;
+	right: -5px;
+	left: -5px;
+	height: 1px;
+	transform: translateY(-50%);
+}
+
+.draw-in-canvas-pen-cursor.is-visible {
+	opacity: 1;
+}
+
+body.draw-in-canvas-color-palette-open .tooltip {
+	display: none;
+}
+
+.draw-in-canvas-visually-hidden {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0 0 0 0);
+	white-space: nowrap;
+	border: 0;
+}
+
+.draw-in-canvas-control-group {
+	position: relative;
+}
+
+.draw-in-canvas-control-item {
+	position: relative;
+}
+
+.draw-in-canvas-pencil-control-item::after {
+	content: "";
+	position: absolute;
+	right: 6px;
+	bottom: 6px;
+	width: 8px;
+	height: 8px;
+	border: 1px solid var(--background-primary);
+	border-radius: 50%;
+	background: var(--draw-in-canvas-current-color, currentColor);
+	box-shadow: 0 0 0 1px var(--background-modifier-border);
+	pointer-events: none;
+}
+
+.draw-in-canvas-brush-controls {
+	--draw-in-canvas-brush-control-bg: var(--background-primary);
+	--draw-in-canvas-brush-control-hover-bg: var(--background-modifier-hover);
+	--draw-in-canvas-brush-control-border: var(--background-modifier-border);
+	--draw-in-canvas-brush-control-border-hover: var(--background-modifier-border-hover);
+	--draw-in-canvas-brush-control-text: var(--text-muted);
+
+	position: absolute;
+	top: 50%;
+	left: max(4px, env(safe-area-inset-left));
+	z-index: 1001;
+	display: grid;
+	grid-template-rows: minmax(64px, 1fr) 28px 28px minmax(64px, 1fr);
+	justify-items: center;
+	align-items: center;
+	box-sizing: border-box;
+	width: 44px;
+	height: min(320px, calc(100vh - 120px));
+	max-height: calc(100% - 32px);
+	gap: 8px;
+	padding: 6px 4px;
+	border: 1px solid var(--draw-in-canvas-brush-control-border);
+	border-radius: var(--radius-m);
+	background: var(--draw-in-canvas-brush-control-bg);
+	box-shadow: var(--shadow-s);
+	color: var(--draw-in-canvas-brush-control-text);
+	pointer-events: auto;
+	transform: translateY(-50%);
+	user-select: none;
+}
+
+.draw-in-canvas-brush-slider-control {
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 100%;
+	min-height: 72px;
+	border-radius: var(--radius-s);
+	cursor: ns-resize;
+	touch-action: none;
+}
+
+.draw-in-canvas-brush-slider-control::before,
+.draw-in-canvas-brush-slider-control::after {
+	position: absolute;
+	left: 50%;
+	z-index: 1;
+	color: color-mix(in srgb, var(--draw-in-canvas-brush-control-text) 42%, transparent);
+	font-size: 8px;
+	font-weight: 600;
+	line-height: 1;
+	pointer-events: none;
+	transform: translateX(-50%);
+}
+
+.draw-in-canvas-brush-slider-control::before {
+	top: 6px;
+	content: "+";
+}
+
+.draw-in-canvas-brush-slider-control::after {
+	bottom: 6px;
+	content: "−";
+}
+
+.draw-in-canvas-brush-slider-label,
+.draw-in-canvas-brush-slider-value {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0 0 0 0);
+	white-space: nowrap;
+	border: 0;
+}
+
+.draw-in-canvas-brush-slider-track {
+	position: absolute;
+	inset: 3px 7px;
+	overflow: visible;
+	border-radius: var(--radius-s);
+	background: linear-gradient(
+		to bottom,
+		color-mix(in srgb, var(--background-modifier-hover) 42%, var(--background-primary)) 0%,
+		color-mix(in srgb, var(--background-modifier-hover) 72%, var(--background-primary)) 100%
+	);
+	box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--draw-in-canvas-brush-control-border) 72%, transparent);
+	pointer-events: none;
+}
+
+.draw-in-canvas-brush-slider-track::before {
+	content: "";
+	position: absolute;
+	top: var(--draw-in-canvas-brush-slider-position, 50%);
+	right: 0;
+	bottom: 0;
+	left: 0;
+	border-radius: inherit;
+	background: linear-gradient(
+		to top,
+		color-mix(in srgb, var(--draw-in-canvas-current-color) 12%, var(--background-modifier-hover)) 0%,
+		color-mix(in srgb, var(--draw-in-canvas-current-color) 18%, var(--background-modifier-hover)) 100%
+	);
+	box-shadow: inset 0 1px 0 color-mix(in srgb, var(--draw-in-canvas-current-color) 16%, transparent);
+	opacity: 0.65;
+	pointer-events: none;
+}
+
+.draw-in-canvas-brush-slider-thumb {
+	position: absolute;
+	top: var(--draw-in-canvas-brush-slider-position, 50%);
+	left: 50%;
+	width: 30px;
+	height: 16px;
+	border: 1px solid color-mix(in srgb, var(--interactive-accent) 42%, var(--draw-in-canvas-brush-control-border-hover));
+	border-radius: var(--radius-s);
+	background: var(--background-primary);
+	box-shadow: 0 1px 3px rgb(0 0 0 / 0.18);
+	transform: translate(-50%, -50%);
+	z-index: 2;
+	pointer-events: none;
+}
+
+.draw-in-canvas-brush-slider-control:hover .draw-in-canvas-brush-slider-thumb,
+.draw-in-canvas-brush-slider-control:focus-visible .draw-in-canvas-brush-slider-thumb {
+	border-color: color-mix(in srgb, var(--interactive-accent) 68%, var(--draw-in-canvas-brush-control-border-hover));
+	background: var(--background-primary);
+	box-shadow: 0 1px 4px rgb(0 0 0 / 0.22), 0 0 0 2px color-mix(in srgb, var(--interactive-accent) 25%, transparent);
+}
+
+.draw-in-canvas-brush-slider-control:focus-visible {
+	box-shadow: 0 0 0 2px var(--interactive-accent);
+	outline: none;
+}
+
+.draw-in-canvas-brush-color-button,
+.draw-in-canvas-brush-settings-button {
+	display: grid;
+	place-items: center;
+	box-sizing: border-box;
+	width: 26px;
+	height: 26px;
+	padding: 0;
+	border: 1px solid var(--draw-in-canvas-brush-control-border);
+	border-radius: var(--radius-s);
+	background: var(--interactive-normal);
+	color: var(--draw-in-canvas-brush-control-text);
+	appearance: none;
+	-webkit-appearance: none;
+	box-shadow: none;
+	cursor: pointer;
+}
+
+.draw-in-canvas-brush-color-button::after {
+	content: "";
+	display: block;
+	width: 14px;
+	height: 14px;
+	border-radius: 4px;
+	background: var(--draw-in-canvas-current-color, #a8a8a8);
+}
+
+.draw-in-canvas-brush-color-button:hover,
+.draw-in-canvas-brush-color-button:focus-visible,
+.draw-in-canvas-brush-settings-button:hover,
+.draw-in-canvas-brush-settings-button:focus-visible {
+	border-color: var(--draw-in-canvas-brush-control-border-hover);
+	background: var(--interactive-hover);
+	outline: none;
+}
+
+.draw-in-canvas-brush-settings-button svg {
+	width: 16px;
+	height: 16px;
+	stroke-width: 2;
+}
+
+@media (max-height: 420px) {
+	.draw-in-canvas-brush-controls {
+		grid-template-rows: minmax(52px, 1fr) 26px 26px minmax(52px, 1fr);
+		width: 40px;
+		height: min(260px, calc(100vh - 88px));
+		gap: 6px;
+		padding: 5px 3px;
+	}
+
+	.draw-in-canvas-brush-slider-control {
+		min-height: 60px;
+	}
+
+	.draw-in-canvas-brush-slider-thumb {
+		width: 26px;
+		height: 14px;
+	}
+}
+
+.draw-in-canvas-color-palette,
+.draw-in-canvas-stroke-settings-palette {
+	position: fixed;
+	z-index: var(--layer-popover, 30);
+	display: grid;
+	box-sizing: border-box;
+	width: 260px;
+	gap: 10px;
+	padding: 12px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-m);
+	background: var(--background-primary);
+	box-shadow: var(--shadow-s);
+}
+
+.draw-in-canvas-color-palette {
+	--draw-in-canvas-color-palette-width: 220px;
+	--draw-in-canvas-color-disc-size: 206px;
+	--draw-in-canvas-color-palette-gap: 5px;
+	--draw-in-canvas-color-palette-padding: 6px;
+
+	grid-template-rows: auto minmax(0, 1fr) auto;
+	width: min(var(--draw-in-canvas-color-palette-width), calc(100vw - 10px));
+	max-height: calc(100vh - 10px);
+	gap: var(--draw-in-canvas-color-palette-gap);
+	padding: var(--draw-in-canvas-color-palette-padding);
+	overflow: hidden;
+}
+
+.draw-in-canvas-color-palette-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	min-width: 0;
+	gap: 5px;
+}
+
+.draw-in-canvas-color-palette-title {
+	font-size: var(--font-ui-smaller);
+	font-weight: 700;
+	line-height: 1.2;
+	color: var(--text-normal);
+}
+
+.draw-in-canvas-current-color {
+	display: inline-flex;
+	align-items: center;
+	justify-content: flex-end;
+	min-width: 0;
+	flex: 1 1 0;
+	gap: 3px;
+	color: var(--text-muted);
+	font-size: 10px;
+	font-variant-numeric: tabular-nums;
+	line-height: 16px;
+}
+
+.draw-in-canvas-current-color-preview {
+	display: block;
+	width: 12px;
+	height: 12px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 3px;
+	background: var(--draw-in-canvas-current-color, var(--interactive-accent));
+	box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.18);
+	flex: 0 0 12px;
+}
+
+.draw-in-canvas-current-color-values {
+	display: inline-flex;
+	align-items: center;
+	justify-content: flex-end;
+	min-width: 0;
+	overflow: hidden;
+	flex: 1 1 auto;
+	gap: 2px;
+}
+
+.draw-in-canvas-color-palette .draw-in-canvas-current-color-label {
+	box-sizing: border-box;
+	width: 52px;
+	max-width: 52px;
+	min-width: 52px;
+	height: 18px;
+	min-height: 18px;
+	max-height: 18px;
+	padding: 0 3px;
+	flex: 0 0 52px;
+	overflow: hidden;
+	border: 1px solid transparent;
+	border-radius: var(--radius-s);
+	appearance: none;
+	-webkit-appearance: none;
+	background: transparent;
+	box-shadow: none;
+	color: inherit;
+	font: inherit;
+	font-size: inherit;
+	font-variant-numeric: tabular-nums;
+	line-height: 16px;
+	text-align: left;
+	text-overflow: ellipsis;
+	text-transform: uppercase;
+	white-space: nowrap;
+	cursor: pointer;
+}
+
+.draw-in-canvas-current-color-label:hover,
+.draw-in-canvas-current-color-label:focus {
+	border-color: var(--background-modifier-border);
+	outline: none;
+}
+
+.draw-in-canvas-current-color-label.is-editing {
+	border-color: var(--interactive-accent);
+	background: var(--background-secondary);
+	box-shadow: 0 0 0 2px color-mix(in srgb, var(--interactive-accent) 22%, transparent);
+	color: var(--text-normal);
+	cursor: text;
+}
+
+.draw-in-canvas-current-color-label.is-invalid {
+	border-color: var(--text-error);
+	box-shadow: 0 0 0 2px color-mix(in srgb, var(--text-error) 18%, transparent);
+}
+
+.draw-in-canvas-color-palette-panels {
+	min-height: 0;
+	overflow: auto;
+	padding: 1px;
+	margin: -1px;
+}
+
+.draw-in-canvas-color-palette-panel {
+	display: grid;
+	gap: 5px;
+	width: 100%;
+}
+
+.draw-in-canvas-color-palette-panel[hidden] {
+	display: none;
+}
+
+.draw-in-canvas-color-disc-panel {
+	justify-items: stretch;
+}
+
+.draw-in-canvas-color-disc-picker {
+	--draw-in-canvas-color-wheel-hue-color: #8b5cf6;
+	--draw-in-canvas-color-wheel-selected-color: #8b5cf6;
+	--draw-in-canvas-color-wheel-hue-x: 50%;
+	--draw-in-canvas-color-wheel-hue-y: 8%;
+	--draw-in-canvas-color-wheel-disc-x: 50%;
+	--draw-in-canvas-color-wheel-disc-y: 50%;
+
+	position: relative;
+	justify-self: center;
+	width: 100%;
+	max-width: var(--draw-in-canvas-color-disc-size);
+	aspect-ratio: 1;
+	border-radius: 50%;
+	user-select: none;
+	touch-action: none;
+}
+
+.draw-in-canvas-color-wheel-hue-control,
+.draw-in-canvas-color-wheel-disc-field {
+	position: absolute;
+	box-sizing: border-box;
+	cursor: crosshair;
+	touch-action: none;
+}
+
+.draw-in-canvas-color-wheel-hue-control {
+	inset: 0;
+	border-radius: 50%;
+	background: conic-gradient(from 90deg, #ff0040, #ff7a00, #ffe600, #47ff00, #00ffd5, #0066ff, #8b00ff, #ff00d4, #ff0040);
+	box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.16), 0 0 0 1px var(--background-modifier-border);
+}
+
+.draw-in-canvas-color-wheel-hue-control:focus-visible {
+	outline: none;
+	box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.16), 0 0 0 2px var(--interactive-accent);
+}
+
+.draw-in-canvas-color-wheel-disc-field {
+	inset: 22%;
+	z-index: 2;
+	overflow: visible;
+	border-radius: 50%;
+	background:
+		linear-gradient(to top, #000 0%, rgb(0 0 0 / 0) 100%),
+		linear-gradient(to right, #fff 0%, var(--draw-in-canvas-color-wheel-hue-color) 100%);
+	box-shadow: 0 0 0 4px var(--background-primary), inset 0 0 0 1px rgb(255 255 255 / 0.16);
+}
+
+.draw-in-canvas-color-wheel-disc-field:focus-visible {
+	outline: none;
+	box-shadow: 0 0 0 4px var(--background-primary), 0 0 0 6px var(--interactive-accent), inset 0 0 0 1px rgb(255 255 255 / 0.16);
+}
+
+.draw-in-canvas-color-wheel-thumb {
+	position: absolute;
+	z-index: 3;
+	box-sizing: border-box;
+	width: 12px;
+	height: 12px;
+	border: 2px solid #fff;
+	border-radius: 50%;
+	background: var(--draw-in-canvas-color-wheel-selected-color);
+	box-shadow: 0 1px 4px rgb(0 0 0 / 0.45), 0 0 0 1px rgb(0 0 0 / 0.28);
+	pointer-events: none;
+}
+
+.draw-in-canvas-color-wheel-hue-thumb {
+	left: var(--draw-in-canvas-color-wheel-hue-x);
+	top: var(--draw-in-canvas-color-wheel-hue-y);
+	background: var(--draw-in-canvas-color-wheel-hue-color);
+	width: calc(18% - 4px);
+	height: calc(18% - 4px);
+	border-width: 2px;
+	transform: translate(-50%, -50%);
+}
+
+.draw-in-canvas-color-wheel-disc-thumb {
+	left: var(--draw-in-canvas-color-wheel-disc-x);
+	top: var(--draw-in-canvas-color-wheel-disc-y);
+	width: 12px;
+	height: 12px;
+	z-index: 4;
+	transform: translate(-50%, -50%);
+}
+
+.draw-in-canvas-color-disc-palette {
+	display: grid;
+	width: 100%;
+	gap: 3px;
+}
+
+.draw-in-canvas-color-disc-palette-title {
+	font-size: var(--font-ui-smaller);
+	font-weight: 600;
+	line-height: 1.2;
+	color: var(--text-muted);
+}
+
+.draw-in-canvas-hsl-controls {
+	gap: 6px;
+	margin-top: 6px;
+}
+
+.draw-in-canvas-hsl-header {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 6px;
+}
+
+.draw-in-canvas-color-mode-segmented {
+	display: inline-grid;
+	grid-auto-flow: column;
+	grid-auto-columns: minmax(0, auto);
+	align-items: center;
+	box-sizing: border-box;
+	height: 22px;
+	padding: 2px;
+	flex: 0 0 auto;
+	gap: 1px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+	background: color-mix(in srgb, var(--background-secondary) 86%, transparent);
+}
+
+.draw-in-canvas-color-palette button.draw-in-canvas-color-mode-button {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	box-sizing: border-box;
+	height: 16px;
+	min-height: 16px;
+	padding: 0 5px;
+	border: 0;
+	border-radius: calc(var(--radius-s) - 2px);
+	appearance: none;
+	-webkit-appearance: none;
+	background: transparent;
+	box-shadow: none;
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+	font-weight: 600;
+	line-height: 16px;
+	cursor: pointer;
+}
+
+.draw-in-canvas-color-palette button.draw-in-canvas-color-mode-button:hover,
+.draw-in-canvas-color-palette button.draw-in-canvas-color-mode-button:focus-visible {
+	background: var(--background-modifier-hover);
+	color: var(--text-normal);
+	outline: none;
+}
+
+.draw-in-canvas-color-palette button.draw-in-canvas-color-mode-button.is-active {
+	background: var(--background-primary);
+	box-shadow: 0 1px 2px rgb(0 0 0 / 0.12);
+	color: var(--text-normal);
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-value-input[type="text"] {
+	box-sizing: border-box;
+	width: auto;
+	max-width: none;
+	height: 18px;
+	min-width: 0;
+	min-height: 18px;
+	max-height: 18px;
+	padding: 0 3px;
+	flex: 1 1 76px;
+	overflow: hidden;
+	border: 1px solid transparent;
+	border-radius: var(--radius-s);
+	appearance: none;
+	-webkit-appearance: none;
+	background: transparent;
+	box-shadow: none;
+	color: var(--text-muted);
+	font-size: inherit;
+	font-variant-numeric: tabular-nums;
+	line-height: 16px;
+	text-align: left;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	cursor: pointer;
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-value-input[type="text"]:hover:not(.is-editing):not(.is-invalid) {
+	border-color: var(--background-modifier-border);
+	background: color-mix(in srgb, var(--background-modifier-hover) 45%, transparent);
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-value-input[type="text"]:focus {
+	border-color: transparent;
+	background: transparent;
+	box-shadow: none;
+	outline: none;
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-value-input[type="text"].is-editing {
+	border-color: var(--interactive-accent);
+	background: var(--background-secondary);
+	box-shadow: 0 0 0 2px color-mix(in srgb, var(--interactive-accent) 22%, transparent);
+	color: var(--text-normal);
+	cursor: text;
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-value-input[type="text"].is-invalid {
+	border-color: var(--text-error);
+	box-shadow: 0 0 0 2px color-mix(in srgb, var(--text-error) 18%, transparent);
+}
+
+.draw-in-canvas-hsl-slider-list {
+	display: grid;
+	gap: 5px;
+}
+
+.draw-in-canvas-hsl-slider-control {
+	gap: 2px 6px;
+}
+
+.draw-in-canvas-hsl-slider-value {
+	min-width: 38px;
+	padding: 0 6px;
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-slider[type="range"] {
+	--draw-in-canvas-hsl-slider-gradient: var(--background-modifier-border);
+	--draw-in-canvas-hsl-slider-thumb-color: var(--interactive-accent);
+
+	width: 100%;
+	height: 20px;
+	margin: 0;
+	appearance: none;
+	-webkit-appearance: none;
+	background: transparent;
+	accent-color: var(--draw-in-canvas-hsl-slider-thumb-color);
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-slider[type="range"]::-webkit-slider-runnable-track {
+	height: 6px;
+	border-radius: 999px;
+	background: var(--draw-in-canvas-hsl-slider-gradient);
+	box-shadow: inset 0 0 0 1px rgb(0 0 0 / 0.12);
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-slider[type="range"]::-webkit-slider-thumb {
+	width: 14px;
+	height: 14px;
+	margin-top: 0;
+	border: 2px solid var(--background-primary);
+	border-radius: 50%;
+	appearance: none;
+	-webkit-appearance: none;
+	background: var(--draw-in-canvas-hsl-slider-thumb-color);
+	box-shadow: 0 0 0 1px var(--background-modifier-border-hover), 0 1px 2px rgb(0 0 0 / 0.3);
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-slider[type="range"]:focus {
+	outline: none;
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-slider[type="range"]:focus-visible::-webkit-slider-thumb {
+	box-shadow: 0 0 0 1px var(--background-primary), 0 0 0 3px color-mix(in srgb, var(--interactive-accent) 36%, transparent);
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-slider[type="range"]::-moz-range-track {
+	height: 6px;
+	border: 0;
+	border-radius: 999px;
+	background: var(--draw-in-canvas-hsl-slider-gradient);
+	box-shadow: inset 0 0 0 1px rgb(0 0 0 / 0.12);
+}
+
+.draw-in-canvas-color-palette input.draw-in-canvas-hsl-slider[type="range"]::-moz-range-thumb {
+	width: 14px;
+	height: 14px;
+	border: 2px solid var(--background-primary);
+	border-radius: 50%;
+	background: var(--draw-in-canvas-hsl-slider-thumb-color);
+	box-shadow: 0 0 0 1px var(--background-modifier-border-hover), 0 1px 2px rgb(0 0 0 / 0.3);
+}
+
+.draw-in-canvas-color-disc-palette-swatches {
+	display: grid;
+	grid-template-columns: repeat(10, minmax(0, 1fr));
+	overflow: hidden;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 0;
+}
+
+.draw-in-canvas-color-palette .draw-in-canvas-color-disc-palette-swatch {
+	box-sizing: border-box;
+	width: 100%;
+	aspect-ratio: 1;
+	height: auto;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	appearance: none;
+	-webkit-appearance: none;
+	background-image: none;
+	background-color: var(--draw-in-canvas-swatch-color);
+	box-shadow: none;
+	cursor: pointer;
+}
+
+
+.draw-in-canvas-color-history-swatches.is-empty {
+	display: block;
+	padding: 4px 5px;
+	border-style: dashed;
+	overflow: visible;
+}
+
+.draw-in-canvas-color-history-empty {
+	display: block;
+	color: var(--text-faint);
+	font-size: var(--font-ui-smaller);
+	line-height: 1.25;
+}
+
+.draw-in-canvas-color-disc-palette-swatch:hover,
+.draw-in-canvas-color-disc-palette-swatch:focus-visible {
+	z-index: 1;
+	box-shadow: inset 0 0 0 1px var(--background-primary), inset 0 0 0 3px var(--background-modifier-border-hover);
+	outline: none;
+}
+
+.draw-in-canvas-color-disc-palette-swatch.is-selected {
+	z-index: 2;
+	box-shadow: inset 0 0 0 1px var(--background-primary), inset 0 0 0 3px var(--interactive-accent);
+}
+
+.draw-in-canvas-presets-panel {
+	grid-template-columns: 1fr;
+}
+
+.draw-in-canvas-color-palette-swatch-grid {
+	display: grid;
+	grid-template-columns: repeat(10, minmax(0, 1fr));
+	gap: 0;
+	overflow: hidden;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 0;
+}
+
+.draw-in-canvas-color-palette .draw-in-canvas-color-swatch {
+	box-sizing: border-box;
+	width: 20px;
+	height: 20px;
+	padding: 0;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 0;
+	margin: 0;
+	appearance: none;
+	-webkit-appearance: none;
+	background-image: none;
+	background-color: var(--draw-in-canvas-swatch-color);
+	box-shadow: none;
+	cursor: pointer;
+}
+
+.draw-in-canvas-color-palette-swatch-grid .draw-in-canvas-color-swatch {
+	position: relative;
+	width: 100%;
+	aspect-ratio: 1;
+	height: auto;
+	border: 0;
+}
+
+.draw-in-canvas-color-palette-swatch-grid .draw-in-canvas-color-swatch,
+.draw-in-canvas-color-palette-swatch-grid .draw-in-canvas-color-picker-swatch {
+	border-radius: 0;
+}
+
+
+.draw-in-canvas-color-swatch:hover,
+.draw-in-canvas-color-swatch:focus-visible,
+.draw-in-canvas-color-picker-swatch:focus-within {
+	box-shadow: 0 0 0 2px var(--background-modifier-border-hover);
+	outline: none;
+}
+
+.draw-in-canvas-color-palette-swatch-grid .draw-in-canvas-color-swatch:hover,
+.draw-in-canvas-color-palette-swatch-grid .draw-in-canvas-color-swatch:focus-visible {
+	z-index: 1;
+	box-shadow: inset 0 0 0 2px var(--background-modifier-border-hover);
+}
+
+.draw-in-canvas-color-swatch.is-selected {
+	box-shadow: 0 0 0 2px var(--background-primary), 0 0 0 4px var(--interactive-accent);
+}
+
+.draw-in-canvas-color-palette-swatch-grid .draw-in-canvas-color-swatch.is-selected {
+	z-index: 2;
+	box-shadow: inset 0 0 0 1px var(--background-primary), inset 0 0 0 3px var(--interactive-accent);
+}
+
+.draw-in-canvas-color-picker-swatch {
+	position: relative;
+	display: grid;
+	place-items: center;
+	overflow: hidden;
+	justify-self: center;
+	color: var(--text-normal);
+}
+
+.draw-in-canvas-native-color-picker {
+	position: absolute;
+	inset: 0;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	border: 0;
+	opacity: 0;
+	cursor: pointer;
+}
+
+.draw-in-canvas-color-picker-icon {
+	position: relative;
+	z-index: 1;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 14px;
+	height: 14px;
+	color: var(--text-normal);
+	line-height: 0;
+	filter: drop-shadow(0 1px 1px rgb(255 255 255 / 0.32)) drop-shadow(0 1px 1px rgb(0 0 0 / 0.28));
+	pointer-events: none;
+}
+
+.draw-in-canvas-color-picker-icon svg {
+	display: block;
+	width: 13px;
+	height: 13px;
+	stroke-width: 2.25px;
+}
+
+.draw-in-canvas-custom-color-control {
+	display: grid;
+	gap: 4px;
+	width: 100%;
+	margin-top: 1px;
+}
+
+.draw-in-canvas-custom-color-field {
+	display: grid;
+	grid-template-columns: auto minmax(0, 1fr);
+	align-items: center;
+	gap: 4px;
+	font-size: var(--font-ui-smaller);
+	line-height: 1.2;
+	color: var(--text-muted);
+}
+
+.draw-in-canvas-custom-color-hex-input {
+	width: 100%;
+	height: 20px;
+	box-sizing: border-box;
+	padding: 0 4px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+	background: var(--background-secondary);
+	color: var(--text-normal);
+	font-variant-numeric: tabular-nums;
+	text-transform: uppercase;
+}
+
+.draw-in-canvas-custom-color-hex-input:focus {
+	border-color: var(--interactive-accent);
+	box-shadow: 0 0 0 2px color-mix(in srgb, var(--interactive-accent) 22%, transparent);
+	outline: none;
+}
+
+.draw-in-canvas-custom-color-hex-input.is-invalid {
+	border-color: var(--text-error);
+	box-shadow: 0 0 0 2px color-mix(in srgb, var(--text-error) 18%, transparent);
+}
+
+.draw-in-canvas-custom-color-shades {
+	display: grid;
+	grid-template-columns: repeat(6, minmax(0, 1fr));
+	gap: 2px;
+}
+
+.draw-in-canvas-custom-color-shade {
+	box-sizing: border-box;
+	width: 100%;
+	height: 14px;
+	padding: 0;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 0;
+	appearance: none;
+	-webkit-appearance: none;
+	background-color: var(--draw-in-canvas-custom-shade-color);
+	cursor: pointer;
+}
+
+.draw-in-canvas-custom-color-shade:hover,
+.draw-in-canvas-custom-color-shade:focus-visible {
+	box-shadow: 0 0 0 2px var(--background-modifier-border-hover);
+	outline: none;
+}
+
+.draw-in-canvas-custom-color-shade.is-selected {
+	box-shadow: 0 0 0 1px var(--background-primary), 0 0 0 3px var(--interactive-accent);
+}
+
+.draw-in-canvas-color-palette-tabs {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 2px;
+	padding-top: 4px;
+	border-top: 1px solid var(--background-modifier-border);
+}
+
+.draw-in-canvas-color-palette-tab {
+	display: grid;
+	place-items: center;
+	min-width: 0;
+	height: 22px;
+	padding: 0 4px;
+	border: 0;
+	border-radius: var(--radius-s);
+	appearance: none;
+	-webkit-appearance: none;
+	background: transparent;
+	box-shadow: none;
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+	font-weight: 600;
+	line-height: 1;
+	cursor: pointer;
+}
+
+.draw-in-canvas-color-palette-tab:hover,
+.draw-in-canvas-color-palette-tab:focus-visible {
+	background: var(--background-modifier-hover);
+	color: var(--text-normal);
+	outline: none;
+}
+
+.draw-in-canvas-color-palette-tab.is-active {
+	background: var(--background-modifier-hover);
+	color: var(--interactive-accent);
+}
+
+.draw-in-canvas-stroke-settings-control {
+	display: grid;
+	gap: 12px;
+	width: 100%;
+}
+
+.draw-in-canvas-palette-section {
+	display: grid;
+	gap: 8px;
+	width: 100%;
+}
+
+.draw-in-canvas-palette-section + .draw-in-canvas-palette-section {
+	padding-top: 10px;
+	border-top: 1px solid var(--background-modifier-border);
+}
+
+.draw-in-canvas-palette-section-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 10px;
+}
+
+.draw-in-canvas-palette-section-actions {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+}
+
+.draw-in-canvas-palette-section-title {
+	font-size: var(--font-ui-smaller);
+	font-weight: 600;
+	line-height: 1.2;
+	color: var(--text-normal);
+}
+
+.draw-in-canvas-palette-section-description {
+	margin: -2px 0 0;
+	font-size: var(--font-ui-smaller);
+	line-height: 1.3;
+	color: var(--text-faint);
+}
+
+.draw-in-canvas-handwriting-toggle {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	font-size: var(--font-ui-smaller);
+	line-height: 1;
+	color: var(--text-muted);
+	cursor: pointer;
+}
+
+.draw-in-canvas-handwriting-toggle-input {
+	margin: 0;
+	accent-color: var(--interactive-accent);
+}
+
+.draw-in-canvas-stroke-settings-palette .draw-in-canvas-palette-reset-button {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	height: 22px;
+	min-height: 22px;
+	max-height: 22px;
+	padding: 0 6px;
+	border: 0;
+	border-radius: var(--radius-s);
+	appearance: none;
+	-webkit-appearance: none;
+	background: transparent;
+	box-shadow: none;
+	color: var(--text-muted);
+	font-family: inherit;
+	font-size: var(--font-ui-smaller);
+	line-height: 20px;
+	cursor: pointer;
+}
+
+.draw-in-canvas-stroke-settings-palette .draw-in-canvas-palette-reset-button:hover,
+.draw-in-canvas-stroke-settings-palette .draw-in-canvas-palette-reset-button:focus-visible {
+	background: var(--background-modifier-hover);
+	color: var(--text-normal);
+	outline: none;
+}
+
+.draw-in-canvas-freehand-controls.is-disabled .draw-in-canvas-freehand-control {
+	opacity: 0.55;
+}
+
+.draw-in-canvas-freehand-controls.is-disabled .draw-in-canvas-stroke-width-slider {
+	cursor: not-allowed;
+}
+
+.draw-in-canvas-stroke-slider-control {
+	display: grid;
+	grid-template-columns: minmax(0, 1fr) auto;
+	align-items: center;
+	gap: 4px 8px;
+}
+
+.draw-in-canvas-freehand-control {
+	padding-top: 2px;
+}
+
+.draw-in-canvas-stroke-width-label {
+	grid-column: 1 / -1;
+	grid-row: 1;
+	font-size: var(--font-ui-smaller);
+	line-height: 1.2;
+	color: var(--text-muted);
+}
+
+.draw-in-canvas-stroke-width-value {
+	grid-column: 2;
+	grid-row: 2;
+	display: inline-flex;
+	align-items: center;
+	justify-content: flex-end;
+	min-width: 44px;
+	height: 20px;
+	padding: 0 7px;
+	border-radius: 999px;
+	background: var(--background-secondary);
+	font-variant-numeric: tabular-nums;
+	line-height: 1;
+	color: var(--text-normal);
+}
+
+.draw-in-canvas-stroke-width-slider {
+	grid-column: 1;
+	grid-row: 2;
+	display: block;
+	width: 100%;
+	height: 20px;
+	margin: 0;
+	accent-color: var(--interactive-accent);
+	cursor: pointer;
+}
+
+.draw-in-canvas-stroke-settings-palette input.draw-in-canvas-stroke-width-slider[type="range"] {
+	width: 100%;
+}
+
+.draw-in-canvas-brush-preview {
+	position: fixed;
+	z-index: var(--layer-popover, 30);
+	display: inline-grid;
+	grid-template-columns: 40px auto;
+	align-items: center;
+	box-sizing: border-box;
+	min-width: 112px;
+	max-width: 180px;
+	gap: 8px;
+	padding: 8px 10px 8px 8px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 999px;
+	background: color-mix(in srgb, var(--background-primary) 94%, transparent);
+	box-shadow: var(--shadow-s);
+	color: var(--text-normal);
+	pointer-events: none;
+	user-select: none;
+}
+
+.draw-in-canvas-brush-preview-sample {
+	display: grid;
+	place-items: center;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background: var(--background-secondary);
+	box-shadow: inset 0 0 0 1px var(--background-modifier-border);
+}
+
+.draw-in-canvas-brush-preview-dot {
+	display: block;
+	width: var(--draw-in-canvas-brush-preview-size, 4px);
+	height: var(--draw-in-canvas-brush-preview-size, 4px);
+	border: 1px solid var(--background-primary);
+	border-radius: 50%;
+	background: var(--draw-in-canvas-brush-preview-color, currentColor);
+	opacity: var(--draw-in-canvas-brush-preview-opacity, 1);
+	box-shadow: 0 0 0 1px var(--background-modifier-border);
+}
+
+.draw-in-canvas-brush-preview-text {
+	display: grid;
+	min-width: 0;
+	gap: 2px;
+}
+
+.draw-in-canvas-brush-preview-value,
+.draw-in-canvas-brush-preview-detail {
+	overflow: hidden;
+	font-variant-numeric: tabular-nums;
+	line-height: 1;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.draw-in-canvas-brush-preview-value {
+	font-size: var(--font-ui-small);
+	font-weight: 600;
+}
+
+.draw-in-canvas-brush-preview-detail {
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+}
+
+.draw-in-canvas-control-item.is-active {
+	background-color: var(--background-modifier-hover);
+	color: var(--interactive-accent);
+}
+
+.draw-in-canvas-control-item.is-active svg {
+	stroke-width: 2.5px;
+}
+
+.canvas-menu .draw-in-canvas-scale-button svg {
+	stroke-width: 2.4px;
+}
+
+/* Obsidian's native reset/fit zoom icons are visually similar; use short text labels instead. */
+.canvas-controls .canvas-control-item[aria-label^="Reset zoom"],
+.canvas-controls .canvas-control-item[aria-label^="Zoom to fit"],
+.canvas-controls .canvas-control-item[aria-label^="Fit"] {
+	position: relative;
+	overflow: hidden;
+}
+
+.canvas-controls .canvas-control-item[aria-label^="Reset zoom"] svg,
+.canvas-controls .canvas-control-item[aria-label^="Zoom to fit"] svg,
+.canvas-controls .canvas-control-item[aria-label^="Fit"] svg {
+	visibility: hidden;
+}
+
+.canvas-controls .canvas-control-item[aria-label^="Reset zoom"]::before,
+.canvas-controls .canvas-control-item[aria-label^="Zoom to fit"]::before,
+.canvas-controls .canvas-control-item[aria-label^="Fit"]::before {
+	position: absolute;
+	inset: 0;
+	display: grid;
+	place-items: center;
+	color: currentColor;
+	font-size: 10px;
+	font-weight: 700;
+	font-variant-numeric: tabular-nums;
+	letter-spacing: -0.06em;
+	line-height: 1;
+	pointer-events: none;
+}
+
+.canvas-controls .canvas-control-item[aria-label^="Reset zoom"]::before {
+	content: "100%";
+}
+
+.canvas-controls .canvas-control-item[aria-label^="Zoom to fit"]::before,
+.canvas-controls .canvas-control-item[aria-label^="Fit"]::before {
+	content: "Fit";
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node .canvas-node-container {
+	border-width: 0;
+	border-radius: min(var(--radius-m), 4%);
+	box-shadow:
+		inset 0 0 0 var(--draw-in-canvas-tiny-border-width, 1px) var(--background-modifier-border),
+		0 var(--draw-in-canvas-tiny-card-shadow-y, 0.5px) var(--draw-in-canvas-tiny-card-shadow-blur, 1px) var(--draw-in-canvas-tiny-card-shadow-spread, 0.5px) rgb(0 0 0 / 0.1);
+}
+
+/* Obsidian image embeds add a 3px end/bottom gutter; at tiny canvas sizes that becomes a large zoomed gap. */
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-content.media-embed.image-embed {
+	width: 100%;
+	height: 100%;
+	min-width: 0;
+	min-height: 0;
+	padding: 0;
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-content.media-embed.image-embed > img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	min-width: 0;
+	min-height: 0;
+	max-width: none;
+	max-height: none;
+	object-fit: contain;
+	object-position: center;
+	flex: 0 1 auto;
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-selection {
+	border-width: 0;
+	box-shadow: inset 0 0 0 var(--draw-in-canvas-tiny-selection-border-width, 2px) var(--color-accent);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-selection:not(.mod-group-selection):not(.mod-node-highlight) {
+	z-index: 10000;
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-selection.mod-group-selection {
+	border-radius: var(--draw-in-canvas-tiny-group-selection-radius, 3px);
+	box-shadow: inset 0 0 0 var(--draw-in-canvas-tiny-group-selection-border-width, 3px) hsla(var(--color-accent-hsl), 0.3);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-label {
+	top: var(--draw-in-canvas-tiny-label-gap, -1px);
+	width: calc(var(--canvas-node-width) / var(--draw-in-canvas-tiny-label-scale, var(--zoom-multiplier)));
+	max-width: calc(var(--canvas-node-width) / var(--draw-in-canvas-tiny-label-scale, var(--zoom-multiplier)));
+	transform: translateY(-100%) scale(var(--draw-in-canvas-tiny-label-scale, var(--zoom-multiplier)));
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node:is(.is-selected, .is-focused) .canvas-node-container {
+	border-width: 0;
+	box-shadow: 0 0 0 var(--draw-in-canvas-tiny-focus-spread, 2px) var(--color-accent);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node:is(.is-selected, .is-focused).is-themed .canvas-node-container {
+	box-shadow:
+		inset 0 0 0 var(--draw-in-canvas-tiny-border-width, 1px) rgb(var(--canvas-color)),
+		0 0 0 var(--draw-in-canvas-tiny-focus-spread, 2px) rgb(var(--canvas-color));
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-resizer {
+	--draw-in-canvas-tiny-resizer-layout-size: max(
+		var(--draw-in-canvas-tiny-resizer-size, calc(var(--resizer-size) * var(--zoom-multiplier))),
+		var(--draw-in-canvas-tiny-resizer-min-layout-size, 0.022px)
+	);
+
+	height: var(--draw-in-canvas-tiny-resizer-layout-size);
+	width: var(--draw-in-canvas-tiny-resizer-layout-size);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-connection-point {
+	--draw-in-canvas-tiny-connection-layout-size: max(
+		var(--draw-in-canvas-tiny-connection-size, calc(var(--resizer-size) * var(--zoom-multiplier))),
+		var(--draw-in-canvas-tiny-connection-min-layout-size, 0.022px)
+	);
+
+	height: var(--draw-in-canvas-tiny-connection-layout-size);
+	width: var(--draw-in-canvas-tiny-connection-layout-size);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-resizer[data-resize="top"] {
+	top: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+	width: auto;
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-resizer[data-resize="bottom"] {
+	bottom: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+	width: auto;
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-resizer[data-resize="left"] {
+	height: auto;
+	left: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-resizer[data-resize="right"] {
+	height: auto;
+	right: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-resizer[data-resize="topright"] {
+	right: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+	top: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+	z-index: 1;
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-resizer[data-resize="bottomright"] {
+	bottom: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+	right: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+	z-index: 1;
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-resizer[data-resize="topleft"] {
+	left: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+	top: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+	z-index: 1;
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-resizer[data-resize="bottomleft"] {
+	bottom: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+	left: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / -2);
+	z-index: 1;
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-connection-point[data-side="top"],
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-connection-point[data-side="bottom"] {
+	left: calc(50% - var(--draw-in-canvas-tiny-connection-layout-size) / 2);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-connection-point[data-side="top"] {
+	top: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / 2 - var(--draw-in-canvas-tiny-connection-layout-size) / 2);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-connection-point[data-side="bottom"] {
+	bottom: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / 2 - var(--draw-in-canvas-tiny-connection-layout-size) / 2);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-connection-point[data-side="left"],
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-connection-point[data-side="right"] {
+	top: calc(50% - var(--draw-in-canvas-tiny-connection-layout-size) / 2);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-connection-point[data-side="left"] {
+	left: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / 2 - var(--draw-in-canvas-tiny-connection-layout-size) / 2);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-connection-point[data-side="right"] {
+	right: calc(var(--draw-in-canvas-tiny-resizer-layout-size) / 2 - var(--draw-in-canvas-tiny-connection-layout-size) / 2);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-node-connection-point::after {
+	border: var(--draw-in-canvas-tiny-connection-native-border, 3px) solid var(--background-modifier-border);
+	height: var(--draw-in-canvas-tiny-connection-native-size, calc(var(--resizer-size) * var(--zoom-multiplier)));
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%) scale(var(--draw-in-canvas-tiny-connection-scale, 1));
+	transform-origin: center;
+	width: var(--draw-in-canvas-tiny-connection-native-size, calc(var(--resizer-size) * var(--zoom-multiplier)));
+}
+
+/* Let native edge visuals shrink when zoomed out, but cap them to readable screen sizes when zoomed in. */
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-edges path.canvas-display-path {
+	stroke-width: var(--draw-in-canvas-tiny-edge-width, 2px);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-edges path.canvas-interaction-path {
+	stroke-width: var(--draw-in-canvas-tiny-edge-hit-width, calc(24px * var(--zoom-multiplier)));
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-edges polygon.canvas-path-end {
+	stroke-width: 1px;
+	transform: scale(var(--draw-in-canvas-tiny-edge-arrow-scale, 1));
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-edges g.is-focused path.canvas-display-path,
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas:not(.is-connecting) .canvas-edges g:hover path.canvas-display-path {
+	stroke-width: var(--draw-in-canvas-tiny-edge-focus-width, 5.5px);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-snaps line {
+	stroke-width: var(--draw-in-canvas-tiny-snap-line-width, 1px);
+}
+
+.canvas-wrapper.draw-in-canvas-tiny-control-scale .canvas-snaps circle {
+	transform: scale(var(--draw-in-canvas-tiny-snap-point-scale, 1));
+	transform-box: fill-box;
+	transform-origin: center;
+}
+
+.canvas-node-content.draw-in-canvas-scaled-node-content .markdown-preview-view {
+	overflow: hidden;
+	scrollbar-gutter: auto;
+}
+
+.draw-in-canvas-render-layer {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	width: 1px;
+	height: 1px;
+	overflow: visible;
+	pointer-events: none;
+}
+
+.draw-in-canvas-stroke-raster {
+	overflow: visible;
+	pointer-events: none;
+}
+
+.draw-in-canvas-stroke-raster-canvas {
+	display: block;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+}
+
+.draw-in-canvas-stroke {
+	pointer-events: none;
+}
+
+.draw-in-canvas-stroke.mod-handwritten {
+	fill-opacity: 0.96;
+}
+
+
+.draw-in-canvas-stroke-wrapper.is-selected {
+	filter: drop-shadow(0 0 2px var(--interactive-accent));
+}
+
+.canvas-menu-container.draw-in-canvas-stroke-scale-menu-container {
+	position: absolute;
+	z-index: 1002;
+	width: max-content;
+	right: auto;
+	bottom: auto;
+	transform: none;
+	pointer-events: auto;
+}
+
+.canvas-menu.draw-in-canvas-stroke-scale-menu {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	max-width: var(--draw-in-canvas-stroke-scale-menu-max-width, none);
+}
+
+.draw-in-canvas-stroke-action-button {
+	position: relative;
+	touch-action: none;
+}
+
+.draw-in-canvas-layer-menu {
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+
+.draw-in-canvas-layer-menu-button,
+.draw-in-canvas-layer-submenu-button {
+	position: relative;
+	touch-action: none;
+}
+
+.canvas-menu.draw-in-canvas-layer-submenu {
+	position: absolute;
+	top: calc(100% + 6px);
+	left: 50%;
+	z-index: 1003;
+	display: none;
+	width: max-content;
+	transform: translateX(-50%);
+}
+
+.draw-in-canvas-layer-menu.is-open > .draw-in-canvas-layer-submenu {
+	display: flex;
+}
+
+.draw-in-canvas-stroke-action-button:disabled,
+.draw-in-canvas-layer-submenu-button:disabled {
+	cursor: not-allowed;
+	opacity: 0.45;
+}
+
+
+.draw-in-canvas-stroke-delete-button {
+	color: var(--text-error);
+}
+
+.draw-in-canvas-selection-box {
+	fill: none;
+	stroke: var(--interactive-accent);
+	stroke-width: 1.5;
+	stroke-dasharray: 6 4;
+	pointer-events: none;
+}
+
+.draw-in-canvas-selection-handle {
+	fill: var(--background-primary);
+	stroke: var(--interactive-accent);
+	stroke-width: 1.5;
+	pointer-events: none;
+	filter: drop-shadow(0 1px 2px rgb(0 0 0 / 0.18));
+}
+
+.draw-in-canvas-selection-handle.mod-nw,
+.draw-in-canvas-selection-handle.mod-se {
+	cursor: nwse-resize;
+}
+
+.draw-in-canvas-selection-handle.mod-ne,
+.draw-in-canvas-selection-handle.mod-sw {
+	cursor: nesw-resize;
+}
+
+.draw-in-canvas-stale.draw-in-canvas-stale {
+	display: none;
+	pointer-events: none;
+}

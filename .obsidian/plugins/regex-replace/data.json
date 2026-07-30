@@ -1,0 +1,56 @@
+{
+  "defaultFlags": "g",
+  "historyLimit": 10,
+  "showPreview": true,
+  "recentPatterns": [
+    {
+      "search": "\\n> \\n",
+      "replace": "",
+      "flags": "g",
+      "timestamp": 1783609021817
+    },
+    {
+      "search": "\\n> \\[",
+      "replace": "\\n\\n> \\[",
+      "flags": "g",
+      "timestamp": 1783608653464
+    },
+    {
+      "search": "#flashcards",
+      "replace": "+++\\n#flashcards",
+      "flags": "g",
+      "timestamp": 1783587701611
+    },
+    {
+      "search": "#####",
+      "replace": "#flashcards\\n#####",
+      "flags": "g",
+      "timestamp": 1783587682914
+    },
+    {
+      "search": "\\?\\**",
+      "replace": "\\?**\\n?",
+      "flags": "g",
+      "timestamp": 1783587655316
+    },
+    {
+      "search": "\\?",
+      "replace": "?\\n?\\n",
+      "flags": "g",
+      "timestamp": 1783587575764
+    },
+    {
+      "search": "#####.*",
+      "replace": "#flashcards\\n$1\\n?\\n",
+      "flags": "g",
+      "timestamp": 1783587335393
+    },
+    {
+      "search": "##### \\*\\*What.*\\?\\s*",
+      "replace": "#flashcards\\n$1\\n?\\n",
+      "flags": "g",
+      "timestamp": 1783587228775
+    }
+  ],
+  "ruleSets": []
+}

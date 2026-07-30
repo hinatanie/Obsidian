@@ -1,0 +1,819 @@
+{
+  "settings": {
+    "showBlockIndexStatus": true,
+    "hideLogseqProperties": true,
+    "hiddenLogseqPropertyKeys": ".lsp-*\\\\.v-*\\\\alias\\\\aliases\\\\background-color\\\\card-*\\\\col-*\\\\collapsed\\\\created-at\\\\deck\\\\direction\\\\doing\\\\done\\\\excalidraw-*\\\\file\\\\file-name\\\\file-path\\\\filters\\\\heading\\\\hl-*\\\\icon\\\\id\\\\later\\\\logseq.order-list-type\\\\ls-type\\\\now\\\\public\\\\query-*\\\\Registry\\\\template\\\\template-including-parent\\\\title\\\\todo\\\\type\\\\updated-at\\\\wait",
+    "enablePasteClipboardAsOutline": false,
+    "enableDualPagePropertySync": false,
+    "dualPagePropertyWhitelist": "alias<->aliases",
+    "dualPagePropertyFolders": ""
+  },
+  "indexCache": {
+    "schemaVersion": 4,
+    "parserRevision": 3,
+    "builtAt": 1785380282044,
+    "files": {
+      "4. Ielts/2. Writing/1. 2025 february writting.md": {
+        "path": "4. Ielts/2. Writing/1. 2025 february writting.md",
+        "mtime": 1783492207146,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "4. Ielts/3. Speaking/1. 2025 february speaking.md": {
+        "path": "4. Ielts/3. Speaking/1. 2025 february speaking.md",
+        "mtime": 1783492176189,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "4. Ielts/1. Listening/1. 2025 february listening/4..md": {
+        "path": "4. Ielts/1. Listening/1. 2025 february listening/4..md",
+        "mtime": 1783492416890,
+        "size": 4985,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "4. Ielts/1. Listening/1. 2025 february listening/3..md": {
+        "path": "4. Ielts/1. Listening/1. 2025 february listening/3..md",
+        "mtime": 1783492393396,
+        "size": 3793,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "4. Ielts/1. Listening/1. 2025 february listening/1..md": {
+        "path": "4. Ielts/1. Listening/1. 2025 february listening/1..md",
+        "mtime": 1783492445738,
+        "size": 5035,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "4. Ielts/1. Listening/1. 2025 february listening/2..md": {
+        "path": "4. Ielts/1. Listening/1. 2025 february listening/2..md",
+        "mtime": 1783492365381,
+        "size": 3571,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "4. Ielts/1. Listening/2. 2025 january listening/4..md": {
+        "path": "4. Ielts/1. Listening/2. 2025 january listening/4..md",
+        "mtime": 1783492641593,
+        "size": 4318,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "4. Ielts/1. Listening/2. 2025 january listening/3..md": {
+        "path": "4. Ielts/1. Listening/2. 2025 january listening/3..md",
+        "mtime": 1783492621115,
+        "size": 3634,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "4. Ielts/1. Listening/2. 2025 january listening/2..md": {
+        "path": "4. Ielts/1. Listening/2. 2025 january listening/2..md",
+        "mtime": 1783492582303,
+        "size": 3460,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "4. Ielts/1. Listening/2. 2025 january listening/1..md": {
+        "path": "4. Ielts/1. Listening/2. 2025 january listening/1..md",
+        "mtime": 1783492559666,
+        "size": 2964,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "3. Todo list/1. todo list.md": {
+        "path": "3. Todo list/1. todo list.md",
+        "mtime": 1783478913701,
+        "size": 387,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/1. Database/2. Docker-compose.md": {
+        "path": "2. Aws/2. Auction/1. Database/2. Docker-compose.md",
+        "mtime": 1783045904900,
+        "size": 136,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/5. API Design/API Design.md": {
+        "path": "2. Aws/2. Auction/5. API Design/API Design.md",
+        "mtime": 1783497047752,
+        "size": 16805,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/1. Backend Spring use case.md": {
+        "path": "2. Aws/2. Auction/4. Use case/1. Backend Spring use case.md",
+        "mtime": 1783494638150,
+        "size": 20965,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md",
+        "mtime": 1783494422646,
+        "size": 14943,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/2. Phases/Phase 5 Deploy React Frontend.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 5 Deploy React Frontend.md",
+        "mtime": 1783494435074,
+        "size": 12287,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/2. Phases/Phase 4 Deploy Backend Spring Boot.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 4 Deploy Backend Spring Boot.md",
+        "mtime": 1783494320631,
+        "size": 13554,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md",
+        "mtime": 1783494453457,
+        "size": 10780,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/2. Phases/Phase 2 Networking cho app.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 2 Networking cho app.md",
+        "mtime": 1783494475827,
+        "size": 9241,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/2. Phases/Phase 1 AWS.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 1 AWS.md",
+        "mtime": 1783494203701,
+        "size": 7053,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/2. Checklist.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/2. Checklist.md",
+        "mtime": 1783486096111,
+        "size": 19204,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/1. Introduction.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/1. Introduction.md",
+        "mtime": 1782225766295,
+        "size": 5022,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/2. Checklist.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/2. Checklist.md",
+        "mtime": 1783485993066,
+        "size": 23304,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/1. INTRODUCTION.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/1. INTRODUCTION.md",
+        "mtime": 1782188802919,
+        "size": 12504,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/5. Checklist for NAT Gateway.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/5. Checklist for NAT Gateway.md",
+        "mtime": 1783485697416,
+        "size": 14161,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/4. Checklist for Internet Gateway.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/4. Checklist for Internet Gateway.md",
+        "mtime": 1783484998435,
+        "size": 10495,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md",
+        "mtime": 1783484728627,
+        "size": 10150,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/2. Checklist for subnets.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/2. Checklist for subnets.md",
+        "mtime": 1783484317714,
+        "size": 5643,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/5. NAT Gateway.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/5. NAT Gateway.md",
+        "mtime": 1782029249745,
+        "size": 2360,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/4. INTERNET GATEWAY.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/4. INTERNET GATEWAY.md",
+        "mtime": 1782027046741,
+        "size": 1047,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/3. ROUTE TABLE.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/3. ROUTE TABLE.md",
+        "mtime": 1782024809289,
+        "size": 1733,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/2. Subnets.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/2. Subnets.md",
+        "mtime": 1782022135492,
+        "size": 1502,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md",
+        "mtime": 1782098002397,
+        "size": 5374,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/2. Security Group.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/2. Security Group.md",
+        "mtime": 1782052494320,
+        "size": 5061,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/3. Checklist for NETWORK ACLS.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/3. Checklist for NETWORK ACLS.md",
+        "mtime": 1783485812626,
+        "size": 14283,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/2. Checklist for Security Group.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/2. Checklist for Security Group.md",
+        "mtime": 1783485741382,
+        "size": 5061,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/1. Checklist for Firewall in VPC.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/1. Checklist for Firewall in VPC.md",
+        "mtime": 1783485351506,
+        "size": 18764,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/3. NETWORK ACLS.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/3. NETWORK ACLS.md",
+        "mtime": 1782098913843,
+        "size": 2498,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/1. Firewall in VPC.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/1. Firewall in VPC.md",
+        "mtime": 1782051609143,
+        "size": 3694,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/2. Checklist.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/2. Checklist.md",
+        "mtime": 1783486198102,
+        "size": 19071,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/1. Amazon Relational Database Service (Amazon RDS).md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/1. Amazon Relational Database Service (Amazon RDS).md",
+        "mtime": 1782230098771,
+        "size": 3639,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/3. Django/2. Steps to run Django backend.md": {
+        "path": "1. IT/3. Django/2. Steps to run Django backend.md",
+        "mtime": 1783483038896,
+        "size": 8306,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/1. Code/1. Step to step.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/1. Code/1. Step to step.md",
+        "mtime": 1782724394298,
+        "size": 15445,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/5. Checklist for JwtAuthenticationFilter.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/5. Checklist for JwtAuthenticationFilter.md",
+        "mtime": 1783483887295,
+        "size": 4683,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/6. Checklist for theory of JWT.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/6. Checklist for theory of JWT.md",
+        "mtime": 1783483879285,
+        "size": 7338,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/3. Checklist for AuthController.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/3. Checklist for AuthController.md",
+        "mtime": 1782723566784,
+        "size": 4237,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/4. Checklist for PasswordConfig.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/4. Checklist for PasswordConfig.md",
+        "mtime": 1783483904913,
+        "size": 1406,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/2. Checklist for AuthService.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/2. Checklist for AuthService.md",
+        "mtime": 1782720196570,
+        "size": 3641,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/1. Checklist for JwtService.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/1. Checklist for JwtService.md",
+        "mtime": 1782719571065,
+        "size": 7672,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/1. Create new project.md": {
+        "path": "1. IT/5. Spring boot/1. Create new project.md",
+        "mtime": 1783483802497,
+        "size": 14753,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/2. Docker/1. Docker Command line.md": {
+        "path": "1. IT/2. Docker/1. Docker Command line.md",
+        "mtime": 1783482292725,
+        "size": 1445,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/1. Database/1. MySQL/1. MySql Command line.md": {
+        "path": "1. IT/1. Database/1. MySQL/1. MySql Command line.md",
+        "mtime": 1783482227694,
+        "size": 1620,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "3. Todo list/2. Anything before.md": {
+        "path": "3. Todo list/2. Anything before.md",
+        "mtime": 1783695620400,
+        "size": 927,
+        "blockIds": [],
+        "referencedIds": [
+          "9587a973-3a76-43c5-bb7c-5d486914efd7"
+        ]
+      },
+      "30 days.md": {
+        "path": "30 days.md",
+        "mtime": 1784357974130,
+        "size": 6885,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "5. Assignment/1. ass1.md": {
+        "path": "5. Assignment/1. ass1.md",
+        "mtime": 1784362687927,
+        "size": 2593,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/Trello/Trello.md": {
+        "path": "1. IT/Trello/Trello.md",
+        "mtime": 1784362844327,
+        "size": 25889,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/2. Docker/1. Explain docker-compose.md": {
+        "path": "1. IT/2. Docker/1. Explain docker-compose.md",
+        "mtime": 1784363273792,
+        "size": 7352,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Test.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Test.md",
+        "mtime": 1784513124316,
+        "size": 49,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC01 - Register User.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC01 - Register User.md",
+        "mtime": 1784515292700,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC02 - Login User.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC02 - Login User.md",
+        "mtime": 1784515306597,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC03 - Create Auction Session.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC03 - Create Auction Session.md",
+        "mtime": 1784515324441,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC06 - Create Auction Item.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC06 - Create Auction Item.md",
+        "mtime": 1784515339021,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC04 - View Auction Session List.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC04 - View Auction Session List.md",
+        "mtime": 1784515357755,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC05 - View Auction Session Detail.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC05 - View Auction Session Detail.md",
+        "mtime": 1784515373136,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC07 - Upload Auction Item Images.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC07 - Upload Auction Item Images.md",
+        "mtime": 1784515387668,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC08 - View Auction Item Detail.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC08 - View Auction Item Detail.md",
+        "mtime": 1784515402149,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC11 - View My Auction Sessions.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC11 - View My Auction Sessions.md",
+        "mtime": 1784515434843,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC15- Create Category.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC15- Create Category.md",
+        "mtime": 1784515525884,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC16 - Create Admin User.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC16 - Create Admin User.md",
+        "mtime": 1784515564997,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/Main.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/Main.md",
+        "mtime": 1784516133465,
+        "size": 4241,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC09 - Place Bid.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC09 - Place Bid.md",
+        "mtime": 1784516286531,
+        "size": 21635,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC10 - View My Bids.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC10 - View My Bids.md",
+        "mtime": 1784517012093,
+        "size": 26326,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC12 - Start Auction Session.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC12 - Start Auction Session.md",
+        "mtime": 1784519000348,
+        "size": 16623,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/2. Frontend use case.md": {
+        "path": "2. Aws/2. Auction/4. Use case/2. Frontend use case.md",
+        "mtime": 1784520895036,
+        "size": 22188,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc1.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc1.md",
+        "mtime": 1784217775884,
+        "size": 2634,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc3.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc3.md",
+        "mtime": 1784434646486,
+        "size": 28532,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc2.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc2.md",
+        "mtime": 1784436558553,
+        "size": 12621,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/1. users.md": {
+        "path": "2. Aws/2. Auction/7. Data/1. users.md",
+        "mtime": 1784619624099,
+        "size": 9969,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/3. auction_session_rules.md": {
+        "path": "2. Aws/2. Auction/7. Data/3. auction_session_rules.md",
+        "mtime": 1784620811070,
+        "size": 6240,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/2. auction_sessions.md": {
+        "path": "2. Aws/2. Auction/7. Data/2. auction_sessions.md",
+        "mtime": 1784622077689,
+        "size": 25756,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/5. categories.md": {
+        "path": "2. Aws/2. Auction/7. Data/5. categories.md",
+        "mtime": 1784623619156,
+        "size": 211,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/1. Database/1. Database.md": {
+        "path": "2. Aws/2. Auction/1. Database/1. Database.md",
+        "mtime": 1784624695043,
+        "size": 8632,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/6. item_images.md": {
+        "path": "2. Aws/2. Auction/7. Data/6. item_images.md",
+        "mtime": 1784625514943,
+        "size": 25202,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/4. auction_items.md": {
+        "path": "2. Aws/2. Auction/7. Data/4. auction_items.md",
+        "mtime": 1784626578905,
+        "size": 19171,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/3. Backend use case.md": {
+        "path": "2. Aws/2. Auction/4. Use case/3. Backend use case.md",
+        "mtime": 1784641430078,
+        "size": 60868,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/8. Test.md": {
+        "path": "2. Aws/2. Auction/8. Test.md",
+        "mtime": 1784695852957,
+        "size": 8298,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled.md": {
+        "path": "Untitled.md",
+        "mtime": 1784703536892,
+        "size": 37711,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc4.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc4.md",
+        "mtime": 1784712330792,
+        "size": 33060,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 1.md": {
+        "path": "Untitled 1.md",
+        "mtime": 1784731992823,
+        "size": 19610,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 2.md": {
+        "path": "Untitled 2.md",
+        "mtime": 1784733188309,
+        "size": 38631,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc5.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc5.md",
+        "mtime": 1784778608268,
+        "size": 12814,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 4.md": {
+        "path": "Untitled 4.md",
+        "mtime": 1784782578057,
+        "size": 19516,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 3.md": {
+        "path": "Untitled 3.md",
+        "mtime": 1784782625511,
+        "size": 13657,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 5.md": {
+        "path": "Untitled 5.md",
+        "mtime": 1784786390311,
+        "size": 13274,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "lambda.md": {
+        "path": "lambda.md",
+        "mtime": 1784877839388,
+        "size": 21326,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Calendar/2026-07-28 create an api .md": {
+        "path": "Calendar/2026-07-28 create an api .md",
+        "mtime": 1785142051966,
+        "size": 109,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 7.md": {
+        "path": "Untitled 7.md",
+        "mtime": 1785253861635,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc6.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc6.md",
+        "mtime": 1785321189133,
+        "size": 24115,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Syro Sidebar Review Tutorial.md": {
+        "path": "Syro Sidebar Review Tutorial.md",
+        "mtime": 1785321498976,
+        "size": 2049,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 6.md": {
+        "path": "Untitled 6.md",
+        "mtime": 1785321576564,
+        "size": 2974,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
+        "mtime": 1785333810264,
+        "size": 13630,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "prompt.md": {
+        "path": "prompt.md",
+        "mtime": 1785334022432,
+        "size": 30783,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "spaced repetition/1. Checklist for Amazon VPC.md": {
+        "path": "spaced repetition/1. Checklist for Amazon VPC.md",
+        "mtime": 1785341407378,
+        "size": 19247,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "spaced repetition/2. Checklist for subnets.md": {
+        "path": "spaced repetition/2. Checklist for subnets.md",
+        "mtime": 1783484317714,
+        "size": 5643,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "3. Todo list/3. Anything about AWS before.md": {
+        "path": "3. Todo list/3. Anything about AWS before.md",
+        "mtime": 1785380281014,
+        "size": 1338,
+        "blockIds": [
+          "e78c0dbf-a2dc-47ea-bec9-381a67c6621e"
+        ],
+        "referencedIds": []
+      }
+    },
+    "blocks": {
+      "e78c0dbf-a2dc-47ea-bec9-381a67c6621e": {
+        "id": "e78c0dbf-a2dc-47ea-bec9-381a67c6621e",
+        "filePath": "3. Todo list/3. Anything about AWS before.md",
+        "rawContent": "[ ] Learn `Amazon VPC` [[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC]]",
+        "childrenMarkdown": "",
+        "startLine": 0,
+        "endLine": 1,
+        "childrenIDs": [],
+        "sourceUpdatedAt": 1785380281014,
+        "status": "active",
+        "firstSeenAt": 1783695488143,
+        "lastSeenAt": 1785380281033
+      },
+      "9587a973-3a76-43c5-bb7c-5d486914efd7": {
+        "id": "9587a973-3a76-43c5-bb7c-5d486914efd7",
+        "filePath": "Telegram todo list/07.2026/06-12.07.2026.md",
+        "rawContent": "[ ] Đã đến giờ ôn tập rồi (@2026-07-10 14:21)",
+        "childrenMarkdown": "",
+        "startLine": 1,
+        "endLine": 2,
+        "childrenIDs": [],
+        "sourceUpdatedAt": 1783695805636,
+        "status": "stale",
+        "firstSeenAt": 1783695583210,
+        "lastSeenAt": 1783695805689,
+        "lostAt": 1783695808051
+      }
+    },
+    "refsById": {
+      "9587a973-3a76-43c5-bb7c-5d486914efd7": [
+        {
+          "filePath": "3. Todo list/2. Anything before.md",
+          "line": 14,
+          "ch": 0,
+          "kind": "inline"
+        }
+      ]
+    },
+    "sourceBlocksByFile": {
+      "3. Todo list/3. Anything about AWS before.md": [
+        {
+          "id": "e78c0dbf-a2dc-47ea-bec9-381a67c6621e",
+          "filePath": "3. Todo list/3. Anything about AWS before.md",
+          "rawContent": "[ ] Learn `Amazon VPC` [[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC]]",
+          "childrenMarkdown": "",
+          "startLine": 0,
+          "endLine": 1,
+          "childrenIDs": [],
+          "sourceUpdatedAt": 1785380281014,
+          "status": "active",
+          "firstSeenAt": 1783695488143,
+          "lastSeenAt": 1785380281033
+        }
+      ]
+    }
+  },
+  "dualPropertySyncState": {
+    "schemaVersion": 1,
+    "snapshots": {},
+    "repairGuards": {},
+    "cleanupRecoveryJobs": []
+  }
+}

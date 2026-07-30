@@ -1,0 +1,2210 @@
+{
+  "copyLinkToElemenetAnchorTo100": false,
+  "copyFrameLinkByName": false,
+  "disableDoubleClickTextEditing": false,
+  "phoneFooterSafeAreaPadding": false,
+  "folder": "Excalidraw",
+  "cropFolder": "",
+  "annotateFolder": "",
+  "embedUseExcalidrawFolder": false,
+  "templateFilePath": "Excalidraw/Template.excalidraw",
+  "scriptFolderPath": "Excalidraw/Scripts",
+  "fontAssetsPath": "Excalidraw/CJK Fonts",
+  "loadChineseFonts": false,
+  "loadJapaneseFonts": false,
+  "loadKoreanFonts": false,
+  "compress": true,
+  "decompressForMDView": false,
+  "onceOffCompressFlagReset": true,
+  "onceOffGPTVersionReset": true,
+  "autosave": true,
+  "autosaveIntervalDesktop": 60000,
+  "autosaveIntervalMobile": 30000,
+  "drawingFilenamePrefix": "Drawing ",
+  "drawingEmbedPrefixWithFilename": true,
+  "drawingFilnameEmbedPostfix": " ",
+  "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "useExcalidrawExtension": true,
+  "cropSuffix": "",
+  "cropPrefix": "cropped_",
+  "annotateSuffix": "",
+  "annotatePrefix": "annotated_",
+  "annotatePreserveSize": false,
+  "displaySVGInPreview": false,
+  "previewImageType": "SVG",
+  "renderingConcurrency": 3,
+  "imageCacheRetentionDays": 30,
+  "allowImageCache": true,
+  "allowImageCacheInScene": true,
+  "displayExportedImageIfAvailable": false,
+  "previewMatchObsidianTheme": false,
+  "width": "400",
+  "height": "",
+  "overrideObsidianFontSize": false,
+  "dynamicStyling": "colorful",
+  "isLeftHanded": false,
+  "desktopUIMode": "tray",
+  "tabletUIMode": "compact",
+  "phoneUIMode": "mobile",
+  "iframeMatchExcalidrawTheme": true,
+  "matchTheme": false,
+  "matchThemeAlways": false,
+  "matchThemeTrigger": false,
+  "defaultMode": "normal",
+  "defaultPenMode": "never",
+  "penModeDoubleTapEraser": true,
+  "penModeSingleFingerPanning": true,
+  "penModeCrosshairVisible": true,
+  "panWithRightMouseButton": false,
+  "renderImageInMarkdownReadingMode": false,
+  "renderImageInHoverPreviewForMDNotes": false,
+  "renderImageInMarkdownToPDF": false,
+  "allowPinchZoom": false,
+  "allowWheelZoom": false,
+  "zoomToFitOnOpen": true,
+  "zoomToFitOnResize": false,
+  "zoomToFitMaxLevel": 2,
+  "zoomStep": 0.05,
+  "zoomMin": 0.1,
+  "zoomMax": 30,
+  "linkPrefix": "",
+  "urlPrefix": "",
+  "parseTODO": false,
+  "todo": "☐",
+  "done": "🗹",
+  "hoverPreviewWithoutCTRL": false,
+  "linkOpacity": 1,
+  "openInAdjacentPane": true,
+  "showSecondOrderLinks": true,
+  "focusOnFileTab": true,
+  "openInMainWorkspace": true,
+  "showLinkBrackets": false,
+  "syncElementLinkWithText": false,
+  "allowCtrlClick": true,
+  "forceWrap": false,
+  "pageTransclusionCharLimit": 200,
+  "wordWrappingDefault": 0,
+  "removeTransclusionQuoteSigns": true,
+  "oEmbedAllowed": false,
+  "pngExportScale": 1,
+  "exportWithTheme": true,
+  "exportWithBackground": true,
+  "exportPaddingSVG": 10,
+  "exportEmbedScene": false,
+  "keepInSync": false,
+  "autoexportSVG": false,
+  "autoexportPNG": false,
+  "autoExportLightAndDark": false,
+  "autoexportExcalidraw": false,
+  "embedType": "excalidraw",
+  "embedMarkdownCommentLinks": true,
+  "embedWikiLink": true,
+  "embedPlaceholderImage": true,
+  "syncExcalidraw": false,
+  "experimentalFileType": false,
+  "experimentalFileTag": "✏️",
+  "experimentalLivePreview": true,
+  "fadeOutExcalidrawMarkup": false,
+  "loadPropertySuggestions": false,
+  "experimentalEnableFourthFont": false,
+  "experimantalFourthFont": "Virgil",
+  "addDummyTextElement": false,
+  "zoteroCompatibility": false,
+  "fieldSuggester": true,
+  "enableOnloadScripts": false,
+  "enableCommandLinks": false,
+  "compatibilityMode": false,
+  "drawingOpenCount": 0,
+  "library": "deprecated",
+  "library2": {
+    "type": "excalidrawlib",
+    "version": 2,
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag2.23.8",
+    "libraryItems": [
+      {
+        "id": "_zF3UF6H1ytgJ06ZSi-Ic",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "Udn8WmCu",
+            "type": "rectangle",
+            "x": 1020,
+            "y": 20,
+            "width": 809,
+            "height": 85,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aO",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 288632932,
+            "version": 7,
+            "versionNonce": 864433508,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "Eepa7Ev2",
+                "type": "text"
+              }
+            ],
+            "updated": 1781341045370,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "Eepa7Ev2",
+            "type": "text",
+            "x": 1025.3202514648438,
+            "y": 25,
+            "width": 798.3594970703125,
+            "height": 75,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aP",
+            "roundness": null,
+            "seed": 801297508,
+            "version": 40,
+            "versionNonce": 1868687588,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045370,
+            "link": null,
+            "locked": false,
+            "text": "AWS Budget is a service that provides the ability to set up budgets to send\nalerts when costs exceed the budget allowance (or are forecasted to exceed the\nbudget).",
+            "rawText": "AWS Budget is a service that provides the ability to set up budgets to send alerts when costs exceed the budget allowance (or are forecasted to exceed the budget).",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "Udn8WmCu",
+            "originalText": "AWS Budget is a service that provides the ability to set up budgets to send alerts when costs exceed the budget allowance (or are forecasted to exceed the budget).",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          },
+          {
+            "id": "ZCoXARbd",
+            "type": "rectangle",
+            "x": 700,
+            "y": 60,
+            "width": 209,
+            "height": 35,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aQ",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 170646244,
+            "version": 7,
+            "versionNonce": 746269796,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "96Gr10F1",
+                "type": "text"
+              }
+            ],
+            "updated": 1781341045370,
+            "locked": false,
+            "link": null,
+            "hasTextLink": false
+          },
+          {
+            "id": "96Gr10F1",
+            "type": "text",
+            "x": 705.440071105957,
+            "y": 65,
+            "width": 198.11985778808594,
+            "height": 25,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aR",
+            "roundness": null,
+            "seed": 1684137052,
+            "version": 41,
+            "versionNonce": 211812324,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045370,
+            "link": null,
+            "locked": false,
+            "text": "What is AWS budget",
+            "rawText": "What is AWS budget",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "ZCoXARbd",
+            "originalText": "What is AWS budget",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          },
+          {
+            "id": "nWejouK0",
+            "type": "arrow",
+            "x": 945,
+            "y": 65,
+            "width": 40,
+            "height": 0,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aS",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 1392753380,
+            "version": 13,
+            "versionNonce": 1205756772,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045370,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                40,
+                0
+              ]
+            ],
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow",
+            "elbowed": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "vO44gUkD",
+            "type": "rectangle",
+            "x": 700,
+            "y": 200,
+            "width": 417,
+            "height": 35,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aT",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1591055716,
+            "version": 7,
+            "versionNonce": 1686394596,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "TjeOwmGf",
+                "type": "text"
+              }
+            ],
+            "updated": 1781341045370,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "TjeOwmGf",
+            "type": "text",
+            "x": 705.3301391601562,
+            "y": 205,
+            "width": 406.3397216796875,
+            "height": 25,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aU",
+            "roundness": null,
+            "seed": 714086620,
+            "version": 23,
+            "versionNonce": 1864358500,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045370,
+            "link": null,
+            "locked": false,
+            "text": "AWS Budget includes 4 types of budgets:",
+            "rawText": "AWS Budget includes 4 types of budgets:",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "vO44gUkD",
+            "originalText": "AWS Budget includes 4 types of budgets:",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          },
+          {
+            "id": "ZrIZY8kQ",
+            "type": "rectangle",
+            "x": 1302.339958190918,
+            "y": 140,
+            "width": 136,
+            "height": 35,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aV",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1571512292,
+            "version": 7,
+            "versionNonce": 847179236,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "NnK2cAK2",
+                "type": "text"
+              }
+            ],
+            "updated": 1781341045370,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "NnK2cAK2",
+            "type": "text",
+            "x": 1307.5,
+            "y": 145,
+            "width": 125.67991638183594,
+            "height": 25,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aW",
+            "roundness": null,
+            "seed": 71260636,
+            "version": 15,
+            "versionNonce": 1873776996,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045370,
+            "link": null,
+            "locked": false,
+            "text": "Cost Budget",
+            "rawText": "Cost Budget",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "ZrIZY8kQ",
+            "originalText": "Cost Budget",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          },
+          {
+            "id": "U3UaXoOM",
+            "type": "rectangle",
+            "x": 1296.1799697875977,
+            "y": 175,
+            "width": 148,
+            "height": 35,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aX",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1869036132,
+            "version": 7,
+            "versionNonce": 369083620,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "aDREzLmT",
+                "type": "text"
+              }
+            ],
+            "updated": 1781341045370,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "aDREzLmT",
+            "type": "text",
+            "x": 1301.1800231933594,
+            "y": 180,
+            "width": 137.99989318847656,
+            "height": 25,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aY",
+            "roundness": null,
+            "seed": 1700839908,
+            "version": 15,
+            "versionNonce": 2063435876,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045370,
+            "link": null,
+            "locked": false,
+            "text": "Usage Budget",
+            "rawText": "Usage Budget",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "U3UaXoOM",
+            "originalText": "Usage Budget",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          },
+          {
+            "id": "40IcUase",
+            "type": "rectangle",
+            "x": 1313.6436314985156,
+            "y": 220,
+            "width": 115,
+            "height": 35,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aZ",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1057170660,
+            "version": 7,
+            "versionNonce": 309779428,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "s6HB5yEc",
+                "type": "text"
+              }
+            ],
+            "updated": 1781341045370,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "s6HB5yEc",
+            "type": "text",
+            "x": 1318.7436681196093,
+            "y": 225,
+            "width": 104.7999267578125,
+            "height": 25,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aa",
+            "roundness": null,
+            "seed": 795852380,
+            "version": 21,
+            "versionNonce": 645513060,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "text": "RI Budget",
+            "rawText": "RI Budget",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "40IcUase",
+            "originalText": "RI Budget",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          },
+          {
+            "id": "sEsMPU6e",
+            "type": "rectangle",
+            "x": 1260.8636784955859,
+            "y": 255,
+            "width": 221,
+            "height": 35,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "ab",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1639522148,
+            "version": 7,
+            "versionNonce": 257176292,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "yoI6UkNK",
+                "type": "arrow"
+              },
+              {
+                "id": "m8JubGJH",
+                "type": "text"
+              }
+            ],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "m8JubGJH",
+            "type": "text",
+            "x": 1266.18376211375,
+            "y": 260,
+            "width": 210.35983276367188,
+            "height": 25,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "ac",
+            "roundness": null,
+            "seed": 255255908,
+            "version": 17,
+            "versionNonce": 1804875364,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "text": "Savings Plans Budget",
+            "rawText": "Savings Plans Budget",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "sEsMPU6e",
+            "originalText": "Savings Plans Budget",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          },
+          {
+            "id": "v34cFSrw",
+            "type": "arrow",
+            "x": 1165,
+            "y": 185,
+            "width": 120,
+            "height": 40,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "ad",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 1503619684,
+            "version": 26,
+            "versionNonce": 1476905444,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                120,
+                -40
+              ]
+            ],
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow",
+            "elbowed": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "lK0OKvSj",
+            "type": "arrow",
+            "x": 1165,
+            "y": 205,
+            "width": 130.17996978759766,
+            "height": 11.946868360729155,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "ae",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 1375549028,
+            "version": 19,
+            "versionNonce": 666692964,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                130.17996978759766,
+                -11.946868360729155
+              ]
+            ],
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow",
+            "elbowed": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "kQ48y3i6",
+            "type": "arrow",
+            "x": 1165.8636784955859,
+            "y": 235,
+            "width": 120,
+            "height": 0,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "af",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 1052451036,
+            "version": 20,
+            "versionNonce": 469868772,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                120,
+                0
+              ]
+            ],
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow",
+            "elbowed": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "yoI6UkNK",
+            "type": "arrow",
+            "x": 1165.8636784955859,
+            "y": 255,
+            "width": 94,
+            "height": 16.452349999999967,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "ag",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 461589476,
+            "version": 17,
+            "versionNonce": 476308580,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                94,
+                16.452349999999967
+              ]
+            ],
+            "startBinding": null,
+            "endBinding": {
+              "elementId": "sEsMPU6e",
+              "mode": "orbit",
+              "fixedPoint": [
+                0,
+                0.5001
+              ]
+            },
+            "startArrowhead": null,
+            "endArrowhead": "arrow",
+            "elbowed": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "xyPPgktZ",
+            "type": "rectangle",
+            "x": 1500,
+            "y": 140,
+            "width": 1130,
+            "height": 35,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "ah",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 407653732,
+            "version": 7,
+            "versionNonce": 1857140708,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "YdO9qh3f",
+                "type": "text"
+              }
+            ],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "YdO9qh3f",
+            "type": "text",
+            "x": 1580.520263671875,
+            "y": 145,
+            "width": 968.95947265625,
+            "height": 25,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "ai",
+            "roundness": null,
+            "seed": 2141761636,
+            "version": 47,
+            "versionNonce": 1861819236,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "text": "Cost Budget allows you to send alerts when total costs exceed the cost threshold in the budget.",
+            "rawText": "Cost Budget allows you to send alerts when total costs exceed the cost threshold in the budget.",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "xyPPgktZ",
+            "originalText": "Cost Budget allows you to send alerts when total costs exceed the cost threshold in the budget.",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          },
+          {
+            "id": "HA8BU6o1",
+            "type": "rectangle",
+            "x": 1500,
+            "y": 180,
+            "width": 1250,
+            "height": 35,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "aj",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 217913316,
+            "version": 7,
+            "versionNonce": 1200099044,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "UBMEOMHn",
+                "type": "text"
+              }
+            ],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "UBMEOMHn",
+            "type": "text",
+            "x": 1517.5404052734375,
+            "y": 185,
+            "width": 1214.919189453125,
+            "height": 25,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "ak",
+            "roundness": null,
+            "seed": 501683428,
+            "version": 45,
+            "versionNonce": 686592612,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "text": "Usage Budget allows you to send alerts when total usage by service you select exceeds the usage threshold in the budget.",
+            "rawText": "Usage Budget allows you to send alerts when total usage by service you select exceeds the usage threshold in the budget.",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "HA8BU6o1",
+            "originalText": "Usage Budget allows you to send alerts when total usage by service you select exceeds the usage threshold in the budget.",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          },
+          {
+            "id": "EJNfmvWP",
+            "type": "rectangle",
+            "x": 1500,
+            "y": 220,
+            "width": 1090,
+            "height": 35,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "al",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 2121527908,
+            "version": 7,
+            "versionNonce": 32810468,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "G8DYJPzu",
+                "type": "text"
+              }
+            ],
+            "updated": 1781341045371,
+            "locked": false,
+            "link": null,
+            "hasTextLink": false
+          },
+          {
+            "id": "G8DYJPzu",
+            "type": "text",
+            "x": 1539.0503845214844,
+            "y": 225,
+            "width": 1011.8992309570312,
+            "height": 25,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "am",
+            "roundness": null,
+            "seed": 1425756772,
+            "version": 46,
+            "versionNonce": 934168932,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "text": "RI Budget allows you to send alerts based on the usage of your prepaid services (reserved instances).",
+            "rawText": "RI Budget allows you to send alerts based on the usage of your prepaid services (reserved instances).",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "EJNfmvWP",
+            "originalText": "RI Budget allows you to send alerts based on the usage of your prepaid services (reserved instances).",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          },
+          {
+            "id": "dbS4Mwkq",
+            "type": "rectangle",
+            "x": 1500,
+            "y": 260,
+            "width": 1110,
+            "height": 35,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "an",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1672142052,
+            "version": 7,
+            "versionNonce": 1567063268,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "3iyqWEXG",
+                "type": "text"
+              }
+            ],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "hasTextLink": false
+          },
+          {
+            "id": "3iyqWEXG",
+            "type": "text",
+            "x": 1536.9103393554688,
+            "y": 265,
+            "width": 1036.1793212890625,
+            "height": 25,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "yIo_3PFrAs_76EX6fvrac"
+            ],
+            "frameId": null,
+            "index": "ao",
+            "roundness": null,
+            "seed": 1487902044,
+            "version": 42,
+            "versionNonce": 1823359076,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1781341045371,
+            "link": null,
+            "locked": false,
+            "text": "Savings Plans Budget allows you to send alerts based on the usage of services specified in savings plans.",
+            "rawText": "Savings Plans Budget allows you to send alerts based on the usage of services specified in savings plans.",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "dbS4Mwkq",
+            "originalText": "Savings Plans Budget allows you to send alerts based on the usage of services specified in savings plans.",
+            "autoResize": true,
+            "lineHeight": 1.25,
+            "hasTextLink": false
+          }
+        ],
+        "created": 1781341057814
+      }
+    ]
+  },
+  "imageElementNotice": true,
+  "mdSVGwidth": 500,
+  "mdSVGmaxHeight": 800,
+  "mdFont": "Cascadia",
+  "mdFontColor": "Black",
+  "mdBorderColor": "Black",
+  "mdCSS": "",
+  "scriptEngineSettings": {},
+  "previousRelease": "2.23.8",
+  "showReleaseNotes": true,
+  "excalidrawMasteryPromoCollapsed": false,
+  "compareManifestToPluginVersion": true,
+  "showNewVersionNotification": true,
+  "latexBoilerplate": "\\color{green}e=mc^2",
+  "latexPreambleLocation": "preamble.sty",
+  "taskboneEnabled": false,
+  "taskboneAPIkey": "",
+  "pinnedScripts": [],
+  "sidepanelTabs": [],
+  "customPens": [
+    {
+      "type": "default",
+      "freedrawOnly": false,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 0.6,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "easeOutSine",
+          "start": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "highlighter",
+      "freedrawOnly": true,
+      "strokeColor": "#FFC47C",
+      "backgroundColor": "#FFC47C",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": null,
+      "penOptions": {
+        "highlighter": true,
+        "constantPressure": true,
+        "hasOutline": true,
+        "outlineWidth": 4,
+        "options": {
+          "thinning": 1,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "linear",
+          "start": {
+            "taper": 0,
+            "cap": true,
+            "easing": "linear"
+          },
+          "end": {
+            "taper": 0,
+            "cap": true,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "finetip",
+      "freedrawOnly": false,
+      "strokeColor": "#3E6F8D",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0.5,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "constantPressure": true,
+        "options": {
+          "smoothing": 0.4,
+          "thinning": -0.5,
+          "streamline": 0.4,
+          "easing": "linear",
+          "start": {
+            "taper": 5,
+            "cap": false,
+            "easing": "linear"
+          },
+          "end": {
+            "taper": 5,
+            "cap": false,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "fountain",
+      "freedrawOnly": false,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "smoothing": 0.2,
+          "thinning": 0.6,
+          "streamline": 0.2,
+          "easing": "easeInOutSine",
+          "start": {
+            "taper": 150,
+            "cap": true,
+            "easing": "linear"
+          },
+          "end": {
+            "taper": 1,
+            "cap": true,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "marker",
+      "freedrawOnly": true,
+      "strokeColor": "#B83E3E",
+      "backgroundColor": "#FF7C7C",
+      "fillStyle": "dashed",
+      "strokeWidth": 2,
+      "roughness": 3,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": true,
+        "hasOutline": true,
+        "outlineWidth": 4,
+        "options": {
+          "thinning": 1,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "linear",
+          "start": {
+            "taper": 0,
+            "cap": true,
+            "easing": "linear"
+          },
+          "end": {
+            "taper": 0,
+            "cap": true,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "thick-thin",
+      "freedrawOnly": true,
+      "strokeColor": "#CECDCC",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": null,
+      "penOptions": {
+        "highlighter": true,
+        "constantPressure": true,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 1,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "linear",
+          "start": {
+            "taper": 0,
+            "cap": true,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": true,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "thin-thick-thin",
+      "freedrawOnly": true,
+      "strokeColor": "#CECDCC",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": null,
+      "penOptions": {
+        "highlighter": true,
+        "constantPressure": true,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 1,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "linear",
+          "start": {
+            "cap": true,
+            "taper": true,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": true,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "default",
+      "freedrawOnly": false,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 0.6,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "easeOutSine",
+          "start": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "default",
+      "freedrawOnly": false,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 0.6,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "easeOutSine",
+          "start": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          }
+        }
+      }
+    },
+    {
+      "type": "default",
+      "freedrawOnly": false,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 0,
+      "roughness": 0,
+      "penOptions": {
+        "highlighter": false,
+        "constantPressure": false,
+        "hasOutline": false,
+        "outlineWidth": 1,
+        "options": {
+          "thinning": 0.6,
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "easeOutSine",
+          "start": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          },
+          "end": {
+            "cap": true,
+            "taper": 0,
+            "easing": "linear"
+          }
+        }
+      }
+    }
+  ],
+  "numberOfCustomPens": 0,
+  "pdfScale": 4,
+  "pdfBorderBox": true,
+  "pdfFrame": false,
+  "pdfGapSize": 20,
+  "pdfGroupPages": false,
+  "pdfLockAfterImport": true,
+  "pdfNumColumns": 1,
+  "pdfNumRows": 1,
+  "pdfDirection": "right",
+  "pdfImportScale": 0.3,
+  "gridSettings": {
+    "DYNAMIC_COLOR": true,
+    "COLOR": "#000000",
+    "OPACITY": 50,
+    "GRID_DIRECTION": {
+      "horizontal": true,
+      "vertical": true
+    }
+  },
+  "laserSettings": {
+    "DECAY_LENGTH": 50,
+    "DECAY_TIME": 1000,
+    "COLOR": "#ff0000"
+  },
+  "embeddableMarkdownDefaults": {
+    "useObsidianDefaults": false,
+    "backgroundMatchCanvas": false,
+    "backgroundMatchElement": true,
+    "backgroundColor": "#fff",
+    "backgroundOpacity": 60,
+    "borderMatchElement": true,
+    "borderColor": "#fff",
+    "borderOpacity": 0,
+    "filenameVisible": false
+  },
+  "markdownNodeOneClickEditing": false,
+  "canvasImmersiveEmbed": true,
+  "startupScriptPath": "",
+  "aiEnabled": true,
+  "aiVerboseLogging": false,
+  "aiProviderProfiles": {
+    "OpenAI": {
+      "provider": "openai",
+      "apiKey": "",
+      "baseURL": "https://api.openai.com/v1"
+    },
+    "Anthropic": {
+      "provider": "anthropic",
+      "apiKey": "",
+      "baseURL": "https://api.anthropic.com/v1"
+    },
+    "Google Gemini": {
+      "provider": "google",
+      "apiKey": "",
+      "baseURL": "https://generativelanguage.googleapis.com/v1beta"
+    },
+    "xAI": {
+      "provider": "xai",
+      "apiKey": "",
+      "baseURL": "https://api.x.ai/v1"
+    },
+    "OpenAI-compatible": {
+      "provider": "openai-compatible",
+      "apiKey": "",
+      "baseURL": "https://api.openai.com/v1"
+    }
+  },
+  "aiTextModelConfigs": {
+    "gpt-5-mini": {
+      "providerId": "OpenAI",
+      "model": "gpt-5-mini",
+      "endpoint": "",
+      "multimodalSupport": true
+    },
+    "claude-sonnet-4-5": {
+      "providerId": "Anthropic",
+      "model": "claude-sonnet-4-5",
+      "endpoint": "",
+      "multimodalSupport": true
+    },
+    "gemini-2.5-pro": {
+      "providerId": "Google Gemini",
+      "model": "gemini-2.5-pro",
+      "endpoint": "",
+      "multimodalSupport": true
+    },
+    "grok-4-fast": {
+      "providerId": "xAI",
+      "model": "grok-4-fast",
+      "endpoint": "",
+      "multimodalSupport": true
+    }
+  },
+  "aiImageModelConfigs": {
+    "dall-e-2": {
+      "providerId": "OpenAI",
+      "model": "dall-e-2",
+      "supportedSizes": [
+        "256x256",
+        "512x512",
+        "1024x1024"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": true
+    },
+    "dall-e-3": {
+      "providerId": "OpenAI",
+      "model": "dall-e-3",
+      "supportedSizes": [
+        "1024x1024",
+        "1792x1024",
+        "1024x1792"
+      ],
+      "supportsPromptImageTransforms": false,
+      "supportsMaskImageEdits": false
+    },
+    "gpt-image-1": {
+      "providerId": "OpenAI",
+      "model": "gpt-image-1",
+      "supportedSizes": [
+        "1024x1024",
+        "1536x1024",
+        "1024x1536"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": true
+    },
+    "gpt-image-1-mini": {
+      "providerId": "OpenAI",
+      "model": "gpt-image-1-mini",
+      "supportedSizes": [
+        "1024x1024",
+        "1536x1024",
+        "1024x1536"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": true
+    },
+    "gpt-image-1.5": {
+      "providerId": "OpenAI",
+      "model": "gpt-image-1.5",
+      "supportedSizes": [
+        "1024x1024",
+        "1536x1024",
+        "1024x1536"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": true
+    },
+    "gpt-image-2": {
+      "providerId": "OpenAI",
+      "model": "gpt-image-2",
+      "supportedSizes": [
+        "1024x1024",
+        "1536x1024",
+        "1024x1536",
+        "2048x2048"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": true
+    },
+    "gemini-2.5-flash-image": {
+      "providerId": "Google Gemini",
+      "model": "gemini-2.5-flash-image",
+      "supportedSizes": [
+        "1024x1024",
+        "848x1264",
+        "1264x848",
+        "896x1200",
+        "1200x896",
+        "928x1152",
+        "1152x928",
+        "768x1376",
+        "1376x768",
+        "1584x672"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": false
+    },
+    "gemini-3.1-flash-image-preview": {
+      "providerId": "Google Gemini",
+      "model": "gemini-3.1-flash-image-preview",
+      "supportedSizes": [
+        "512x512",
+        "1024x1024",
+        "2048x2048",
+        "4096x4096",
+        "424x632",
+        "848x1264",
+        "1696x2528",
+        "3392x5056",
+        "632x424",
+        "1264x848",
+        "2528x1696",
+        "5056x3392",
+        "448x600",
+        "896x1200",
+        "1792x2400",
+        "3584x4800",
+        "600x448",
+        "1200x896",
+        "2400x1792",
+        "4800x3584",
+        "464x576",
+        "928x1152",
+        "1856x2304",
+        "3712x4608",
+        "576x464",
+        "1152x928",
+        "2304x1856",
+        "4608x3712",
+        "384x688",
+        "768x1376",
+        "1536x2752",
+        "3072x5504",
+        "688x384",
+        "1376x768",
+        "2752x1536",
+        "5504x3072",
+        "792x168",
+        "1584x672",
+        "3168x1344",
+        "6336x2688",
+        "256x1024",
+        "512x2048",
+        "1024x4096",
+        "2048x8192",
+        "192x1536",
+        "384x3072",
+        "768x6144",
+        "1536x12288",
+        "1024x256",
+        "2048x512",
+        "4096x1024",
+        "8192x2048",
+        "1536x192",
+        "3072x384",
+        "6144x768",
+        "12288x1536"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": false
+    },
+    "gemini-3-pro-image-preview": {
+      "providerId": "Google Gemini",
+      "model": "gemini-3-pro-image-preview",
+      "supportedSizes": [
+        "1024x1024",
+        "2048x2048",
+        "4096x4096",
+        "848x1264",
+        "1696x2528",
+        "3392x5056",
+        "1264x848",
+        "2528x1696",
+        "5056x3392",
+        "896x1200",
+        "1792x2400",
+        "3584x4800",
+        "1200x896",
+        "2400x1792",
+        "4800x3584",
+        "928x1152",
+        "1856x2304",
+        "3712x4608",
+        "1152x928",
+        "2304x1856",
+        "4608x3712",
+        "768x1376",
+        "1536x2752",
+        "3072x5504",
+        "1376x768",
+        "2752x1536",
+        "5504x3072",
+        "1584x672",
+        "3168x1344",
+        "6336x2688"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": false
+    },
+    "grok-imagine-image-quality": {
+      "providerId": "xAI",
+      "model": "grok-imagine-image-quality",
+      "supportedSizes": [
+        "1024x1024"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": false
+    },
+    "grok-imagine-image-pro": {
+      "providerId": "xAI",
+      "model": "grok-imagine-image-pro",
+      "supportedSizes": [
+        "1024x1024"
+      ],
+      "supportsPromptImageTransforms": true,
+      "supportsMaskImageEdits": false
+    }
+  },
+  "aiDefaultTextModel": "gpt-5-mini",
+  "aiDefaultImageGenerationModel": "gpt-image-1",
+  "aiDefaultMaxOutgoingTokens": 0,
+  "aiDefaultMaxResponseTokens": 0,
+  "modifierKeyConfig": {
+    "Mac": {
+      "LocalFileDragAction": {
+        "defaultAction": "image-import",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-import"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-url"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "embeddable"
+          }
+        ]
+      },
+      "WebBrowserDragAction": {
+        "defaultAction": "image-url",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-url"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "embeddable"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-import"
+          }
+        ]
+      },
+      "InternalDragAction": {
+        "defaultAction": "link",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": true,
+            "result": "embeddable"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": true,
+            "result": "image-fullsize"
+          }
+        ]
+      },
+      "LinkClickAction": {
+        "defaultAction": "new-tab",
+        "rules": [
+          {
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "active-pane"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "new-tab"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "new-pane"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "popout-window"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": true,
+            "result": "md-properties"
+          }
+        ]
+      }
+    },
+    "Win": {
+      "LocalFileDragAction": {
+        "defaultAction": "image-import",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-import"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-url"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "embeddable"
+          }
+        ]
+      },
+      "WebBrowserDragAction": {
+        "defaultAction": "image-url",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-url"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "embeddable"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image-import"
+          }
+        ]
+      },
+      "InternalDragAction": {
+        "defaultAction": "link",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "link"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "embeddable"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "image"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "image-fullsize"
+          }
+        ]
+      },
+      "LinkClickAction": {
+        "defaultAction": "new-tab",
+        "rules": [
+          {
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "active-pane"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": false,
+            "result": "new-tab"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "new-pane"
+          },
+          {
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": true,
+            "meta_ctrl": false,
+            "result": "popout-window"
+          },
+          {
+            "shift": false,
+            "ctrl_cmd": true,
+            "alt_opt": false,
+            "meta_ctrl": true,
+            "result": "md-properties"
+          }
+        ]
+      }
+    }
+  },
+  "slidingPanesSupport": false,
+  "areaZoomLimit": 1,
+  "longPressDesktop": 500,
+  "longPressMobile": 500,
+  "doubleClickLinkOpenViewMode": true,
+  "rank": "Bronze",
+  "modifierKeyOverrides": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "k"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "showSplashscreen": true,
+  "pdfSettings": {
+    "pageSize": "A4",
+    "pageOrientation": "portrait",
+    "fitToPage": 1,
+    "paperColor": "white",
+    "customPaperColor": "#ffffff",
+    "alignment": "center",
+    "margin": "normal"
+  },
+  "disableContextMenu": false
+}

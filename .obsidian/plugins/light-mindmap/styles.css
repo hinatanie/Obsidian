@@ -1,0 +1,754 @@
+.workspace-leaf-content[data-type="markdown"] .view-content {
+  position: relative;
+}
+
+/* Hide the underlying source/reading panes when overlay is visible so
+   theme-provided translucency can never leak source text through. */
+.workspace-leaf-content[data-type="markdown"] .view-content:has(> .lmm-overlay:not(.lmm-hidden)) > .markdown-source-view,
+.workspace-leaf-content[data-type="markdown"] .view-content:has(> .lmm-overlay:not(.lmm-hidden)) > .markdown-reading-view {
+  visibility: hidden;
+}
+
+.lmm-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background-color: #ffffff;
+  background-color: var(--lmm-theme-bg, var(--background-primary));
+  background-image:
+    radial-gradient(1200px 600px at 15% 0%, var(--lmm-theme-tint-1, rgba(99, 102, 241, 0.08)), transparent 60%),
+    radial-gradient(900px 500px at 100% 100%, var(--lmm-theme-tint-2, rgba(236, 72, 153, 0.08)), transparent 60%);
+  font-family: var(--font-interface);
+  color: var(--lmm-theme-fg, var(--text-normal));
+  isolation: isolate;
+}
+
+.theme-dark .lmm-overlay {
+  background-color: #1e1e1e;
+  background-color: var(--lmm-theme-bg, var(--background-primary));
+}
+
+.lmm-overlay.lmm-hidden {
+  display: none;
+}
+
+/* ---------- Toolbar ---------- */
+
+.lmm-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 8px 14px;
+  background: var(--background-secondary);
+  border-bottom: 1px solid var(--background-modifier-border);
+  align-items: center;
+  flex-shrink: 0;
+  backdrop-filter: blur(6px);
+}
+
+.lmm-toolbar-group {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.lmm-toolbar-group + .lmm-toolbar-group {
+  border-left: 1px solid var(--background-modifier-border);
+  padding-left: 10px;
+}
+
+.lmm-toolbar-right {
+  margin-left: auto;
+}
+
+.lmm-toolbar-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--text-muted);
+  margin-right: 4px;
+  font-weight: 600;
+}
+
+.lmm-btn {
+  background: var(--background-primary);
+  color: var(--text-normal);
+  border: 1px solid var(--background-modifier-border);
+  padding: 5px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1;
+  transition: transform 0.12s ease, box-shadow 0.12s ease, background 0.12s ease, color 0.12s ease, border-color 0.12s ease;
+}
+
+.lmm-btn:hover {
+  background: var(--background-modifier-hover);
+  transform: translateY(-1px);
+}
+
+.lmm-btn:active {
+  transform: translateY(0);
+}
+
+.lmm-btn-active {
+  background: linear-gradient(135deg, #6366F1, #8B5CF6);
+  color: #fff;
+  border-color: transparent;
+  box-shadow: 0 3px 10px rgba(99, 102, 241, 0.35);
+}
+
+.lmm-btn-active:hover {
+  background: linear-gradient(135deg, #5b5cf0, #7c4cf0);
+  color: #fff;
+}
+
+.lmm-btn-ghost {
+  background: transparent;
+}
+
+.lmm-select {
+  background: var(--background-primary);
+  color: var(--text-normal);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  padding: 4px 8px;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  line-height: 1.2;
+}
+
+.lmm-select:focus {
+  outline: 2px solid var(--lmm-theme-root-accent, #6366F1);
+  outline-offset: 1px;
+}
+
+/* ---------- Canvas ---------- */
+
+.lmm-canvas {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  cursor: grab;
+  touch-action: none;
+  background-color: var(--lmm-theme-bg, var(--background-primary));
+}
+
+.lmm-canvas.lmm-dragging {
+  cursor: grabbing;
+}
+
+.lmm-inner {
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform-origin: 0 0;
+  will-change: transform;
+}
+
+.lmm-svg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  overflow: visible;
+}
+
+.lmm-conn {
+  opacity: 0.9;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.10));
+  transition: opacity 0.15s ease, stroke-width 0.15s ease;
+}
+
+.lmm-nodes {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+/* ---------- Nodes ---------- */
+
+.lmm-node {
+  position: absolute;
+  padding: 8px 14px;
+  background: var(--lmm-theme-bg, var(--background-primary));
+  color: var(--lmm-theme-fg, var(--text-normal));
+  border: 2px solid var(--lmm-color, #6366F1);
+  border-radius: 10px;
+  font-size: 13px;
+  line-height: 1.4;
+  white-space: nowrap;
+  cursor: default;
+  user-select: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.10);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+  max-width: 320px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 500;
+}
+
+.lmm-node:hover {
+  transform: scale(1.04);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.18);
+  z-index: 5;
+  filter: brightness(1.05);
+}
+
+.lmm-node:focus {
+  outline: none;
+}
+
+/* Selection ring (focused node, not editing) */
+.lmm-node.lmm-selected {
+  outline: 2px dashed var(--lmm-color, #6366F1);
+  outline-offset: 4px;
+  z-index: 6;
+}
+
+.lmm-node.lmm-selected.lmm-node-root {
+  outline-color: var(--lmm-theme-root-accent, #8B5CF6);
+}
+
+/* Collapsed node — inline + badge after text */
+.lmm-node.lmm-collapsed {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.lmm-node.lmm-collapsed > .lmm-node-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+}
+
+.lmm-node.lmm-collapsed > .lmm-collapse-badge {
+  flex-shrink: 0;
+  position: relative;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--lmm-color, #6366F1);
+  margin-left: 8px;
+}
+
+.lmm-node.lmm-collapsed > .lmm-collapse-badge::before,
+.lmm-node.lmm-collapsed > .lmm-collapse-badge::after {
+  content: '';
+  position: absolute;
+  background: #fff;
+  border-radius: 1px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.lmm-node.lmm-collapsed > .lmm-collapse-badge::before {
+  width: 10px;
+  height: 2px;
+}
+
+.lmm-node.lmm-collapsed > .lmm-collapse-badge::after {
+  width: 2px;
+  height: 10px;
+}
+
+/* Root/d0: white badge on gradient bg, colored crosshair */
+.lmm-node.lmm-collapsed.lmm-node-root > .lmm-collapse-badge,
+.lmm-node.lmm-collapsed.lmm-node-d0 > .lmm-collapse-badge {
+  background: rgba(255, 255, 255, 0.85);
+}
+.lmm-node.lmm-collapsed.lmm-node-root > .lmm-collapse-badge::before,
+.lmm-node.lmm-collapsed.lmm-node-root > .lmm-collapse-badge::after,
+.lmm-node.lmm-collapsed.lmm-node-d0 > .lmm-collapse-badge::before,
+.lmm-node.lmm-collapsed.lmm-node-d0 > .lmm-collapse-badge::after {
+  background: #6366F1;
+}
+
+/* D1: white badge on colored bg, colored crosshair */
+.lmm-node.lmm-collapsed.lmm-node-d1 > .lmm-collapse-badge {
+  background: rgba(255, 255, 255, 0.85);
+}
+.lmm-node.lmm-collapsed.lmm-node-d1 > .lmm-collapse-badge::before,
+.lmm-node.lmm-collapsed.lmm-node-d1 > .lmm-collapse-badge::after {
+  background: var(--lmm-color, #6366F1);
+}
+
+/* Edit mode — caret visible, text wraps, no ellipsis truncation */
+.lmm-node.lmm-editing {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+  cursor: text;
+  user-select: text;
+  -webkit-user-select: text;
+  outline: none;
+  outline-offset: 0;
+  z-index: 8;
+  min-width: 120px;
+  caret-color: currentColor;
+  transform: scale(1.03) !important;
+  box-shadow:
+    0 0 0 2px var(--lmm-color, #6366F1),
+    0 0 16px var(--lmm-color, #6366F1),
+    0 0 28px var(--lmm-color, #6366F1) !important;
+  border-width: 2px !important;
+  border-color: var(--lmm-color, #6366F1) !important;
+  opacity: 0.95;
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+
+
+/* Mention autocomplete popup */
+.lmm-mention-popup {
+  position: fixed;
+  z-index: 100;
+  min-width: 180px;
+  max-width: 320px;
+  max-height: 360px;
+  overflow-y: auto;
+  background: var(--background-primary, #fff);
+  border: 1px solid var(--background-modifier-border, rgba(0,0,0,0.1));
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  padding: 4px 0;
+}
+.lmm-mention-item {
+  padding: 6px 12px;
+  cursor: pointer;
+  font-size: 13px;
+  color: var(--text-normal, #333);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.lmm-mention-item:hover,
+.lmm-mention-item.lmm-mention-active {
+  background: var(--background-modifier-hover, rgba(0,0,0,0.06));
+}
+.lmm-mention-item.lmm-mention-active {
+  background: var(--interactive-accent, #6366F1);
+  color: #fff;
+}
+
+/* Root: bold gradient capsule with glow */
+.lmm-node-root,
+.lmm-node-d0 {
+  background: var(--lmm-theme-root-grad, linear-gradient(135deg, #6366F1, #8B5CF6 60%, #EC4899));
+  color: #fff;
+  border: none;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 14px 26px;
+  border-radius: 18px;
+  box-shadow:
+    0 8px 28px rgba(99, 102, 241, 0.42),
+    0 2px 6px rgba(139, 92, 246, 0.25),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+  letter-spacing: 0.3px;
+}
+
+/* Level 1: solid colored pill, white text */
+.lmm-node-d1 {
+  background: var(--lmm-color);
+  color: #fff;
+  border: none;
+  font-weight: 600;
+  font-size: 15px;
+  padding: 10px 18px;
+  border-radius: 12px;
+  box-shadow:
+    0 5px 16px rgba(0, 0, 0, 0.18),
+    inset 0 1px 0 rgba(255, 255, 255, 0.18);
+}
+
+/* Level 2: tinted soft fill with branch-color border */
+.lmm-node-d2 {
+  background: color-mix(in srgb, var(--lmm-color) 16%, var(--lmm-theme-bg, var(--background-primary)));
+  border-color: var(--lmm-color);
+  border-width: 2px;
+  color: var(--lmm-theme-fg, var(--text-normal));
+  font-weight: 600;
+  font-size: 13.5px;
+  padding: 7px 14px;
+}
+
+/* Level 3+: lighter card with thin colored border */
+.lmm-node-d3,
+.lmm-node-d4,
+.lmm-node-d5,
+.lmm-node-d6 {
+  background: var(--lmm-theme-bg, var(--background-primary));
+  border-color: var(--lmm-color);
+  border-width: 1.5px;
+  font-weight: 500;
+  font-size: 12.5px;
+  padding: 6px 12px;
+  color: var(--lmm-theme-fg, var(--text-normal));
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+/* Theme-dark refinements */
+.theme-dark .lmm-node {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+}
+.theme-dark .lmm-node-d2 {
+  background: color-mix(in srgb, var(--lmm-color) 22%, var(--lmm-theme-bg, var(--background-primary)));
+}
+
+/* Midnight theme always uses dark-style mixing regardless of obsidian theme */
+.lmm-overlay.lmm-theme-midnight .lmm-node-d2,
+.lmm-overlay.lmm-theme-slate .lmm-node-d2 {
+  background: color-mix(in srgb, var(--lmm-color) 22%, var(--lmm-theme-bg));
+}
+.lmm-overlay.lmm-theme-midnight .lmm-node,
+.lmm-overlay.lmm-theme-slate .lmm-node {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+}
+
+/* Slate theme — subtle tech grid on canvas */
+.lmm-overlay.lmm-theme-slate .lmm-canvas {
+  background-image:
+    linear-gradient(rgba(148, 163, 184, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(148, 163, 184, 0.06) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+/* Virtual root (used when multiple top-level headings) */
+.lmm-node-virtual {
+  background: linear-gradient(135deg, #475569, #1F2937) !important;
+  box-shadow: 0 6px 20px rgba(15, 23, 42, 0.35) !important;
+}
+
+/* ---------- Node shape variants (mindmap-node) ---------- */
+
+/* Square: straight corners on all node levels */
+.lmm-overlay.lmm-node-style-square .lmm-node,
+.lmm-overlay.lmm-node-style-square .lmm-node-root,
+.lmm-overlay.lmm-node-style-square .lmm-node-d0,
+.lmm-overlay.lmm-node-style-square .lmm-node-d1 {
+  border-radius: 0;
+}
+
+/* Borderless: drop outlines, lean on background/shadow for separation */
+.lmm-overlay.lmm-node-style-borderless .lmm-node,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-root,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d0,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d1,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d2,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d3,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d4,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d5,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d6 {
+  border: none;
+  background: transparent;
+  box-shadow: none;
+  padding: 6px 12px;
+}
+.lmm-overlay.lmm-node-style-borderless .lmm-node-root,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d0 {
+  color: var(--lmm-color, #6366F1);
+  font-size: 20px;
+  font-weight: 800;
+  padding: 8px 4px;
+}
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d1 {
+  color: var(--lmm-color);
+  font-weight: 700;
+  font-size: 15px;
+  padding: 6px 4px;
+}
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d2 {
+  color: var(--lmm-theme-fg, var(--text-normal));
+  font-weight: 600;
+  font-size: 13.5px;
+}
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d3,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d4,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d5,
+.lmm-overlay.lmm-node-style-borderless .lmm-node-d6 {
+  color: var(--lmm-theme-fg, var(--text-normal));
+  font-weight: 500;
+  font-size: 12.5px;
+}
+
+/* Pill: fully rounded capsule */
+.lmm-overlay.lmm-node-style-circle .lmm-node,
+.lmm-overlay.lmm-node-style-circle .lmm-node-root,
+.lmm-overlay.lmm-node-style-circle .lmm-node-d0,
+.lmm-overlay.lmm-node-style-circle .lmm-node-d1 {
+  border-radius: 999px;
+}
+
+/* ---------- Doodle style: hand-drawn look ---------- */
+
+.lmm-overlay.lmm-node-style-doodle .lmm-node {
+  border-radius: 8px 12px 10px 14px;
+  border-width: 2.5px;
+  border-style: solid;
+  box-shadow: 2px 3px 0px rgba(0, 0, 0, 0.15);
+  transform: rotate(-0.5deg);
+  filter: url(#doodle-filter);
+}
+
+.lmm-overlay.lmm-node-style-doodle .lmm-node-root,
+.lmm-overlay.lmm-node-style-doodle .lmm-node-d0 {
+  border-radius: 14px 10px 12px 8px;
+  transform: rotate(0.3deg);
+  padding: 14px 24px;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.lmm-overlay.lmm-node-style-doodle .lmm-node-d1 {
+  border-radius: 10px 14px 8px 12px;
+  transform: rotate(-0.4deg);
+  padding: 10px 16px;
+  font-size: 14px;
+}
+
+.lmm-overlay.lmm-node-style-doodle .lmm-node-d2 {
+  border-radius: 12px 8px 14px 10px;
+  transform: rotate(0.6deg);
+  padding: 8px 14px;
+}
+
+.lmm-overlay.lmm-node-style-doodle .lmm-node-d3,
+.lmm-overlay.lmm-node-style-doodle .lmm-node-d4,
+.lmm-overlay.lmm-node-style-doodle .lmm-node-d5,
+.lmm-overlay.lmm-node-style-doodle .lmm-node-d6 {
+  border-radius: 8px 12px 10px 14px;
+  transform: rotate(-0.3deg);
+  padding: 6px 12px;
+  font-size: 12.5px;
+}
+
+/* Doodle toolbar button accent */
+.lmm-overlay.lmm-node-style-doodle .lmm-btn-active {
+  background: linear-gradient(135deg, #E8590C, #D9480F);
+  box-shadow: 0 3px 10px rgba(232, 89, 12, 0.35);
+}
+
+/* ---------- Empty state ---------- */
+
+.lmm-empty {
+  margin: auto;
+  padding: 60px 40px;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.lmm-empty-icon {
+  font-size: 56px;
+  margin-bottom: 14px;
+  filter: drop-shadow(0 4px 10px rgba(99, 102, 241, 0.35));
+}
+
+.lmm-empty code {
+  background: var(--background-secondary);
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-size: 12.5px;
+}
+
+/* ---------- Restore FAB (shown when overlay is hidden) ---------- */
+
+.lmm-fab {
+  position: absolute;
+  bottom: 24px;
+  right: 24px;
+  z-index: 30;
+  padding: 10px 18px;
+  background: linear-gradient(135deg, #6366F1, #8B5CF6 60%, #EC4899);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  cursor: pointer;
+  box-shadow:
+    0 8px 24px rgba(99, 102, 241, 0.42),
+    0 2px 6px rgba(139, 92, 246, 0.25),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+
+.lmm-fab:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.05);
+  box-shadow:
+    0 12px 30px rgba(99, 102, 241, 0.5),
+    0 3px 8px rgba(139, 92, 246, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.25);
+}
+
+.lmm-fab:active {
+  transform: translateY(0);
+}
+
+/* ── Node links ── */
+
+.lmm-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.lmm-link:hover {
+  text-decoration-style: solid;
+  opacity: 0.85;
+}
+
+.lmm-node.lmm-editing .lmm-link {
+  text-decoration: none;
+  pointer-events: none;
+}
+
+/* Node context menu */
+.lmm-overlay .menu {
+  z-index: 100;
+  min-width: 180px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18), 0 2px 8px rgba(0, 0, 0, 0.08);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--background-modifier-border);
+  padding: 4px 0;
+}
+
+.lmm-overlay .menu-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  font-size: 13px;
+  color: var(--text-normal);
+  cursor: pointer;
+  transition: background-color 0.12s ease;
+  border-radius: 0;
+}
+
+.lmm-overlay .menu-item:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+.lmm-overlay .menu-item-icon {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.7;
+  flex-shrink: 0;
+}
+
+.lmm-overlay .menu-item-icon svg {
+  width: 16px;
+  height: 16px;
+}
+
+.lmm-overlay .menu-separator {
+  margin: 4px 0;
+  border-top: 1px solid var(--background-modifier-border);
+}
+
+/* ---------- Node Drag and Drop ---------- */
+
+/* Dragging source node - subtle fade to show it's being moved */
+.lmm-dragging-source {
+  opacity: 0.35 !important;
+  pointer-events: none;
+  transform: none !important;
+  filter: grayscale(0.3);
+  transition: opacity 0.15s ease, filter 0.15s ease;
+}
+
+/* Clone following mouse - prominent floating card */
+.lmm-drag-clone {
+  position: fixed;
+  pointer-events: none;
+  opacity: 0.95;
+  z-index: 1000;
+  transform: translate(-50%, -50%) scale(1.08);
+  box-shadow: 
+    0 12px 32px rgba(0, 0, 0, 0.28),
+    0 4px 12px rgba(0, 0, 0, 0.15),
+    0 0 0 2px rgba(99, 102, 241, 0.4);
+  border-radius: 12px;
+  transition: box-shadow 0.15s ease;
+}
+
+/* Drop target highlight - for child mode only */
+.lmm-drop-target {
+  outline: 2.5px solid var(--lmm-theme-root-accent, #6366F1);
+  outline-offset: 5px;
+  box-shadow: 0 0 12px rgba(99, 102, 241, 0.35);
+}
+
+/* Drop position indicators - horizontal lines for before/after mode */
+.lmm-drop-before,
+.lmm-drop-after {
+  position: absolute;
+  left: -30px;
+  right: -30px;
+  height: 4px;
+  background: var(--lmm-theme-root-accent, #6366F1);
+  border-radius: 2px;
+  pointer-events: none;
+  z-index: 100;
+  box-shadow: 0 0 10px rgba(99, 102, 241, 0.6);
+}
+
+/* Arrow indicators on line ends */
+.lmm-drop-before::before,
+.lmm-drop-after::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 6px solid transparent;
+  border-right-color: var(--lmm-theme-root-accent, #6366F1);
+}
+
+.lmm-drop-before::after,
+.lmm-drop-after::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 6px solid transparent;
+  border-left-color: var(--lmm-theme-root-accent, #6366F1);
+}
+
+.lmm-drop-before {
+  top: -20px;
+}
+
+.lmm-drop-after {
+  bottom: -20px;
+}
+
+/* Canvas dragging state */
+.lmm-canvas.lmm-node-dragging {
+  cursor: grabbing !important;
+}
