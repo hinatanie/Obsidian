@@ -8,36 +8,93 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5de536fcc2c0afd7",
+            "id": "0567d2049fcff603",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
+          },
+          {
+            "id": "a637d761d3dde732",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Aws/2. Auction/6. Doc/Doc1.md",
+                "file": "2. Aws/2. Auction/10. Doc/u.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Doc1"
+              "title": "u"
             }
           },
           {
-            "id": "95feda5a351448b0",
+            "id": "78eccdfb0f300751",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/Doc3.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Doc3"
+            }
+          },
+          {
+            "id": "6d80b19518bd1d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Prompt/7. Split to smaller question and answer.md",
+                "file": "8. Ticktick/1. CML Setting time for existing checklists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Split to smaller question and answer"
+              "title": "1. CML Setting time for existing checklists"
+            }
+          },
+          {
+            "id": "7e1beb2cf194f9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/u3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "u3"
+            }
+          },
+          {
+            "id": "133274a2b0b148bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/Doc3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Doc3"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -57,7 +114,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -110,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Aws/2. Auction/6. Doc/Doc1.md",
+                "file": "2. Aws/2. Auction/6. Doc/Doc3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Doc1"
+              "title": "Backlinks for Doc3"
             }
           },
           {
@@ -129,12 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Aws/2. Auction/6. Doc/Doc1.md",
+                "file": "2. Aws/2. Auction/6. Doc/Doc3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Doc1"
+              "title": "Outgoing links from Doc3"
             }
           },
           {
@@ -158,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Aws/2. Auction/6. Doc/Doc1.md",
+                "file": "8. Ticktick/2. CML.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Doc1"
+              "title": "Outline"
             }
           },
           {
@@ -183,16 +242,17 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 664.5
+    "width": 664.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,29 +272,38 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5de536fcc2c0afd7",
+  "active": "47c44cdf3bb4f681",
   "lastOpenFiles": [
+    "8. Ticktick/1. CML Setting time for existing checklists.md",
+    "2. Aws/2. Auction/10. Doc/u3.md",
+    "2. Aws/2. Auction/10. Doc/u4.md",
+    "2. Aws/2. Auction/10. Doc/u.md",
+    "2. Aws/2. Auction/10. Doc/u1.md",
+    "2. Aws/2. Auction/10. Doc/u2.md",
+    "2. Aws/2. Auction/10. Doc/Doc3.md",
+    "2. Aws/2. Auction/10. Doc/Doc 2.md",
+    "2. Aws/2. Auction/10. Doc/Doc 1.md",
+    "7. Prompt/3. Prompt for AI help learn things.md",
+    "8. Ticktick/2. CML.md",
+    "2. Aws/2. Auction/10. Doc",
+    "8. Blog/1. Bog.md",
+    "8. Ticktick",
+    "8. Blog",
+    "2. Aws/2. Auction/6. Doc/Doc1.md",
+    "2. Aws/2. Auction/6. Doc/Untitled.md",
+    "2. Aws/2. Auction/6. Doc/Doc2.md",
+    "7. Prompt/10. Convert lesson into process.md",
     "7. Prompt/7. Split to smaller question and answer.md",
+    "2. Aws/2. Auction/9. Processes",
+    "7. Prompt/9. Create a process.md",
+    "2. Aws/2. Auction/6. Doc/Doc3.md",
     "7. Prompt/5. Prompt for cursor.md",
     "7. Prompt/4. Prompt to create quiz.md",
-    "7. Prompt/3. Prompt for AI help learn things.md",
     "7. Prompt/2. Prompt markdown into flashcards.md",
     "7. Prompt/1. Prompt file markdown into .canvas.md",
-    "2. Aws/2. Auction/6. Doc/Doc1.md",
     "2. Aws/2. Auction/1. Database/1. Database.md",
     "2. Aws/2. Auction/8. Test.md",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/2. EC2.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/1. CIDR.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md",
-    "7. Prompt/8. Create file based on topic.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/8. Network.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/11. Protocol.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/9. Bandwidth.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/7. Route table.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/6. Gateway.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/5. IP addresses.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/4. Subnet.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/3. VPC.md",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Checklist for Amazon VPC.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/1. CIDR.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/9. Bandwith.canvas",
@@ -247,19 +316,10 @@
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/2. EC2.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/9. Spaced repetition/2. EC2.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/10. Traffic.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review/1. CIDR.md",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1/9. Bandwidth.md",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review 1",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/Untitled",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/9. Spaced repetition",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/8. Review",
-    "2. Aws/2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist",
-    "2. Aws/2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction",
-    "2. Aws/2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)",
     "Slide-Deck-Export/aws-vpc-field-guide-linked/09-aws-vpc-field-guide-linked.png",
     "Slide-Deck-Export/aws-vpc-field-guide-linked/08-aws-vpc-field-guide-linked.png",
     "Slide-Deck-Export/aws-vpc-field-guide-linked/07-aws-vpc-field-guide-linked.png",
