@@ -11,7 +11,7 @@
   "indexCache": {
     "schemaVersion": 4,
     "parserRevision": 3,
-    "builtAt": 1785835168303,
+    "builtAt": 1786024290445,
     "files": {
       "4. Ielts/2. Writing/1. 2025 february writting.md": {
         "path": "4. Ielts/2. Writing/1. 2025 february writting.md",
@@ -920,146 +920,6 @@
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/10. Doc/Phase 3/Phase 3 task list.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/Phase 3 task list.md",
-        "mtime": 1785731184651,
-        "size": 25911,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 4/Phase 4 task list.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 4/Phase 4 task list.md",
-        "mtime": 1785730476282,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 5/Phase 5 task list.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 5/Phase 5 task list.md",
-        "mtime": 1785730488294,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 7/Phase 7 task list.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 7/Phase 7 task list.md",
-        "mtime": 1785730507719,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 1/response budget.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 1/response budget.md",
-        "mtime": 1785658827955,
-        "size": 8536,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 6/Phase 6 task list.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 6/Phase 6 task list.md",
-        "mtime": 1785738028989,
-        "size": 17566,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Doc/Doc1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Doc/Doc1.md",
-        "mtime": 1785740954043,
-        "size": 327,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 1.md",
-        "mtime": 1785742113116,
-        "size": 3907,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Things i have not undertood.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Things i have not undertood.md",
-        "mtime": 1785741631105,
-        "size": 1715,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/phase 2 task list (old).md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/phase 2 task list (old).md",
-        "mtime": 1785727096014,
-        "size": 9460,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/phase 2 task list (new).md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/phase 2 task list (new).md",
-        "mtime": 1785742594360,
-        "size": 13796,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 2.md",
-        "mtime": 1785742939953,
-        "size": 3771,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 3.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 3.md",
-        "mtime": 1785743452150,
-        "size": 3922,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 4.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 4.md",
-        "mtime": 1785743848609,
-        "size": 3549,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 5.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 5.md",
-        "mtime": 1785744216479,
-        "size": 4234,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 6.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 6.md",
-        "mtime": 1785744817243,
-        "size": 6654,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 6.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 6.1.md",
-        "mtime": 1785745600159,
-        "size": 884,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 7.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 7.md",
-        "mtime": 1785746260686,
-        "size": 4411,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 8.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 8.md",
-        "mtime": 1785746745319,
-        "size": 7746,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 9.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 9.md",
-        "mtime": 1785748579754,
-        "size": 6760,
-        "blockIds": [],
-        "referencedIds": []
-      },
       "8. Ticktick/1. CML Setting time for existing checklists.md": {
         "path": "8. Ticktick/1. CML Setting time for existing checklists.md",
         "mtime": 1785824955663,
@@ -1067,17 +927,871 @@
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/11. Websocket/res2.md": {
-        "path": "2. Aws/2. Auction/11. Websocket/res2.md",
-        "mtime": 1785835052312,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
       "2. Aws/2. Auction/11. Websocket/res1.md": {
         "path": "2. Aws/2. Auction/11. Websocket/res1.md",
         "mtime": 1785835167239,
         "size": 13658,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/11. Websocket/res2.md": {
+        "path": "2. Aws/2. Auction/11. Websocket/res2.md",
+        "mtime": 1785837125422,
+        "size": 16241,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/11. Websocket/res3.md": {
+        "path": "2. Aws/2. Auction/11. Websocket/res3.md",
+        "mtime": 1785837335209,
+        "size": 9284,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/11. Websocket/res4.md": {
+        "path": "2. Aws/2. Auction/11. Websocket/res4.md",
+        "mtime": 1785839161202,
+        "size": 13924,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/11. Websocket/use case/use case.md": {
+        "path": "2. Aws/2. Auction/11. Websocket/use case/use case.md",
+        "mtime": 1785840433366,
+        "size": 277,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/2. Prompt 2/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/2. Prompt 2/1. ChatGPT.md",
+        "mtime": 1785856781701,
+        "size": 1110,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Prompt 1/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Prompt 1/1. ChatGPT.md",
+        "mtime": 1785856731214,
+        "size": 969,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/5. Prompt 5/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/5. Prompt 5/1. ChatGPT.md",
+        "mtime": 1785856923904,
+        "size": 1503,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/6. Prompt 6/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/6. Prompt 6/1. ChatGPT.md",
+        "mtime": 1785856995582,
+        "size": 3042,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. Prompt 3/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. Prompt 3/1. ChatGPT.md",
+        "mtime": 1785857529960,
+        "size": 1053,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/4. Prompt 4/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/4. Prompt 4/1. ChatGPT.md",
+        "mtime": 1785857594185,
+        "size": 884,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/7. Assign/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/7. Assign/1. ChatGPT.md",
+        "mtime": 1785861077117,
+        "size": 30175,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/7. Assign/1. ChatGPT (new).md": {
+        "path": "2. Aws/2. Auction/12. Lambda/7. Assign/1. ChatGPT (new).md",
+        "mtime": 1785862198957,
+        "size": 18373,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/7. Assign/2. Danh.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/7. Assign/2. Danh.md",
+        "mtime": 1785892602588,
+        "size": 15093,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/7. Assign/3. Phát.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/7. Assign/3. Phát.md",
+        "mtime": 1785892616577,
+        "size": 11192,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/1. Response/1. res 1.md": {
+        "path": "2. Aws/14. PetShop/1. Response/1. res 1.md",
+        "mtime": 1785894679628,
+        "size": 10474,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 1 AWS.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 1 AWS.md",
+        "mtime": 1783494203701,
+        "size": 7053,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 2 Networking cho app.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 2 Networking cho app.md",
+        "mtime": 1783494475827,
+        "size": 9241,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md",
+        "mtime": 1783494453457,
+        "size": 10780,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 4 Deploy Backend Spring Boot.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 4 Deploy Backend Spring Boot.md",
+        "mtime": 1783494320631,
+        "size": 13554,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 5 Deploy React Frontend.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 5 Deploy React Frontend.md",
+        "mtime": 1783494435074,
+        "size": 12287,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md",
+        "mtime": 1783494422646,
+        "size": 14943,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Doc 1.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Doc 1.md",
+        "mtime": 1785600330526,
+        "size": 15521,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Doc 2.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Doc 2.md",
+        "mtime": 1785654056706,
+        "size": 15289,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Doc3.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Doc3.md",
+        "mtime": 1785658910076,
+        "size": 4798,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (old).md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (old).md",
+        "mtime": 1785727096014,
+        "size": 9460,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Things i have not undertood.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Things i have not undertood.md",
+        "mtime": 1785741631105,
+        "size": 1715,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 4/Phase 4 task list.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 4/Phase 4 task list.md",
+        "mtime": 1785730476282,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 5/Phase 5 task list.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 5/Phase 5 task list.md",
+        "mtime": 1785730488294,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 7/Phase 7 task list.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 7/Phase 7 task list.md",
+        "mtime": 1785730507719,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Doc/Doc1.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Doc/Doc1.md",
+        "mtime": 1785740954043,
+        "size": 327,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 1.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 1.md",
+        "mtime": 1785742113116,
+        "size": 3907,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 2.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 2.md",
+        "mtime": 1785742939953,
+        "size": 3771,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 3.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 3.md",
+        "mtime": 1785743452150,
+        "size": 3922,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 4.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 4.md",
+        "mtime": 1785743848609,
+        "size": 3549,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 5.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 5.md",
+        "mtime": 1785744216479,
+        "size": 4234,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.1.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.1.md",
+        "mtime": 1785745600159,
+        "size": 884,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.md",
+        "mtime": 1785744817243,
+        "size": 6654,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 7.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 7.md",
+        "mtime": 1785746260686,
+        "size": 4411,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 8.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 8.md",
+        "mtime": 1785746745319,
+        "size": 7746,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 9.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 9.md",
+        "mtime": 1785748579754,
+        "size": 6760,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 1/response budget.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 1/response budget.md",
+        "mtime": 1785895613814,
+        "size": 8529,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (new).md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (new).md",
+        "mtime": 1785895647301,
+        "size": 13796,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 3/Phase 3 task list.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 3/Phase 3 task list.md",
+        "mtime": 1785895673789,
+        "size": 25911,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 6/Phase 6 task list.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 6/Phase 6 task list.md",
+        "mtime": 1785895689062,
+        "size": 17566,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/1. Doc/Doc1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/1. Doc/Doc1.md",
+        "mtime": 1785740954043,
+        "size": 327,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/1. phase 2 task list (old).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/1. phase 2 task list (old).md",
+        "mtime": 1785727096014,
+        "size": 9460,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/2,. phase 2 task list (new).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/2,. phase 2 task list (new).md",
+        "mtime": 1785903397018,
+        "size": 13796,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Outside/Things i have not undertood.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Outside/Things i have not undertood.md",
+        "mtime": 1785741631105,
+        "size": 1715,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/1. Phase 3 task list.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/1. Phase 3 task list.md",
+        "mtime": 1785731184651,
+        "size": 25911,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/1. Phase 6 task list.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/1. Phase 6 task list.md",
+        "mtime": 1785738028989,
+        "size": 17566,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list.md",
+        "mtime": 1785905717757,
+        "size": 16505,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Plan.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Plan.md",
+        "mtime": 1785906599474,
+        "size": 31246,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 1.md",
+        "mtime": 1785658827955,
+        "size": 8536,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 2.md",
+        "mtime": 1785903368270,
+        "size": 17283,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 1.md",
+        "mtime": 1785742113116,
+        "size": 3907,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 3.md",
+        "mtime": 1785743452150,
+        "size": 3922,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 4.md",
+        "mtime": 1785743848609,
+        "size": 3549,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 5.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 5.md",
+        "mtime": 1785744216479,
+        "size": 4234,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 2.md",
+        "mtime": 1785742939953,
+        "size": 3771,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.1.md",
+        "mtime": 1785745600159,
+        "size": 884,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 7.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 7.md",
+        "mtime": 1785746260686,
+        "size": 4411,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 8.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 8.md",
+        "mtime": 1785746745319,
+        "size": 7746,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 9.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 9.md",
+        "mtime": 1785748579754,
+        "size": 6760,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.md",
+        "mtime": 1785744817243,
+        "size": 6654,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/3. phase 2 task list (version 2).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/3. phase 2 task list (version 2).md",
+        "mtime": 1785905737723,
+        "size": 17834,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list (version 2).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list (version 2).md",
+        "mtime": 1785916326149,
+        "size": 8073,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/2. Phase 3 task list (version 1).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/2. Phase 3 task list (version 1).md",
+        "mtime": 1785905774490,
+        "size": 24199,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/2. Phase 6 task list (version 2).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/2. Phase 6 task list (version 2).md",
+        "mtime": 1785905750600,
+        "size": 23388,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/4. phase 2 task list (version 3).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/4. phase 2 task list (version 3).md",
+        "mtime": 1785916470652,
+        "size": 7870,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/3. Phase 3 task  list (version 2).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/3. Phase 3 task  list (version 2).md",
+        "mtime": 1785916497908,
+        "size": 10942,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/3. Phase 6 task list (version 3).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/3. Phase 6 task list (version 3).md",
+        "mtime": 1785916518193,
+        "size": 13013,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 1.md",
+        "mtime": 1785918382632,
+        "size": 3049,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 2.md",
+        "mtime": 1785918427558,
+        "size": 2935,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 3.md",
+        "mtime": 1785918640522,
+        "size": 5947,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.md",
+        "mtime": 1785918980298,
+        "size": 7583,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.1.md",
+        "mtime": 1785919255607,
+        "size": 5632,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 5.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 5.md",
+        "mtime": 1785919691473,
+        "size": 5660,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 6.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 6.md",
+        "mtime": 1785919955614,
+        "size": 6391,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 7.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 7.md",
+        "mtime": 1785921054209,
+        "size": 6362,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 8.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 8.md",
+        "mtime": 1785921514709,
+        "size": 9843,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 9.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 9.md",
+        "mtime": 1785922266722,
+        "size": 7024,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 10.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 10.md",
+        "mtime": 1785922701132,
+        "size": 7350,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.md",
+        "mtime": 1785923125925,
+        "size": 12762,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.md",
+        "mtime": 1785923885911,
+        "size": 7339,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.2.md",
+        "mtime": 1785939530297,
+        "size": 3380,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.1.md",
+        "mtime": 1785939595931,
+        "size": 4168,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.4.md",
+        "mtime": 1785940644320,
+        "size": 6303,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.3.md",
+        "mtime": 1785940941986,
+        "size": 7883,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 1.md",
+        "mtime": 1785941444968,
+        "size": 8548,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.1.md",
+        "mtime": 1785941903259,
+        "size": 830,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.2.md",
+        "mtime": 1785942477881,
+        "size": 980,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.md",
+        "mtime": 1785943307180,
+        "size": 18947,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.4.md",
+        "mtime": 1785943676685,
+        "size": 1022,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.3.md",
+        "mtime": 1785943741446,
+        "size": 3936,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.6.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.6.md",
+        "mtime": 1785945322299,
+        "size": 1797,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.5.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.5.md",
+        "mtime": 1785946501372,
+        "size": 11898,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.7.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.7.md",
+        "mtime": 1785946737138,
+        "size": 7629,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.8.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.8.md",
+        "mtime": 1785947100845,
+        "size": 6146,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.md",
+        "mtime": 1785999409516,
+        "size": 11817,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.1.md",
+        "mtime": 1786000471685,
+        "size": 1432,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.md",
+        "mtime": 1786000793071,
+        "size": 10544,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.1.md",
+        "mtime": 1786002576858,
+        "size": 5428,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 5.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 5.md",
+        "mtime": 1786003490404,
+        "size": 10767,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md",
+        "mtime": 1786004359499,
+        "size": 13344,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md",
+        "mtime": 1786007308749,
+        "size": 17386,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.md",
+        "mtime": 1786007880050,
+        "size": 19256,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md",
+        "mtime": 1786008366089,
+        "size": 8955,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.1.md",
+        "mtime": 1786008894955,
+        "size": 1122,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.md",
+        "mtime": 1786008692544,
+        "size": 8172,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.1.md",
+        "mtime": 1786008935605,
+        "size": 2276,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.md",
+        "mtime": 1786009213057,
+        "size": 3362,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.1.md",
+        "mtime": 1786009775656,
+        "size": 2220,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.1.md",
+        "mtime": 1786020975553,
+        "size": 5458,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.2.md",
+        "mtime": 1786021306760,
+        "size": 3520,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.3.md",
+        "mtime": 1786022356478,
+        "size": 2868,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.4.md",
+        "mtime": 1786022389398,
+        "size": 1347,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.md",
+        "mtime": 1786022656022,
+        "size": 7428,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.md",
+        "mtime": 1786022980896,
+        "size": 5962,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.4.md",
+        "mtime": 1786023267552,
+        "size": 2737,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.5.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.5.md",
+        "mtime": 1786023407338,
+        "size": 6030,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.6.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.6.md",
+        "mtime": 1786023695514,
+        "size": 5137,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.md",
+        "mtime": 1786024015803,
+        "size": 6997,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md",
+        "mtime": 1786024289405,
+        "size": 7251,
         "blockIds": [],
         "referencedIds": []
       }

@@ -20,91 +20,191 @@
             }
           },
           {
-            "id": "a637d761d3dde732",
+            "id": "fca31999893b19f8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Aws/2. Auction/10. Doc/u.md",
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/3. Phase 3 task  list (version 2).md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "u"
+              "title": "3. Phase 3 task  list (version 2)"
             }
           },
           {
-            "id": "78eccdfb0f300751",
+            "id": "c92fe6877d9234b4",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Doc3.md",
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Doc3"
+              "title": "res 2"
             }
           },
           {
-            "id": "6d80b19518bd1d77",
+            "id": "85014511c0a504a4",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/Phase 3 task list.md",
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Phase 3 task list"
+              "title": "res 3"
             }
           },
           {
-            "id": "e1e9ddc49248f5db",
+            "id": "1423a9fa474e688c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 2/phase 2 task list (new).md",
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.1.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "phase 2 task list (new)"
+              "title": "res 4.1"
+            }
+          },
+          {
+            "id": "de94dde5b1e4c9f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "res 5"
+            }
+          },
+          {
+            "id": "1850ebc0666e17f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "res 6"
+            }
+          },
+          {
+            "id": "0c462e2cab1367fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "res 6"
+            }
+          },
+          {
+            "id": "9b8f70a13b9e7f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "res 7"
+            }
+          },
+          {
+            "id": "a2a330cc0d9f0cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "res 7"
+            }
+          },
+          {
+            "id": "f28b58bc04510131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "res 8.1.1.2.1.3"
+            }
+          },
+          {
+            "id": "1e3591845a6a9367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "res 8.1.1.2.1.7.1"
+            }
+          },
+          {
+            "id": "7804abdf59663357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "res 8.1.1.2.1.3.4"
+            }
+          },
+          {
+            "id": "9e56799f9b93e552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "res 8.1.1.2.1.7.1"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "e65cf8f70e0d1a94",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ea20bc14c31b31f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/11. Websocket/res1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res1"
-            }
-          }
-        ]
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -138,9 +238,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#doc6",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -163,7 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.50499725341797
+    "width": 329.02501678466797
   },
   "right": {
     "id": "9430295687da19f5",
@@ -282,44 +382,46 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ea20bc14c31b31f1",
+  "active": "9e56799f9b93e552",
   "lastOpenFiles": [
-    "2. Aws/2. Auction/11. Websocket/res2.md",
-    "2. Aws/2. Auction/11. Websocket/res1.md",
-    "2. Aws/2. Auction/6. Doc/Doc2.md",
-    "2. Aws/2. Auction/11. Websocket",
-    "2. Aws/2. Auction/6. Doc/Doc1.md",
-    "2. Aws/2. Auction/6. Doc/Doc5.md",
-    "2. Aws/2. Auction/6. Doc/Doc4.md",
-    "2. Aws/2. Auction/6. Doc/Doc3.md",
-    "8. Ticktick/1. CML Setting time for existing checklists.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/Phase 3 task list.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/phase 2 task list (new).md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 9.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 8.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 7.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 6.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 6.1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 5.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 4.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 3.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/phase 2 task list (old).md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat/res 2.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Things i have not undertood.md",
-    "2. Aws/2. Auction/10. Doc/Phase 6/Phase 6 task list.md",
-    "2. Aws/2. Auction/10. Doc/Phase 5/Phase 5 task list.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Doc/Doc1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Response Chat",
-    "2. Aws/2. Auction/10. Doc/Phase 2/Doc",
-    "2. Aws/2. Auction/10. Doc/Doc3.md",
-    "2. Aws/2. Auction/10. Doc/Phase 1",
-    "2. Aws/2. Auction/10. Doc/Phase 7",
-    "2. Aws/2. Auction/10. Doc/Phase 6",
-    "2. Aws/2. Auction/10. Doc/Phase 5",
-    "2. Aws/2. Auction/10. Doc/Phase 4",
-    "2. Aws/2. Auction/10. Doc/Phase 3",
-    "2. Aws/2. Auction/10. Doc/Phase 2",
+    "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.4.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.6.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.5.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.7.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.8.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 5.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.2.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.3.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.4.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.4.md",
+    "Pasted image 20260806144523.png",
+    "Pasted image 20260805220332.png",
+    "2. Aws/2. Auction/10. Doc/Phase 6/4. Response Chat (new)",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)",
+    "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)",
+    "2. Aws/2. Auction/10. Doc/Phase 1/4. Response Chat (new)",
+    "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases",
+    "2. Aws/2. Auction/10. Doc/Phase 6/1. Doc",
+    "2. Aws/2. Auction/10. Doc/Phase 3/1. Doc",
+    "2. Aws/2. Auction/10. Doc/Phase 6/2. Response Chat",
+    "2. Aws/2. Auction/10. Doc/Phase 3/2. Response Chat",
+    "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Checklist for Amazon VPC.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/1. CIDR.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/9. Bandwith.canvas",
@@ -337,8 +439,6 @@
     "Slide-Deck-Export/aws-vpc-field-guide-linked/05-aws-vpc-field-guide-linked.png",
     "Slide-Deck-Export/aws-vpc-field-guide-linked/04-aws-vpc-field-guide-linked.png",
     "Slide-Deck-Export/aws-vpc-field-guide-linked/03-aws-vpc-field-guide-linked.png",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/02-aws-vpc-field-guide-linked.png",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/01-aws-vpc-field-guide-linked.png",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/18-aws-vpc-field-guide-linked.png"
+    "Slide-Deck-Export/aws-vpc-field-guide-linked/02-aws-vpc-field-guide-linked.png"
   ]
 }

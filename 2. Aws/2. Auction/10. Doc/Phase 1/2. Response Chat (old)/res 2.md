@@ -1,0 +1,616 @@
+# Document 1 Review
+The document is generally correct, but it still describes the old Auction project. I corrected these issues:
+- Replaced Auction references with Pet Shop.
+- Replaced `auction-dev-admin` with `pet-shop-dev-admin`.
+- Updated resource-name examples for Spring Boot and React.
+- Clarified that stopped EC2 instances can still generate EBS, snapshot, and public IPv4-related costs.
+- Clarified that not every RDS configuration supports stopping.
+- Added CloudWatch, RDS snapshots, ECR images, and public IPv4 addresses to the cost checklist.
+- Clarified that AWS Budgets alerts normally notify you only once when a threshold is first crossed during a budget period.
+- Added warnings before deleting databases, volumes, snapshots, and S3 objects.
+Below is the corrected document.
+
+---
+# Main Problem
+While learning AWS, you may create resources for your Pet Shop project and forget that they are still running.
+Your Pet Shop application may eventually use:
+```
+React frontend
+Spring Boot backend
+RDS MySQL database
+S3
+CloudFront
+Route 53
+CloudWatch
+```
+AWS can continue charging for resources until you stop or delete them.
+An AWS Budget helps you monitor spending, but a standard budget notification does not automatically stop your resources. AWS Budget Actions can perform certain actions, but they require additional IAM configuration and are not necessary for your first learning deployment.
+Therefore:
+```
+AWS Budget
+    ↓
+Sends a warning
+    ↓
+You inspect your resources
+    ↓
+You stop or delete unnecessary resources
+```
+A `$5` budget is an alerting target, not a guaranteed maximum bill.
+Complete the following tasks before creating expensive Pet Shop infrastructure.
+# Problem 1: Create a monthly AWS budget
+## Solution
+Start with a `$5 monthly budget` because you are currently learning AWS rather than operating a production application.
+In the AWS Console:
+1. Sign in using your IAM administrator user.
+For example:
+```
+pet-shop-dev-admin
+```
+If you already created an IAM user with a different name, continue using that user. You do not need to create another user only because the project name changed.
+2. Search for:
+```
+Billing and Cost Management
+```
+3. Open:
+```
+Budgets
+```
+4. Select:
+```
+Create budget
+```
+5. Choose the advanced or customizable budget option shown in the current AWS interface.
+6. Choose:
+```
+Cost budget
+```
+7. Configure:
+```
+Budget name: pet-shop-learning-monthly-budget
+Period: Monthly
+Budget renewal type: Recurring
+Budget amount: $5
+Scope: All AWS services
+```
+AWS Budgets supports notifications for both actual and forecasted costs. [AWS Budgets documentation](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html?utm_source=chatgpt.com)
+If your IAM user cannot open Billing and Cost Management, check the following:
+```
+Root account has enabled IAM access to billing information
+AND
+The IAM user has the required Billing and Budgets permissions
+```
+Do not create root-user access keys to solve a Billing permissions problem.
+# Problem 2: Create three email alerts
+## Solution
+Add the following notifications to the same budget:
+
+|Threshold|Amount for a $5 budget|Meaning|
+|---|---|---|
+|50%|$2.50|Early warning|
+|80%|$4.00|Review your active resources|
+|100%|$5.00|Stop or delete unnecessary resources immediately|
+For each notification, configure:
+```
+Threshold: 50%, 80%, or 100%
+Threshold type: Percentage of budget
+Notification basis: Actual
+Email recipient: Your normal email address
+```
+Your required notification configuration should be:
+```
+50% actual cost
+80% actual cost
+100% actual cost
+```
+You can optionally add:
+```
+80% forecasted cost
+```
+A forecasted alert warns you when AWS predicts that your spending will exceed the threshold. Because a forecast is calculated from historical usage, it may be unavailable or inaccurate when your account has little usage history. [AWS forecasting documentation](https://docs.aws.amazon.com/cost-management/latest/userguide/ce-forecast.html?utm_source=chatgpt.com)
+After creating the budget, verify:
+```
+[ ] The budget amount is $5
+[ ] The budget resets monthly
+[ ] All three actual-cost alerts exist
+[ ] The email address is correct
+[ ] The budget covers all AWS services
+```
+AWS normally sends an actual-cost alert once per threshold per budget period when that threshold is first crossed. It should not be treated as a continuously repeating reminder. [AWS Budgets best practices](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-best-practices.html?utm_source=chatgpt.com)
+# Problem 3: Understand what budget alerts do
+## Solution
+A budget alert can send an email similar to:
+```
+Your AWS cost has reached 80% of your budget.
+```
+A standard notification does not automatically perform these operations:
+```
+Stop EC2
+Stop RDS
+Delete a NAT Gateway
+Delete a Load Balancer
+Delete an Elastic IP address
+Delete an EBS volume
+```
+The normal process is:
+```
+Budget threshold is reached
+    ↓
+AWS sends an email
+    ↓
+You open Billing and Cost Management
+    ↓
+You identify the service producing the cost
+    ↓
+You inspect its resources
+    ↓
+You stop or delete unnecessary resources
+```
+Do not treat `$5` as a spending limit that AWS cannot exceed.
+AWS cost information can be delayed. Your cost may already be higher by the time the alert arrives.
+# Problem 4: Stop the Spring Boot EC2 instance after practising
+## Solution
+Your EC2 instance may run:
+```
+Java
+Spring Boot
+Nginx
+Pet Shop backend API
+```
+When you finish practising:
+1. Open:
+```
+EC2
+```
+2. Select:
+```
+Instances
+```
+3. Find the Pet Shop backend instance.
+For example:
+```
+pet-shop-backend-ec2
+```
+4. Choose:
+```
+Instance state
+→ Stop instance
+```
+Use:
+```
+Stop
+```
+when you want to use the same server again.
+Use:
+```
+Terminate
+```
+only when you no longer need the instance.
+Termination is destructive. Depending on its configuration, terminating the instance may also delete its root EBS volume.
+Before terminating it, check whether you need to preserve:
+```
+Application configuration
+Uploaded files stored locally
+Spring Boot environment variables
+Nginx configuration
+SSL configuration
+Log files
+Database backups
+```
+A stopped EC2 instance does not incur normal instance-compute charges, but other resources may still generate costs:
+```
+Attached EBS volumes
+EBS snapshots
+Elastic IP addresses
+Other public IPv4 addresses
+CloudWatch logs and metrics
+```
+AWS charges for public IPv4 addresses, including addresses associated with running EC2 instances and allocated Elastic IP addresses. [AWS EC2 IP-address documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html?utm_source=chatgpt.com)
+# Problem 5: Stop RDS when you are not using the database
+## Solution
+Your Pet Shop Spring Boot backend may connect to:
+```
+Amazon RDS for MySQL
+```
+When you finish database testing:
+1. Open:
+```
+RDS
+```
+2. Choose:
+```
+Databases
+```
+3. Select the Pet Shop database.
+For example:
+```
+pet-shop-mysql
+```
+4. Choose:
+```
+Actions
+→ Stop temporarily
+```
+Not every RDS engine or database configuration supports stopping. If the Stop option is unavailable, check the engine and deployment configuration.
+Stopping an RDS DB instance can reduce database-compute costs, but AWS may continue charging for:
+```
+Provisioned database storage
+Automated backup storage beyond applicable allowances
+Manual snapshots
+Provisioned IOPS, depending on configuration
+Other related storage resources
+```
+A temporarily stopped RDS database does not remain stopped forever. AWS may automatically restart it after the maximum supported stopping period.
+Therefore:
+```
+Stopping RDS once
+≠
+RDS remains stopped permanently
+```
+Check the database regularly.
+When you no longer need it:
+```
+Decide whether its data is required
+    ↓
+Create a final snapshot if required
+    ↓
+Verify the snapshot
+    ↓
+Delete the RDS instance
+```
+Before deleting the database, confirm that you no longer need the Pet Shop data.
+Examples include:
+```
+User accounts
+Product information
+Pet information
+Orders
+Order items
+Inventory records
+Payments
+Addresses
+```
+# Problem 6: Avoid creating a NAT Gateway while learning
+## Solution
+For your first Pet Shop deployment, avoid creating a NAT Gateway unless your architecture genuinely requires one.
+A NAT Gateway can generate:
+```
+Hourly charges
+Data-processing charges
+Public IPv4-related charges
+```
+For an initial learning deployment, you can use:
+```
+Internet
+    ↓
+Public subnet
+    ↓
+EC2 with public IPv4 address
+    ↓
+Spring Boot backend
+```
+The React frontend could initially run from:
+```
+Your local computer
+```
+or later be deployed through:
+```
+S3
+    ↓
+CloudFront
+```
+A more advanced production architecture may use:
+```
+Internet
+    ↓
+Application Load Balancer
+    ↓
+Spring Boot EC2 instances in private subnets
+    ↓
+RDS in private subnets
+```
+Private Spring Boot instances may require controlled outbound access through a NAT Gateway or appropriate VPC endpoints. That architecture is more secure and scalable, but it is also more complex and expensive.
+Do not build it until the project requires it.
+If you accidentally create a NAT Gateway:
+1. Open:
+```
+VPC
+```
+2. Open:
+```
+NAT gateways
+```
+3. Select the unwanted NAT Gateway.
+4. Choose:
+```
+Delete NAT gateway
+```
+5. Check the associated route tables and remove or replace routes pointing to the deleted NAT Gateway.
+6. Open:
+```
+EC2
+→ Elastic IP addresses
+```
+7. Release the associated Elastic IP address if it is no longer needed.
+Deleting a public NAT Gateway disassociates its Elastic IP address, but it does not automatically release the address. NAT Gateway routes can also remain in a `blackhole` state until you remove or replace them. [AWS NAT Gateway documentation](https://docs.aws.amazon.com/vpc/latest/userguide/nat-gateway-working-with.html?utm_source=chatgpt.com)
+# Problem 7: Delete unused Load Balancers
+## Solution
+If you experiment with an Application Load Balancer:
+1. Open:
+```
+EC2
+```
+2. Open:
+```
+Load Balancers
+```
+3. Find the Pet Shop Load Balancer.
+For example:
+```
+pet-shop-alb
+```
+4. Confirm that no application still depends on it.
+5. Delete it when the experiment is finished.
+Stopping the Spring Boot EC2 instance does not stop or delete the Load Balancer.
+```
+EC2 stopped
+≠
+Load Balancer deleted
+```
+The Load Balancer is an independent AWS resource and can continue generating charges.
+Also check for related resources:
+```
+Target groups
+Listeners
+Security groups
+Certificates
+Route 53 records
+```
+Some related resources may not incur direct charges, but removing unused configuration keeps the account easier to understand.
+# Problem 8: Check EBS volumes after deleting EC2
+## Solution
+When an EC2 instance is terminated, some EBS volumes may remain.
+Check them using:
+```
+EC2
+→ Elastic Block Store
+→ Volumes
+```
+Look for volumes whose state is:
+```
+Available
+```
+In this context, `Available` usually means the volume exists but is not attached to an EC2 instance.
+Delete a volume only when:
+```
+It is not attached
+AND
+You do not need its data
+AND
+You do not need to attach it again
+AND
+You have any required backup
+```
+Do not delete a volume only because its state is `Available`. It may contain important Spring Boot configuration, uploaded content, or other data.
+Also check:
+```
+EC2
+→ Elastic Block Store
+→ Snapshots
+```
+EBS snapshots can continue generating storage costs after the original EC2 instance or volume is gone.
+# Problem 9: Release unused Elastic IP addresses
+## Solution
+Check:
+```
+EC2
+→ Network & Security
+→ Elastic IP addresses
+```
+Release an Elastic IP address when:
+```
+The EC2 instance was terminated
+The NAT Gateway was deleted
+The address is no longer needed
+```
+Before releasing it, check whether it is referenced by:
+```
+DNS records
+React API configuration
+Spring Boot callback URLs
+Firewall allowlists
+External integrations
+```
+After releasing an Elastic IP address, you should assume that you will not receive the same address again.
+AWS currently charges for Elastic IP addresses whether they are associated with a resource or idle. [AWS Elastic IP documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html?utm_source=chatgpt.com)
+# Problem 10: Check S3, CloudFront, Route 53, CloudWatch, and ECR
+## Solution
+These services may be inexpensive during small experiments, but they are not automatically free.
+## S3
+Your Pet Shop project may store:
+```
+React production files
+Pet images
+Product images
+User-uploaded images
+Database exports
+Application backups
+```
+Check for:
+```
+Large uploaded files
+Old backups
+Unused images
+Incomplete multipart uploads
+Versioned objects
+Old object versions
+Unused buckets
+```
+Before deleting an S3 object or bucket, confirm that the React frontend or Spring Boot backend no longer depends on it.
+## CloudFront
+Check for distributions created for:
+```
+React frontend hosting
+Pet image delivery
+Product image delivery
+Testing
+```
+Disable and delete distributions that are no longer required.
+A CloudFront distribution normally must be disabled before it can be deleted.
+## Route 53
+Check:
+```
+Hosted zones
+Registered domains
+Health checks
+DNS records
+```
+Deleting EC2, S3, or CloudFront does not automatically delete:
+```
+Route 53 hosted zones
+Domain registrations
+Health checks
+```
+A registered domain can renew separately. Review its automatic-renewal setting.
+## CloudWatch
+Check:
+```
+Log groups
+Application logs
+Custom metrics
+Alarms
+Dashboards
+```
+Spring Boot and EC2 logs can continue accumulating in CloudWatch.
+Configure a reasonable log-retention period, such as:
+```
+7 days
+14 days
+30 days
+```
+Avoid leaving every learning log group configured to retain logs forever.
+## Elastic Container Registry
+If you package Spring Boot as a Docker image and push it to Amazon ECR, check for:
+```
+Old image tags
+Untagged images
+Unused repositories
+Large historical images
+```
+Consider an ECR lifecycle policy for automatically removing old development images.
+# Problem 11: Review your current spending
+## Solution
+Open:
+```
+Billing and Cost Management
+→ Cost Explorer
+```
+Configure:
+```
+Date range: Current month
+Granularity: Daily
+Group by: Service
+```
+This helps identify which service is generating costs.
+Example:
+```
+Amazon EC2          $1.40
+Amazon RDS          $2.10
+EC2 Other           $0.65
+Amazon VPC          $0.80
+Amazon CloudFront   $0.10
+Amazon S3           $0.05
+Amazon CloudWatch   $0.15
+```
+Costs may appear under different service categories:
+```
+EC2 instance compute        → Amazon EC2
+EBS-related costs           → EC2 Other
+NAT Gateway                 → Amazon VPC
+Public IPv4 addresses       → Amazon VPC
+Database                    → Amazon RDS
+React static files          → Amazon S3
+Frontend content delivery   → Amazon CloudFront
+Application logs            → Amazon CloudWatch
+Docker image storage        → Amazon ECR
+```
+Cost Explorer and budget information may not update immediately. Recently generated costs can take time to appear.
+# Problem 12: Tag Pet Shop resources
+## Solution
+Resource tags make it easier to identify which resources belong to your Pet Shop project.
+Where supported, add:
+```
+Project: pet-shop
+Environment: learning
+Owner: your-name
+ManagedBy: manual
+```
+Example resource names:
+```
+pet-shop-backend-ec2
+pet-shop-mysql
+pet-shop-alb
+pet-shop-images
+pet-shop-frontend
+pet-shop-backend-sg
+pet-shop-rds-sg
+```
+Consistent names and tags reduce the chance of deleting the wrong resource.
+# Your immediate checklist
+Complete these tasks now:
+```
+[ ] Create one $5 monthly cost budget
+[ ] Add a 50% actual-cost alert
+[ ] Add an 80% actual-cost alert
+[ ] Add a 100% actual-cost alert
+[ ] Use your normal email address for every alert
+[ ] Verify that the budget covers all AWS services
+[ ] Open Cost Explorer
+[ ] Check whether any EC2 instance is running
+[ ] Check whether any RDS database is running
+[ ] Check whether a NAT Gateway exists
+[ ] Check whether a Load Balancer exists
+[ ] Check for unattached EBS volumes
+[ ] Check for unnecessary EBS snapshots
+[ ] Check for unused Elastic IP addresses
+[ ] Check for unused public IPv4 addresses
+[ ] Check S3 buckets and old object versions
+[ ] Check CloudFront distributions
+[ ] Check Route 53 hosted zones, domains, and health checks
+[ ] Check CloudWatch log groups
+[ ] Check ECR repositories and images
+[ ] Add Pet Shop tags to supported resources
+```
+# Checklist after every Pet Shop practice session
+```
+Stop the Spring Boot EC2 instance
+    ↓
+Stop RDS if the configuration supports it
+    ↓
+Delete temporary Load Balancers
+    ↓
+Delete temporary NAT Gateways
+    ↓
+Release unused Elastic IP addresses
+    ↓
+Check unattached EBS volumes and old snapshots
+    ↓
+Check CloudWatch logs
+    ↓
+Check Cost Explorer
+```
+The most important first action is:
+```
+Create the $5 monthly budget
+    ↓
+Add the three actual-cost alerts
+    ↓
+Review Cost Explorer regularly
+```
+## Decision requiring your approval
+The document currently recommends these example names:
+```
+IAM user: pet-shop-dev-admin
+Budget: pet-shop-learning-monthly-budget
+Project tag: pet-shop
+```
+If you already created `auction-dev-admin`, you can safely continue using it. An IAM user belongs to your AWS account, not to only one application. Renaming or recreating it is optional.
