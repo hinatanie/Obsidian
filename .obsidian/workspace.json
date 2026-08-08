@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0567d2049fcff603",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
-            }
-          },
-          {
             "id": "fca31999893b19f8",
             "type": "leaf",
             "pinned": true,
@@ -41,170 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.md",
+                "file": "2. Aws/2. Auction/12. Lambda/2. Assign/2. ChatGPT (new).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "res 2"
-            }
-          },
-          {
-            "id": "85014511c0a504a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res 3"
-            }
-          },
-          {
-            "id": "1423a9fa474e688c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res 4.1"
-            }
-          },
-          {
-            "id": "de94dde5b1e4c9f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res 5"
-            }
-          },
-          {
-            "id": "1850ebc0666e17f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res 6"
-            }
-          },
-          {
-            "id": "0c462e2cab1367fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res 6"
-            }
-          },
-          {
-            "id": "9b8f70a13b9e7f78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res 7"
-            }
-          },
-          {
-            "id": "a2a330cc0d9f0cca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res 7"
-            }
-          },
-          {
-            "id": "f28b58bc04510131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res 8.1.1.2.1.3"
-            }
-          },
-          {
-            "id": "1e3591845a6a9367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res 8.1.1.2.1.7.1"
-            }
-          },
-          {
-            "id": "7804abdf59663357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res 8.1.1.2.1.3.4"
-            }
-          },
-          {
-            "id": "9e56799f9b93e552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "res 8.1.1.2.1.7.1"
+              "title": "2. ChatGPT (new)"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "happy-pet-s",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -382,34 +216,36 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9e56799f9b93e552",
+  "active": "c92fe6877d9234b4",
   "lastOpenFiles": [
-    "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.4.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.6.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.5.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.7.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.8.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 5.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.1.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.2.md",
+    "2. Aws/2. Auction/12. Lambda/2. Assign/1. ChatGPT.md",
+    "2. Aws/2. Auction/12. Lambda/3. ChatGPT response",
+    "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT",
+    "2. Aws/2. Auction/10. Doc/Plan.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 13.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md",
     "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.3.md",
-    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.4.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.md",
+    "2. Aws/14. PetShop/2. Phases/Phase 4 Deploy Backend Spring Boot.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.2.md",
+    "2. Aws/2. Auction/2. Phases/Phase 4 Deploy Backend Spring Boot.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/3. Phase 3 task  list (version 2).md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.6.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.5.md",
     "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.4.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.4.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.2.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.1.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.3.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 15.md",
+    "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.2.md",
     "Pasted image 20260806144523.png",
     "Pasted image 20260805220332.png",
     "2. Aws/2. Auction/10. Doc/Phase 6/4. Response Chat (new)",
@@ -420,8 +256,6 @@
     "2. Aws/2. Auction/10. Doc/Phase 6/1. Doc",
     "2. Aws/2. Auction/10. Doc/Phase 3/1. Doc",
     "2. Aws/2. Auction/10. Doc/Phase 6/2. Response Chat",
-    "2. Aws/2. Auction/10. Doc/Phase 3/2. Response Chat",
-    "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Checklist for Amazon VPC.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/1. CIDR.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/9. Bandwith.canvas",

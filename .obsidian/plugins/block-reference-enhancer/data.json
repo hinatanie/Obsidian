@@ -11,7 +11,7 @@
   "indexCache": {
     "schemaVersion": 4,
     "parserRevision": 3,
-    "builtAt": 1786024290445,
+    "builtAt": 1786160269541,
     "files": {
       "4. Ielts/2. Writing/1. 2025 february writting.md": {
         "path": "4. Ielts/2. Writing/1. 2025 february writting.md",
@@ -962,76 +962,6 @@
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/12. Lambda/2. Prompt 2/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/2. Prompt 2/1. ChatGPT.md",
-        "mtime": 1785856781701,
-        "size": 1110,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/1. Prompt 1/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/1. Prompt 1/1. ChatGPT.md",
-        "mtime": 1785856731214,
-        "size": 969,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/5. Prompt 5/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/5. Prompt 5/1. ChatGPT.md",
-        "mtime": 1785856923904,
-        "size": 1503,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/6. Prompt 6/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/6. Prompt 6/1. ChatGPT.md",
-        "mtime": 1785856995582,
-        "size": 3042,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. Prompt 3/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. Prompt 3/1. ChatGPT.md",
-        "mtime": 1785857529960,
-        "size": 1053,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/4. Prompt 4/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/4. Prompt 4/1. ChatGPT.md",
-        "mtime": 1785857594185,
-        "size": 884,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/7. Assign/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/7. Assign/1. ChatGPT.md",
-        "mtime": 1785861077117,
-        "size": 30175,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/7. Assign/1. ChatGPT (new).md": {
-        "path": "2. Aws/2. Auction/12. Lambda/7. Assign/1. ChatGPT (new).md",
-        "mtime": 1785862198957,
-        "size": 18373,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/7. Assign/2. Danh.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/7. Assign/2. Danh.md",
-        "mtime": 1785892602588,
-        "size": 15093,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/7. Assign/3. Phát.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/7. Assign/3. Phát.md",
-        "mtime": 1785892616577,
-        "size": 11192,
-        "blockIds": [],
-        "referencedIds": []
-      },
       "2. Aws/14. PetShop/1. Response/1. res 1.md": {
         "path": "2. Aws/14. PetShop/1. Response/1. res 1.md",
         "mtime": 1785894679628,
@@ -1676,13 +1606,6 @@
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md",
-        "mtime": 1786008366089,
-        "size": 8955,
-        "blockIds": [],
-        "referencedIds": []
-      },
       "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.1.md": {
         "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.1.md",
         "mtime": 1786008894955,
@@ -1788,10 +1711,157 @@
         "blockIds": [],
         "referencedIds": []
       },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.md",
+        "mtime": 1786075933114,
+        "size": 4076,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.md",
+        "mtime": 1786077195011,
+        "size": 3019,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.1.md",
+        "mtime": 1786081907249,
+        "size": 4123,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.3.md",
+        "mtime": 1786084778814,
+        "size": 1747,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md",
+        "mtime": 1786085376553,
+        "size": 8951,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.2.md",
+        "mtime": 1786087236350,
+        "size": 2024,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 13.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 13.md",
+        "mtime": 1786088198631,
+        "size": 8999,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.md",
+        "mtime": 1786090348712,
+        "size": 12762,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.1.md",
+        "mtime": 1786090968192,
+        "size": 8422,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.md",
+        "mtime": 1786091079047,
+        "size": 5334,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.1.md",
+        "mtime": 1786092607100,
+        "size": 1819,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.2.md",
+        "mtime": 1786092886210,
+        "size": 4551,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 15.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 15.md",
+        "mtime": 1786094572169,
+        "size": 5557,
+        "blockIds": [],
+        "referencedIds": []
+      },
       "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md": {
         "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md",
-        "mtime": 1786024289405,
-        "size": 7251,
+        "mtime": 1786111806244,
+        "size": 7133,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/1. Prompt 1/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/1. Prompt 1/1. ChatGPT.md",
+        "mtime": 1785856731214,
+        "size": 969,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/2. Prompt 2/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/2. Prompt 2/1. ChatGPT.md",
+        "mtime": 1785856781701,
+        "size": 1110,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/3. Prompt 3/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/3. Prompt 3/1. ChatGPT.md",
+        "mtime": 1785857529960,
+        "size": 1053,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/4. Prompt 4/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/4. Prompt 4/1. ChatGPT.md",
+        "mtime": 1785857594185,
+        "size": 884,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/5. Prompt 5/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/5. Prompt 5/1. ChatGPT.md",
+        "mtime": 1785856923904,
+        "size": 1503,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/6. Prompt 6/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/6. Prompt 6/1. ChatGPT.md",
+        "mtime": 1785856995582,
+        "size": 3042,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/2. Assign/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/2. Assign/1. ChatGPT.md",
+        "mtime": 1785861077117,
+        "size": 30175,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/2. Assign/2. ChatGPT (new).md": {
+        "path": "2. Aws/2. Auction/12. Lambda/2. Assign/2. ChatGPT (new).md",
+        "mtime": 1785862198957,
+        "size": 18373,
         "blockIds": [],
         "referencedIds": []
       }

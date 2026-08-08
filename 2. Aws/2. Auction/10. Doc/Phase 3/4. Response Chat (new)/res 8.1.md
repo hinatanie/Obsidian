@@ -243,7 +243,7 @@ For your first deployment, exposing only health publicly is usually enough.
 ## Solution
 After Nginx is configured to forward traffic to Spring Boot, test from your browser:
 ```
-http://YOUR_EC2_PUBLIC_IP/actuator/health
+http://54.179.121.250/actuator/health
 ```
 Expected:
 ```

@@ -177,13 +177,7 @@ Get-ChildItem ".\target\*.jar"
 ```
 Then run:
 ```
-jar tf ".\target\YOUR_REAL_JAR_NAME.jar" |
-  Select-String "db/migration"
-```
-Example:
-```
-jar tf ".\target\happy-pet-shop-0.0.1-SNAPSHOT.jar" |
-  Select-String "db/migration"
+jar tf ".\target\happy-pet-shop-0.0.1-SNAPSHOT.jar" | Select-String "db/migration"
 ```
 Expected:
 ```
@@ -223,7 +217,7 @@ If the file exists in `src/main/resources` but not in `target/classes`, check yo
 Replace the filename below with your actual JAR:
 ```
 Copy-Item `
-  ".\target\happy-pet-shop-0.0.1-SNAPSHOT.jar" `
+  ".\target\pet-shop.jar" `
   ".\pet-shop.jar" `
   -Force
 ```
@@ -233,10 +227,10 @@ Get-Item ".\pet-shop.jar"
 ```
 Inspect this final deployment JAR too:
 ```
-jar tf ".\pet-shop.jar" |
+jar tf ".\pet-shopscp .jar" |
   Select-String "db/migration"
 ```
-Do not upload until this command shows the migration files.
+Do not upload until this command shows the migration files.scp 
 # Problem 10: Upload the new JAR to EC2
 ## Solution
 Use the current EC2 public IPv4 address:
@@ -244,7 +238,7 @@ Use the current EC2 public IPv4 address:
 scp `
   -i "C:\Users\ADMIN\Downloads\pet-shop-backend-key.pem" `
   ".\pet-shop.jar" `
-  ubuntu@YOUR_CURRENT_EC2_PUBLIC_IP:/home/ubuntu/pet-shop.jar
+  ubuntu@54.179.121.250:/home/ubuntu/pet-shop.jar
 ```
 Then connect to EC2 through Session Manager.
 Stop the service before replacing the JAR:
