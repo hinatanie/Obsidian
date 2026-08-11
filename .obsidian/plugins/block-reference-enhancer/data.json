@@ -11,7 +11,7 @@
   "indexCache": {
     "schemaVersion": 4,
     "parserRevision": 3,
-    "builtAt": 1786160269541,
+    "builtAt": 1786280803237,
     "files": {
       "4. Ielts/2. Writing/1. 2025 february writting.md": {
         "path": "4. Ielts/2. Writing/1. 2025 february writting.md",
@@ -917,13 +917,6 @@
         "path": "2. Aws/2. Auction/10. Doc/Doc3.md",
         "mtime": 1785658910076,
         "size": 4798,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "8. Ticktick/1. CML Setting time for existing checklists.md": {
-        "path": "8. Ticktick/1. CML Setting time for existing checklists.md",
-        "mtime": 1785824955663,
-        "size": 1561,
         "blockIds": [],
         "referencedIds": []
       },
@@ -1862,6 +1855,188 @@
         "path": "2. Aws/2. Auction/12. Lambda/2. Assign/2. ChatGPT (new).md",
         "mtime": 1785862198957,
         "size": 18373,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.4.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.4.md",
+        "mtime": 1786173483151,
+        "size": 5093,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.6.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.6.md",
+        "mtime": 1786173929132,
+        "size": 3039,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.7.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.7.md",
+        "mtime": 1786174145518,
+        "size": 5467,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.8.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.8.md",
+        "mtime": 1786176080217,
+        "size": 4096,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.9.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.9.md",
+        "mtime": 1786176347489,
+        "size": 2081,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.10.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.10.md",
+        "mtime": 1786176629742,
+        "size": 1355,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.md",
+        "mtime": 1786176781595,
+        "size": 2202,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.1.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.1.md",
+        "mtime": 1786176872337,
+        "size": 1947,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "8. Ticktick/1. CML Setting time for existing checklists.md": {
+        "path": "8. Ticktick/1. CML Setting time for existing checklists.md",
+        "mtime": 1786179904795,
+        "size": 2537,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.md",
+        "mtime": 1786180060930,
+        "size": 14001,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.14.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.14.md",
+        "mtime": 1786181088762,
+        "size": 1885,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.1.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.1.md",
+        "mtime": 1786181441174,
+        "size": 6238,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.md",
+        "mtime": 1786182222134,
+        "size": 13016,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.2.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.2.md",
+        "mtime": 1786182303194,
+        "size": 2270,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.3.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.3.md",
+        "mtime": 1786182459544,
+        "size": 4587,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.4.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.4.md",
+        "mtime": 1786182690153,
+        "size": 4249,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.5.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.5.md",
+        "mtime": 1786182925263,
+        "size": 3908,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.6.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.6.md",
+        "mtime": 1786183005404,
+        "size": 5702,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.7.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.7.md",
+        "mtime": 1786183759563,
+        "size": 6464,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.8.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.8.md",
+        "mtime": 1786184342005,
+        "size": 6035,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.9.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.9.md",
+        "mtime": 1786184602138,
+        "size": 6685,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.10.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.10.md",
+        "mtime": 1786184910834,
+        "size": 6982,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.11.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.11.md",
+        "mtime": 1786185147176,
+        "size": 6920,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.12.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.12.md",
+        "mtime": 1786185328783,
+        "size": 9357,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.13.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.13.md",
+        "mtime": 1786185618757,
+        "size": 2300,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/14. Report/1. ChatGPT response/res 1.md": {
+        "path": "2. Aws/2. Auction/14. Report/1. ChatGPT response/res 1.md",
+        "mtime": 1786280802195,
+        "size": 14470,
         "blockIds": [],
         "referencedIds": []
       }
