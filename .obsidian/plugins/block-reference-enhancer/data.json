@@ -11,2065 +11,2042 @@
   "indexCache": {
     "schemaVersion": 4,
     "parserRevision": 3,
-    "builtAt": 1786280803237,
+    "builtAt": 1788081795527,
     "files": {
-      "4. Ielts/2. Writing/1. 2025 february writting.md": {
-        "path": "4. Ielts/2. Writing/1. 2025 february writting.md",
-        "mtime": 1783492207146,
+      "Untitled.md": {
+        "path": "Untitled.md",
+        "mtime": 1788061572996,
+        "size": 39159,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 7.md": {
+        "path": "Untitled 7.md",
+        "mtime": 1788061572996,
         "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 6.md": {
+        "path": "Untitled 6.md",
+        "mtime": 1788061572994,
+        "size": 3089,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 5.md": {
+        "path": "Untitled 5.md",
+        "mtime": 1788061572994,
+        "size": 13723,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 4.md": {
+        "path": "Untitled 4.md",
+        "mtime": 1788061572993,
+        "size": 20423,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 3.md": {
+        "path": "Untitled 3.md",
+        "mtime": 1788061572992,
+        "size": 14167,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 2.md": {
+        "path": "Untitled 2.md",
+        "mtime": 1788061572991,
+        "size": 40331,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Untitled 1.md": {
+        "path": "Untitled 1.md",
+        "mtime": 1788061572990,
+        "size": 20462,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "lambda.md": {
+        "path": "lambda.md",
+        "mtime": 1788061572996,
+        "size": 22141,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "Excalidraw/Drawing 2026-07-30 14.03.32.excalidraw.md": {
+        "path": "Excalidraw/Drawing 2026-07-30 14.03.32.excalidraw.md",
+        "mtime": 1788061572986,
+        "size": 583,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "8. Ticktick/2. CML.md": {
+        "path": "8. Ticktick/2. CML.md",
+        "mtime": 1788061572985,
+        "size": 1907,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "8. Ticktick/1. CML Setting time for existing checklists.md": {
+        "path": "8. Ticktick/1. CML Setting time for existing checklists.md",
+        "mtime": 1788061572984,
+        "size": 2639,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/9. Create a process.md": {
+        "path": "7. Prompt/9. Create a process.md",
+        "mtime": 1788061572983,
+        "size": 1163,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/8. Create file based on topic.md": {
+        "path": "7. Prompt/8. Create file based on topic.md",
+        "mtime": 1788061572982,
+        "size": 2224,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/7. Split to smaller question and answer.md": {
+        "path": "7. Prompt/7. Split to smaller question and answer.md",
+        "mtime": 1788061572982,
+        "size": 960,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/5. Prompt for cursor.md": {
+        "path": "7. Prompt/5. Prompt for cursor.md",
+        "mtime": 1788061572981,
+        "size": 9048,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/4. Prompt to create quiz.md": {
+        "path": "7. Prompt/4. Prompt to create quiz.md",
+        "mtime": 1788061572981,
+        "size": 3052,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/3. Prompt for AI help learn things.md": {
+        "path": "7. Prompt/3. Prompt for AI help learn things.md",
+        "mtime": 1788061572979,
+        "size": 2920,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/2. Prompt markdown into flashcards.md": {
+        "path": "7. Prompt/2. Prompt markdown into flashcards.md",
+        "mtime": 1788061572978,
+        "size": 2436,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/10. Convert lesson into process.md": {
+        "path": "7. Prompt/10. Convert lesson into process.md",
+        "mtime": 1788061572977,
+        "size": 1942,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "7. Prompt/1. Prompt file markdown into .canvas.md": {
+        "path": "7. Prompt/1. Prompt file markdown into .canvas.md",
+        "mtime": 1788061572977,
+        "size": 8234,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "6. Spaced repetition/3. doc.md": {
+        "path": "6. Spaced repetition/3. doc.md",
+        "mtime": 1788061572976,
+        "size": 2649,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "6. Spaced repetition/2. Checklist for subnets.md": {
+        "path": "6. Spaced repetition/2. Checklist for subnets.md",
+        "mtime": 1788061572974,
+        "size": 10117,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "6. Spaced repetition/1. Checklist for Amazon VPC.md": {
+        "path": "6. Spaced repetition/1. Checklist for Amazon VPC.md",
+        "mtime": 1788061572974,
+        "size": 20146,
         "blockIds": [],
         "referencedIds": []
       },
       "4. Ielts/3. Speaking/1. 2025 february speaking.md": {
         "path": "4. Ielts/3. Speaking/1. 2025 february speaking.md",
-        "mtime": 1783492176189,
+        "mtime": 1788061572971,
         "size": 0,
         "blockIds": [],
         "referencedIds": []
       },
-      "4. Ielts/1. Listening/1. 2025 february listening/4..md": {
-        "path": "4. Ielts/1. Listening/1. 2025 february listening/4..md",
-        "mtime": 1783492416890,
-        "size": 4985,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "4. Ielts/1. Listening/1. 2025 february listening/3..md": {
-        "path": "4. Ielts/1. Listening/1. 2025 february listening/3..md",
-        "mtime": 1783492393396,
-        "size": 3793,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "4. Ielts/1. Listening/1. 2025 february listening/1..md": {
-        "path": "4. Ielts/1. Listening/1. 2025 february listening/1..md",
-        "mtime": 1783492445738,
-        "size": 5035,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "4. Ielts/1. Listening/1. 2025 february listening/2..md": {
-        "path": "4. Ielts/1. Listening/1. 2025 february listening/2..md",
-        "mtime": 1783492365381,
-        "size": 3571,
+      "4. Ielts/2. Writing/1. 2025 february writting.md": {
+        "path": "4. Ielts/2. Writing/1. 2025 february writting.md",
+        "mtime": 1788061572970,
+        "size": 0,
         "blockIds": [],
         "referencedIds": []
       },
       "4. Ielts/1. Listening/2. 2025 january listening/4..md": {
         "path": "4. Ielts/1. Listening/2. 2025 january listening/4..md",
-        "mtime": 1783492641593,
-        "size": 4318,
+        "mtime": 1788061572969,
+        "size": 4409,
         "blockIds": [],
         "referencedIds": []
       },
       "4. Ielts/1. Listening/2. 2025 january listening/3..md": {
         "path": "4. Ielts/1. Listening/2. 2025 january listening/3..md",
-        "mtime": 1783492621115,
-        "size": 3634,
+        "mtime": 1788061572969,
+        "size": 3707,
         "blockIds": [],
         "referencedIds": []
       },
       "4. Ielts/1. Listening/2. 2025 january listening/2..md": {
         "path": "4. Ielts/1. Listening/2. 2025 january listening/2..md",
-        "mtime": 1783492582303,
-        "size": 3460,
+        "mtime": 1788061572968,
+        "size": 3532,
         "blockIds": [],
         "referencedIds": []
       },
       "4. Ielts/1. Listening/2. 2025 january listening/1..md": {
         "path": "4. Ielts/1. Listening/2. 2025 january listening/1..md",
-        "mtime": 1783492559666,
-        "size": 2964,
+        "mtime": 1788061572967,
+        "size": 3054,
         "blockIds": [],
         "referencedIds": []
       },
-      "3. Todo list/1. todo list.md": {
-        "path": "3. Todo list/1. todo list.md",
-        "mtime": 1783478913701,
-        "size": 387,
+      "4. Ielts/1. Listening/1. 2025 february listening/4..md": {
+        "path": "4. Ielts/1. Listening/1. 2025 february listening/4..md",
+        "mtime": 1788061572967,
+        "size": 5069,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/1. Database/2. Docker-compose.md": {
-        "path": "2. Aws/2. Auction/1. Database/2. Docker-compose.md",
-        "mtime": 1783045904900,
-        "size": 136,
+      "4. Ielts/1. Listening/1. 2025 february listening/3..md": {
+        "path": "4. Ielts/1. Listening/1. 2025 february listening/3..md",
+        "mtime": 1788061572966,
+        "size": 3850,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/5. API Design/API Design.md": {
-        "path": "2. Aws/2. Auction/5. API Design/API Design.md",
-        "mtime": 1783497047752,
-        "size": 16805,
+      "4. Ielts/1. Listening/1. 2025 february listening/2..md": {
+        "path": "4. Ielts/1. Listening/1. 2025 february listening/2..md",
+        "mtime": 1788061572965,
+        "size": 3619,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/4. Use case/1. Backend Spring use case.md": {
-        "path": "2. Aws/2. Auction/4. Use case/1. Backend Spring use case.md",
-        "mtime": 1783494638150,
-        "size": 20965,
+      "4. Ielts/1. Listening/1. 2025 february listening/1..md": {
+        "path": "4. Ielts/1. Listening/1. 2025 february listening/1..md",
+        "mtime": 1788061572965,
+        "size": 5137,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md": {
-        "path": "2. Aws/2. Auction/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md",
-        "mtime": 1783494422646,
-        "size": 14943,
+      "30 days.md": {
+        "path": "30 days.md",
+        "mtime": 1788061572963,
+        "size": 7034,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/2. Phases/Phase 5 Deploy React Frontend.md": {
-        "path": "2. Aws/2. Auction/2. Phases/Phase 5 Deploy React Frontend.md",
-        "mtime": 1783494435074,
-        "size": 12287,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/2. Phases/Phase 4 Deploy Backend Spring Boot.md": {
-        "path": "2. Aws/2. Auction/2. Phases/Phase 4 Deploy Backend Spring Boot.md",
-        "mtime": 1783494320631,
-        "size": 13554,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md": {
-        "path": "2. Aws/2. Auction/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md",
-        "mtime": 1783494453457,
-        "size": 10780,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/2. Phases/Phase 2 Networking cho app.md": {
-        "path": "2. Aws/2. Auction/2. Phases/Phase 2 Networking cho app.md",
-        "mtime": 1783494475827,
-        "size": 9241,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/2. Phases/Phase 1 AWS.md": {
-        "path": "2. Aws/2. Auction/2. Phases/Phase 1 AWS.md",
-        "mtime": 1783494203701,
-        "size": 7053,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/2. Checklist.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/2. Checklist.md",
-        "mtime": 1783486096111,
-        "size": 19204,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/1. Introduction.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/1. Introduction.md",
-        "mtime": 1782225766295,
-        "size": 5022,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/2. Checklist.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/2. Checklist.md",
-        "mtime": 1783485993066,
-        "size": 23304,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/1. INTRODUCTION.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/1. INTRODUCTION.md",
-        "mtime": 1782188802919,
-        "size": 12504,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/5. NAT Gateway.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/5. NAT Gateway.md",
-        "mtime": 1782029249745,
-        "size": 2360,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/4. INTERNET GATEWAY.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/4. INTERNET GATEWAY.md",
-        "mtime": 1782027046741,
-        "size": 1047,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/3. ROUTE TABLE.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/3. ROUTE TABLE.md",
-        "mtime": 1782024809289,
-        "size": 1733,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/2. Subnets.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/2. Subnets.md",
-        "mtime": 1782022135492,
-        "size": 1502,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md",
-        "mtime": 1782098002397,
-        "size": 5374,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/2. Security Group.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/2. Security Group.md",
-        "mtime": 1782052494320,
-        "size": 5061,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/3. Checklist for NETWORK ACLS.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/3. Checklist for NETWORK ACLS.md",
-        "mtime": 1783485812626,
-        "size": 14283,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/2. Checklist for Security Group.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/2. Checklist for Security Group.md",
-        "mtime": 1783485741382,
-        "size": 5061,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/1. Checklist for Firewall in VPC.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/1. Checklist for Firewall in VPC.md",
-        "mtime": 1783485351506,
-        "size": 18764,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/3. NETWORK ACLS.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/3. NETWORK ACLS.md",
-        "mtime": 1782098913843,
-        "size": 2498,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/1. Firewall in VPC.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/1. Firewall in VPC.md",
-        "mtime": 1782051609143,
-        "size": 3694,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/2. Checklist.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/2. Checklist.md",
-        "mtime": 1783486198102,
-        "size": 19071,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/1. Amazon Relational Database Service (Amazon RDS).md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/1. Amazon Relational Database Service (Amazon RDS).md",
-        "mtime": 1782230098771,
-        "size": 3639,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "1. IT/3. Django/2. Steps to run Django backend.md": {
-        "path": "1. IT/3. Django/2. Steps to run Django backend.md",
-        "mtime": 1783483038896,
-        "size": 8306,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "1. IT/5. Spring boot/2. JWT Auth/1. Code/1. Step to step.md": {
-        "path": "1. IT/5. Spring boot/2. JWT Auth/1. Code/1. Step to step.md",
-        "mtime": 1782724394298,
-        "size": 15445,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/5. Checklist for JwtAuthenticationFilter.md": {
-        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/5. Checklist for JwtAuthenticationFilter.md",
-        "mtime": 1783483887295,
-        "size": 4683,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/6. Checklist for theory of JWT.md": {
-        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/6. Checklist for theory of JWT.md",
-        "mtime": 1783483879285,
-        "size": 7338,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/3. Checklist for AuthController.md": {
-        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/3. Checklist for AuthController.md",
-        "mtime": 1782723566784,
-        "size": 4237,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/4. Checklist for PasswordConfig.md": {
-        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/4. Checklist for PasswordConfig.md",
-        "mtime": 1783483904913,
-        "size": 1406,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/2. Checklist for AuthService.md": {
-        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/2. Checklist for AuthService.md",
-        "mtime": 1782720196570,
-        "size": 3641,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/1. Checklist for JwtService.md": {
-        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/1. Checklist for JwtService.md",
-        "mtime": 1782719571065,
-        "size": 7672,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "1. IT/5. Spring boot/1. Create new project.md": {
-        "path": "1. IT/5. Spring boot/1. Create new project.md",
-        "mtime": 1783483802497,
-        "size": 14753,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "1. IT/2. Docker/1. Docker Command line.md": {
-        "path": "1. IT/2. Docker/1. Docker Command line.md",
-        "mtime": 1783482292725,
-        "size": 1445,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "1. IT/1. Database/1. MySQL/1. MySql Command line.md": {
-        "path": "1. IT/1. Database/1. MySQL/1. MySql Command line.md",
-        "mtime": 1783482227694,
-        "size": 1620,
+      "3. Todo list/3. Anything about AWS before.md": {
+        "path": "3. Todo list/3. Anything about AWS before.md",
+        "mtime": 1788061572963,
+        "size": 1351,
         "blockIds": [],
         "referencedIds": []
       },
       "3. Todo list/2. Anything before.md": {
         "path": "3. Todo list/2. Anything before.md",
-        "mtime": 1783695620400,
-        "size": 927,
+        "mtime": 1788061572962,
+        "size": 941,
         "blockIds": [],
         "referencedIds": [
           "9587a973-3a76-43c5-bb7c-5d486914efd7"
         ]
       },
-      "30 days.md": {
-        "path": "30 days.md",
-        "mtime": 1784357974130,
-        "size": 6885,
+      "3. Todo list/1. todo list.md": {
+        "path": "3. Todo list/1. todo list.md",
+        "mtime": 1788061572960,
+        "size": 394,
         "blockIds": [],
         "referencedIds": []
       },
-      "1. IT/Trello/Trello.md": {
-        "path": "1. IT/Trello/Trello.md",
-        "mtime": 1784362844327,
-        "size": 25889,
+      "2. Aws/2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md": {
+        "path": "2. Aws/2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md",
+        "mtime": 1788061572959,
+        "size": 0,
         "blockIds": [],
         "referencedIds": []
       },
-      "1. IT/2. Docker/1. Explain docker-compose.md": {
-        "path": "1. IT/2. Docker/1. Explain docker-compose.md",
-        "mtime": 1784363273792,
-        "size": 7352,
+      "2. Aws/2. Auction/8. Test.md": {
+        "path": "2. Aws/2. Auction/8. Test.md",
+        "mtime": 1788061572957,
+        "size": 8769,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/6. item_images.md": {
+        "path": "2. Aws/2. Auction/7. Data/6. item_images.md",
+        "mtime": 1788061572957,
+        "size": 25631,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/5. categories.md": {
+        "path": "2. Aws/2. Auction/7. Data/5. categories.md",
+        "mtime": 1788061572946,
+        "size": 226,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/4. auction_items.md": {
+        "path": "2. Aws/2. Auction/7. Data/4. auction_items.md",
+        "mtime": 1788061572946,
+        "size": 19799,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/3. auction_session_rules.md": {
+        "path": "2. Aws/2. Auction/7. Data/3. auction_session_rules.md",
+        "mtime": 1788061572946,
+        "size": 6542,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/2. auction_sessions.md": {
+        "path": "2. Aws/2. Auction/7. Data/2. auction_sessions.md",
+        "mtime": 1788061572946,
+        "size": 26349,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/7. Data/1. users.md": {
+        "path": "2. Aws/2. Auction/7. Data/1. users.md",
+        "mtime": 1788061572946,
+        "size": 10310,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Untitled.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Untitled.md",
+        "mtime": 1788061572946,
+        "size": 11087,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc6.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc6.md",
+        "mtime": 1788061572946,
+        "size": 25055,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc5.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc5.md",
+        "mtime": 1788061572946,
+        "size": 13344,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc4.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc4.md",
+        "mtime": 1788061572946,
+        "size": 34420,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc3.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc3.md",
+        "mtime": 1788061572946,
+        "size": 29701,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc2.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc2.md",
+        "mtime": 1788061572946,
+        "size": 78842,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/6. Doc/Doc1.md": {
+        "path": "2. Aws/2. Auction/6. Doc/Doc1.md",
+        "mtime": 1788061572946,
+        "size": 23194,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/5. API Design/API Design.md": {
+        "path": "2. Aws/2. Auction/5. API Design/API Design.md",
+        "mtime": 1788061572946,
+        "size": 17712,
         "blockIds": [],
         "referencedIds": []
       },
       "2. Aws/2. Auction/4. Use case/Test.md": {
         "path": "2. Aws/2. Auction/4. Use case/Test.md",
-        "mtime": 1784513124316,
-        "size": 49,
+        "mtime": 1788061572944,
+        "size": 53,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC01 - Register User.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC01 - Register User.md",
-        "mtime": 1784515292700,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC02 - Login User.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC02 - Login User.md",
-        "mtime": 1784515306597,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC03 - Create Auction Session.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC03 - Create Auction Session.md",
-        "mtime": 1784515324441,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC06 - Create Auction Item.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC06 - Create Auction Item.md",
-        "mtime": 1784515339021,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC04 - View Auction Session List.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC04 - View Auction Session List.md",
-        "mtime": 1784515357755,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC05 - View Auction Session Detail.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC05 - View Auction Session Detail.md",
-        "mtime": 1784515373136,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC07 - Upload Auction Item Images.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC07 - Upload Auction Item Images.md",
-        "mtime": 1784515387668,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC08 - View Auction Item Detail.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC08 - View Auction Item Detail.md",
-        "mtime": 1784515402149,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC11 - View My Auction Sessions.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC11 - View My Auction Sessions.md",
-        "mtime": 1784515434843,
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC16 - Create Admin User.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC16 - Create Admin User.md",
+        "mtime": 1788061572944,
         "size": 0,
         "blockIds": [],
         "referencedIds": []
       },
       "2. Aws/2. Auction/4. Use case/Backend Use Case/UC15- Create Category.md": {
         "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC15- Create Category.md",
-        "mtime": 1784515525884,
+        "mtime": 1788061572943,
         "size": 0,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC16 - Create Admin User.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC16 - Create Admin User.md",
-        "mtime": 1784515564997,
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC12 - Start Auction Session.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC12 - Start Auction Session.md",
+        "mtime": 1788061572942,
+        "size": 17385,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC11 - View My Auction Sessions.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC11 - View My Auction Sessions.md",
+        "mtime": 1788061572942,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC10 - View My Bids.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC10 - View My Bids.md",
+        "mtime": 1788061572941,
+        "size": 27508,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC09 - Place Bid.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC09 - Place Bid.md",
+        "mtime": 1788061572941,
+        "size": 22483,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC08 - View Auction Item Detail.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC08 - View Auction Item Detail.md",
+        "mtime": 1788061572940,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC07 - Upload Auction Item Images.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC07 - Upload Auction Item Images.md",
+        "mtime": 1788061572940,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC06 - Create Auction Item.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC06 - Create Auction Item.md",
+        "mtime": 1788061572939,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC05 - View Auction Session Detail.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC05 - View Auction Session Detail.md",
+        "mtime": 1788061572939,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC04 - View Auction Session List.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC04 - View Auction Session List.md",
+        "mtime": 1788061572939,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC03 - Create Auction Session.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC03 - Create Auction Session.md",
+        "mtime": 1788061572938,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC02 - Login User.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC02 - Login User.md",
+        "mtime": 1788061572938,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC01 - Register User.md": {
+        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC01 - Register User.md",
+        "mtime": 1788061572937,
         "size": 0,
         "blockIds": [],
         "referencedIds": []
       },
       "2. Aws/2. Auction/4. Use case/Backend Use Case/Main.md": {
         "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/Main.md",
-        "mtime": 1784516133465,
-        "size": 4241,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC09 - Place Bid.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC09 - Place Bid.md",
-        "mtime": 1784516286531,
-        "size": 21635,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC10 - View My Bids.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC10 - View My Bids.md",
-        "mtime": 1784517012093,
-        "size": 26326,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/Backend Use Case/UC12 - Start Auction Session.md": {
-        "path": "2. Aws/2. Auction/4. Use case/Backend Use Case/UC12 - Start Auction Session.md",
-        "mtime": 1784519000348,
-        "size": 16623,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/4. Use case/2. Frontend use case.md": {
-        "path": "2. Aws/2. Auction/4. Use case/2. Frontend use case.md",
-        "mtime": 1784520895036,
-        "size": 22188,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/6. Doc/Doc3.md": {
-        "path": "2. Aws/2. Auction/6. Doc/Doc3.md",
-        "mtime": 1784434646486,
-        "size": 28532,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/7. Data/1. users.md": {
-        "path": "2. Aws/2. Auction/7. Data/1. users.md",
-        "mtime": 1784619624099,
-        "size": 9969,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/7. Data/3. auction_session_rules.md": {
-        "path": "2. Aws/2. Auction/7. Data/3. auction_session_rules.md",
-        "mtime": 1784620811070,
-        "size": 6240,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/7. Data/2. auction_sessions.md": {
-        "path": "2. Aws/2. Auction/7. Data/2. auction_sessions.md",
-        "mtime": 1784622077689,
-        "size": 25756,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/7. Data/5. categories.md": {
-        "path": "2. Aws/2. Auction/7. Data/5. categories.md",
-        "mtime": 1784623619156,
-        "size": 211,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/1. Database/1. Database.md": {
-        "path": "2. Aws/2. Auction/1. Database/1. Database.md",
-        "mtime": 1784624695043,
-        "size": 8632,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/7. Data/6. item_images.md": {
-        "path": "2. Aws/2. Auction/7. Data/6. item_images.md",
-        "mtime": 1784625514943,
-        "size": 25202,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/7. Data/4. auction_items.md": {
-        "path": "2. Aws/2. Auction/7. Data/4. auction_items.md",
-        "mtime": 1784626578905,
-        "size": 19171,
+        "mtime": 1788061572937,
+        "size": 4460,
         "blockIds": [],
         "referencedIds": []
       },
       "2. Aws/2. Auction/4. Use case/3. Backend use case.md": {
         "path": "2. Aws/2. Auction/4. Use case/3. Backend use case.md",
-        "mtime": 1784641430078,
-        "size": 60868,
+        "mtime": 1788061572935,
+        "size": 63819,
         "blockIds": [],
         "referencedIds": []
       },
-      "Untitled.md": {
-        "path": "Untitled.md",
-        "mtime": 1784703536892,
-        "size": 37711,
+      "2. Aws/2. Auction/4. Use case/2. Frontend use case.md": {
+        "path": "2. Aws/2. Auction/4. Use case/2. Frontend use case.md",
+        "mtime": 1788061572934,
+        "size": 23178,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/6. Doc/Doc4.md": {
-        "path": "2. Aws/2. Auction/6. Doc/Doc4.md",
-        "mtime": 1784712330792,
-        "size": 33060,
+      "2. Aws/2. Auction/4. Use case/1. Backend Spring use case.md": {
+        "path": "2. Aws/2. Auction/4. Use case/1. Backend Spring use case.md",
+        "mtime": 1788061572933,
+        "size": 22083,
         "blockIds": [],
         "referencedIds": []
       },
-      "Untitled 1.md": {
-        "path": "Untitled 1.md",
-        "mtime": 1784731992823,
-        "size": 19610,
+      "2. Aws/2. Auction/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md",
+        "mtime": 1788061572932,
+        "size": 15492,
         "blockIds": [],
         "referencedIds": []
       },
-      "Untitled 2.md": {
-        "path": "Untitled 2.md",
-        "mtime": 1784733188309,
-        "size": 38631,
+      "2. Aws/2. Auction/2. Phases/Phase 5 Deploy React Frontend.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 5 Deploy React Frontend.md",
+        "mtime": 1788061572931,
+        "size": 12769,
         "blockIds": [],
         "referencedIds": []
       },
-      "2. Aws/2. Auction/6. Doc/Doc5.md": {
-        "path": "2. Aws/2. Auction/6. Doc/Doc5.md",
-        "mtime": 1784778608268,
-        "size": 12814,
+      "2. Aws/2. Auction/2. Phases/Phase 4 Deploy Backend Spring Boot.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 4 Deploy Backend Spring Boot.md",
+        "mtime": 1788061572930,
+        "size": 14135,
         "blockIds": [],
         "referencedIds": []
       },
-      "Untitled 4.md": {
-        "path": "Untitled 4.md",
-        "mtime": 1784782578057,
-        "size": 19516,
+      "2. Aws/2. Auction/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md",
+        "mtime": 1788061572930,
+        "size": 11173,
         "blockIds": [],
         "referencedIds": []
       },
-      "Untitled 3.md": {
-        "path": "Untitled 3.md",
-        "mtime": 1784782625511,
-        "size": 13657,
+      "2. Aws/2. Auction/2. Phases/Phase 2 Networking cho app.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 2 Networking cho app.md",
+        "mtime": 1788061572928,
+        "size": 9562,
         "blockIds": [],
         "referencedIds": []
       },
-      "Untitled 5.md": {
-        "path": "Untitled 5.md",
-        "mtime": 1784786390311,
-        "size": 13274,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "lambda.md": {
-        "path": "lambda.md",
-        "mtime": 1784877839388,
-        "size": 21326,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "Untitled 7.md": {
-        "path": "Untitled 7.md",
-        "mtime": 1785253861635,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/6. Doc/Doc6.md": {
-        "path": "2. Aws/2. Auction/6. Doc/Doc6.md",
-        "mtime": 1785321189133,
-        "size": 24115,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "Untitled 6.md": {
-        "path": "Untitled 6.md",
-        "mtime": 1785321576564,
-        "size": 2974,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "3. Todo list/3. Anything about AWS before.md": {
-        "path": "3. Todo list/3. Anything about AWS before.md",
-        "mtime": 1785380281014,
-        "size": 1338,
-        "blockIds": [
-          "e78c0dbf-a2dc-47ea-bec9-381a67c6621e"
-        ],
-        "referencedIds": []
-      },
-      "6. Spaced repetition/1. Checklist for Amazon VPC.md": {
-        "path": "6. Spaced repetition/1. Checklist for Amazon VPC.md",
-        "mtime": 1785341407378,
-        "size": 19247,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "6. Spaced repetition/2. Checklist for subnets.md": {
-        "path": "6. Spaced repetition/2. Checklist for subnets.md",
-        "mtime": 1785382907648,
-        "size": 9674,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "6. Spaced repetition/3. doc.md": {
-        "path": "6. Spaced repetition/3. doc.md",
-        "mtime": 1785384190999,
-        "size": 2485,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/8. Test.md": {
-        "path": "2. Aws/2. Auction/8. Test.md",
-        "mtime": 1785385357907,
-        "size": 8517,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/2. Checklist for subnets.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/2. Checklist for subnets.md",
-        "mtime": 1785386407961,
-        "size": 6225,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md",
-        "mtime": 1785386503772,
-        "size": 11180,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/4. Checklist for Internet Gateway.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/4. Checklist for Internet Gateway.md",
-        "mtime": 1785389995634,
-        "size": 11449,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/5. Checklist for NAT Gateway.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/5. Checklist for NAT Gateway.md",
-        "mtime": 1785390083456,
-        "size": 15297,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "7. Prompt/2. Prompt markdown into flashcards.md": {
-        "path": "7. Prompt/2. Prompt markdown into flashcards.md",
-        "mtime": 1785392419920,
-        "size": 2360,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "7. Prompt/4. Prompt to create quiz.md": {
-        "path": "7. Prompt/4. Prompt to create quiz.md",
-        "mtime": 1785392498972,
-        "size": 2973,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "7. Prompt/5. Prompt for cursor.md": {
-        "path": "7. Prompt/5. Prompt for cursor.md",
-        "mtime": 1785392559389,
-        "size": 8802,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "7. Prompt/3. Prompt for AI help learn things.md": {
-        "path": "7. Prompt/3. Prompt for AI help learn things.md",
-        "mtime": 1785392619255,
-        "size": 2843,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "Excalidraw/Drawing 2026-07-30 14.03.32.excalidraw.md": {
-        "path": "Excalidraw/Drawing 2026-07-30 14.03.32.excalidraw.md",
-        "mtime": 1785395012980,
-        "size": 570,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "7. Prompt/1. Prompt file markdown into .canvas.md": {
-        "path": "7. Prompt/1. Prompt file markdown into .canvas.md",
-        "mtime": 1785397439191,
-        "size": 8023,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md": {
-        "path": "2. Aws/2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md",
-        "mtime": 1785397691628,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
-        "mtime": 1785401272497,
-        "size": 15410,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "7. Prompt/7. Split to smaller question and answer.md": {
-        "path": "7. Prompt/7. Split to smaller question and answer.md",
-        "mtime": 1785422580781,
-        "size": 946,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/10. Traffic.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/10. Traffic.md",
-        "mtime": 1785400638749,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/11. Protocol.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/11. Protocol.md",
-        "mtime": 1785420876460,
-        "size": 839,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/3. VPC.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/3. VPC.md",
-        "mtime": 1785400582493,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/9. Bandwidth.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/9. Bandwidth.md",
-        "mtime": 1785420888368,
-        "size": 219,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/2. EC2.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/2. EC2.md",
-        "mtime": 1785422752312,
-        "size": 4338,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/4. Subnet.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/4. Subnet.md",
-        "mtime": 1785422863272,
-        "size": 5181,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/5. IP addresses.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/5. IP addresses.md",
-        "mtime": 1785422905048,
-        "size": 4747,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/6. Gateway.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/6. Gateway.md",
-        "mtime": 1785422973242,
-        "size": 7323,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/7. Route table.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/7. Route table.md",
-        "mtime": 1785423008054,
-        "size": 3226,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/8. Network.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/8. Network.md",
-        "mtime": 1785423068306,
-        "size": 9645,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "7. Prompt/8. Create file based on topic.md": {
-        "path": "7. Prompt/8. Create file based on topic.md",
-        "mtime": 1785425612811,
-        "size": 2173,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/1. CIDR.md": {
-        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/1. CIDR.md",
-        "mtime": 1785425803345,
-        "size": 2512,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "7. Prompt/9. Create a process.md": {
-        "path": "7. Prompt/9. Create a process.md",
-        "mtime": 1785485670237,
-        "size": 1134,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "7. Prompt/10. Convert lesson into process.md": {
-        "path": "7. Prompt/10. Convert lesson into process.md",
-        "mtime": 1785491691978,
-        "size": 1892,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/6. Doc/Doc1.md": {
-        "path": "2. Aws/2. Auction/6. Doc/Doc1.md",
-        "mtime": 1785491811901,
-        "size": 22635,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/6. Doc/Untitled.md": {
-        "path": "2. Aws/2. Auction/6. Doc/Untitled.md",
-        "mtime": 1785492211900,
-        "size": 10705,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/6. Doc/Doc2.md": {
-        "path": "2. Aws/2. Auction/6. Doc/Doc2.md",
-        "mtime": 1785492605862,
-        "size": 76775,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "8. Ticktick/2. CML.md": {
-        "path": "8. Ticktick/2. CML.md",
-        "mtime": 1785577636539,
-        "size": 1831,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Doc 1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Doc 1.md",
-        "mtime": 1785600330526,
-        "size": 15521,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Doc 2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Doc 2.md",
-        "mtime": 1785654056706,
-        "size": 15289,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Doc3.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Doc3.md",
-        "mtime": 1785658910076,
-        "size": 4798,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/11. Websocket/res1.md": {
-        "path": "2. Aws/2. Auction/11. Websocket/res1.md",
-        "mtime": 1785835167239,
-        "size": 13658,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/11. Websocket/res2.md": {
-        "path": "2. Aws/2. Auction/11. Websocket/res2.md",
-        "mtime": 1785837125422,
-        "size": 16241,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/11. Websocket/res3.md": {
-        "path": "2. Aws/2. Auction/11. Websocket/res3.md",
-        "mtime": 1785837335209,
-        "size": 9284,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/11. Websocket/res4.md": {
-        "path": "2. Aws/2. Auction/11. Websocket/res4.md",
-        "mtime": 1785839161202,
-        "size": 13924,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/11. Websocket/use case/use case.md": {
-        "path": "2. Aws/2. Auction/11. Websocket/use case/use case.md",
-        "mtime": 1785840433366,
-        "size": 277,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/1. Response/1. res 1.md": {
-        "path": "2. Aws/14. PetShop/1. Response/1. res 1.md",
-        "mtime": 1785894679628,
-        "size": 10474,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/2. Phases/Phase 1 AWS.md": {
-        "path": "2. Aws/14. PetShop/2. Phases/Phase 1 AWS.md",
-        "mtime": 1783494203701,
-        "size": 7053,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/2. Phases/Phase 2 Networking cho app.md": {
-        "path": "2. Aws/14. PetShop/2. Phases/Phase 2 Networking cho app.md",
-        "mtime": 1783494475827,
-        "size": 9241,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md": {
-        "path": "2. Aws/14. PetShop/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md",
-        "mtime": 1783494453457,
-        "size": 10780,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/2. Phases/Phase 4 Deploy Backend Spring Boot.md": {
-        "path": "2. Aws/14. PetShop/2. Phases/Phase 4 Deploy Backend Spring Boot.md",
-        "mtime": 1783494320631,
-        "size": 13554,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/2. Phases/Phase 5 Deploy React Frontend.md": {
-        "path": "2. Aws/14. PetShop/2. Phases/Phase 5 Deploy React Frontend.md",
-        "mtime": 1783494435074,
-        "size": 12287,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md": {
-        "path": "2. Aws/14. PetShop/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md",
-        "mtime": 1783494422646,
-        "size": 14943,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Doc 1.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Doc 1.md",
-        "mtime": 1785600330526,
-        "size": 15521,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Doc 2.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Doc 2.md",
-        "mtime": 1785654056706,
-        "size": 15289,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Doc3.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Doc3.md",
-        "mtime": 1785658910076,
-        "size": 4798,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (old).md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (old).md",
-        "mtime": 1785727096014,
-        "size": 9460,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Things i have not undertood.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Things i have not undertood.md",
-        "mtime": 1785741631105,
-        "size": 1715,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 4/Phase 4 task list.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 4/Phase 4 task list.md",
-        "mtime": 1785730476282,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 5/Phase 5 task list.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 5/Phase 5 task list.md",
-        "mtime": 1785730488294,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 7/Phase 7 task list.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 7/Phase 7 task list.md",
-        "mtime": 1785730507719,
-        "size": 0,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Doc/Doc1.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Doc/Doc1.md",
-        "mtime": 1785740954043,
-        "size": 327,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 1.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 1.md",
-        "mtime": 1785742113116,
-        "size": 3907,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 2.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 2.md",
-        "mtime": 1785742939953,
-        "size": 3771,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 3.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 3.md",
-        "mtime": 1785743452150,
-        "size": 3922,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 4.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 4.md",
-        "mtime": 1785743848609,
-        "size": 3549,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 5.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 5.md",
-        "mtime": 1785744216479,
-        "size": 4234,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.1.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.1.md",
-        "mtime": 1785745600159,
-        "size": 884,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.md",
-        "mtime": 1785744817243,
-        "size": 6654,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 7.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 7.md",
-        "mtime": 1785746260686,
-        "size": 4411,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 8.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 8.md",
-        "mtime": 1785746745319,
-        "size": 7746,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 9.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 9.md",
-        "mtime": 1785748579754,
-        "size": 6760,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 1/response budget.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 1/response budget.md",
-        "mtime": 1785895613814,
-        "size": 8529,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (new).md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (new).md",
-        "mtime": 1785895647301,
-        "size": 13796,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 3/Phase 3 task list.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 3/Phase 3 task list.md",
-        "mtime": 1785895673789,
-        "size": 25911,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/14. PetShop/3. Doc/Phase 6/Phase 6 task list.md": {
-        "path": "2. Aws/14. PetShop/3. Doc/Phase 6/Phase 6 task list.md",
-        "mtime": 1785895689062,
-        "size": 17566,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/1. Doc/Doc1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/1. Doc/Doc1.md",
-        "mtime": 1785740954043,
-        "size": 327,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/1. phase 2 task list (old).md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/1. phase 2 task list (old).md",
-        "mtime": 1785727096014,
-        "size": 9460,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/2,. phase 2 task list (new).md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/2,. phase 2 task list (new).md",
-        "mtime": 1785903397018,
-        "size": 13796,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Outside/Things i have not undertood.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Outside/Things i have not undertood.md",
-        "mtime": 1785741631105,
-        "size": 1715,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/1. Phase 3 task list.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/1. Phase 3 task list.md",
-        "mtime": 1785731184651,
-        "size": 25911,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/1. Phase 6 task list.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/1. Phase 6 task list.md",
-        "mtime": 1785738028989,
-        "size": 17566,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list.md",
-        "mtime": 1785905717757,
-        "size": 16505,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Plan.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Plan.md",
-        "mtime": 1785906599474,
-        "size": 31246,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 1.md",
-        "mtime": 1785658827955,
-        "size": 8536,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 2.md",
-        "mtime": 1785903368270,
-        "size": 17283,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 1.md",
-        "mtime": 1785742113116,
-        "size": 3907,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 3.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 3.md",
-        "mtime": 1785743452150,
-        "size": 3922,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 4.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 4.md",
-        "mtime": 1785743848609,
-        "size": 3549,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 5.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 5.md",
-        "mtime": 1785744216479,
-        "size": 4234,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 2.md",
-        "mtime": 1785742939953,
-        "size": 3771,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.1.md",
-        "mtime": 1785745600159,
-        "size": 884,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 7.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 7.md",
-        "mtime": 1785746260686,
-        "size": 4411,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 8.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 8.md",
-        "mtime": 1785746745319,
-        "size": 7746,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 9.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 9.md",
-        "mtime": 1785748579754,
-        "size": 6760,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.md",
-        "mtime": 1785744817243,
-        "size": 6654,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/3. phase 2 task list (version 2).md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/3. phase 2 task list (version 2).md",
-        "mtime": 1785905737723,
-        "size": 17834,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list (version 2).md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list (version 2).md",
-        "mtime": 1785916326149,
-        "size": 8073,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/2. Phase 3 task list (version 1).md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/2. Phase 3 task list (version 1).md",
-        "mtime": 1785905774490,
-        "size": 24199,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/2. Phase 6 task list (version 2).md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/2. Phase 6 task list (version 2).md",
-        "mtime": 1785905750600,
-        "size": 23388,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/4. phase 2 task list (version 3).md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/4. phase 2 task list (version 3).md",
-        "mtime": 1785916470652,
-        "size": 7870,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/3. Phase 3 task  list (version 2).md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/3. Phase 3 task  list (version 2).md",
-        "mtime": 1785916497908,
-        "size": 10942,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/3. Phase 6 task list (version 3).md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/3. Phase 6 task list (version 3).md",
-        "mtime": 1785916518193,
-        "size": 13013,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 1.md",
-        "mtime": 1785918382632,
-        "size": 3049,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 2.md",
-        "mtime": 1785918427558,
-        "size": 2935,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 3.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 3.md",
-        "mtime": 1785918640522,
-        "size": 5947,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.md",
-        "mtime": 1785918980298,
-        "size": 7583,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.1.md",
-        "mtime": 1785919255607,
-        "size": 5632,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 5.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 5.md",
-        "mtime": 1785919691473,
-        "size": 5660,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 6.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 6.md",
-        "mtime": 1785919955614,
-        "size": 6391,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 7.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 7.md",
-        "mtime": 1785921054209,
-        "size": 6362,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 8.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 8.md",
-        "mtime": 1785921514709,
-        "size": 9843,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 9.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 9.md",
-        "mtime": 1785922266722,
-        "size": 7024,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 10.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 10.md",
-        "mtime": 1785922701132,
-        "size": 7350,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.md",
-        "mtime": 1785923125925,
-        "size": 12762,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.md",
-        "mtime": 1785923885911,
-        "size": 7339,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.2.md",
-        "mtime": 1785939530297,
-        "size": 3380,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.1.md",
-        "mtime": 1785939595931,
-        "size": 4168,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.4.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.4.md",
-        "mtime": 1785940644320,
-        "size": 6303,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.3.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.3.md",
-        "mtime": 1785940941986,
-        "size": 7883,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 1.md",
-        "mtime": 1785941444968,
-        "size": 8548,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.1.md",
-        "mtime": 1785941903259,
-        "size": 830,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.2.md",
-        "mtime": 1785942477881,
-        "size": 980,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.md",
-        "mtime": 1785943307180,
-        "size": 18947,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.4.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.4.md",
-        "mtime": 1785943676685,
-        "size": 1022,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.3.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.3.md",
-        "mtime": 1785943741446,
-        "size": 3936,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.6.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.6.md",
-        "mtime": 1785945322299,
-        "size": 1797,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.5.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.5.md",
-        "mtime": 1785946501372,
-        "size": 11898,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.7.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.7.md",
-        "mtime": 1785946737138,
-        "size": 7629,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.8.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.8.md",
-        "mtime": 1785947100845,
-        "size": 6146,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.md",
-        "mtime": 1785999409516,
-        "size": 11817,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.1.md",
-        "mtime": 1786000471685,
-        "size": 1432,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.md",
-        "mtime": 1786000793071,
-        "size": 10544,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.1.md",
-        "mtime": 1786002576858,
-        "size": 5428,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 5.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 5.md",
-        "mtime": 1786003490404,
-        "size": 10767,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md",
-        "mtime": 1786004359499,
-        "size": 13344,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md",
-        "mtime": 1786007308749,
-        "size": 17386,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.md",
-        "mtime": 1786007880050,
-        "size": 19256,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.1.md",
-        "mtime": 1786008894955,
-        "size": 1122,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.md",
-        "mtime": 1786008692544,
-        "size": 8172,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.1.md",
-        "mtime": 1786008935605,
-        "size": 2276,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.md",
-        "mtime": 1786009213057,
-        "size": 3362,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.1.md",
-        "mtime": 1786009775656,
-        "size": 2220,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.1.md",
-        "mtime": 1786020975553,
-        "size": 5458,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.2.md",
-        "mtime": 1786021306760,
-        "size": 3520,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.3.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.3.md",
-        "mtime": 1786022356478,
-        "size": 2868,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.4.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.4.md",
-        "mtime": 1786022389398,
-        "size": 1347,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.md",
-        "mtime": 1786022656022,
-        "size": 7428,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.md",
-        "mtime": 1786022980896,
-        "size": 5962,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.4.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.4.md",
-        "mtime": 1786023267552,
-        "size": 2737,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.5.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.5.md",
-        "mtime": 1786023407338,
-        "size": 6030,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.6.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.6.md",
-        "mtime": 1786023695514,
-        "size": 5137,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.md",
-        "mtime": 1786024015803,
-        "size": 6997,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.md",
-        "mtime": 1786075933114,
-        "size": 4076,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.md",
-        "mtime": 1786077195011,
-        "size": 3019,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.1.md",
-        "mtime": 1786081907249,
-        "size": 4123,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.3.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.3.md",
-        "mtime": 1786084778814,
-        "size": 1747,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md",
-        "mtime": 1786085376553,
-        "size": 8951,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.2.md",
-        "mtime": 1786087236350,
-        "size": 2024,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 13.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 13.md",
-        "mtime": 1786088198631,
-        "size": 8999,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.md",
-        "mtime": 1786090348712,
-        "size": 12762,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.1.md",
-        "mtime": 1786090968192,
-        "size": 8422,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.md",
-        "mtime": 1786091079047,
-        "size": 5334,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.1.md",
-        "mtime": 1786092607100,
-        "size": 1819,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.2.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.2.md",
-        "mtime": 1786092886210,
-        "size": 4551,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 15.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 15.md",
-        "mtime": 1786094572169,
-        "size": 5557,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md": {
-        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md",
-        "mtime": 1786111806244,
-        "size": 7133,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/1. Prompt 1/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/1. Prompt 1/1. ChatGPT.md",
-        "mtime": 1785856731214,
-        "size": 969,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/2. Prompt 2/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/2. Prompt 2/1. ChatGPT.md",
-        "mtime": 1785856781701,
-        "size": 1110,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/3. Prompt 3/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/3. Prompt 3/1. ChatGPT.md",
-        "mtime": 1785857529960,
-        "size": 1053,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/4. Prompt 4/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/4. Prompt 4/1. ChatGPT.md",
-        "mtime": 1785857594185,
-        "size": 884,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/5. Prompt 5/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/5. Prompt 5/1. ChatGPT.md",
-        "mtime": 1785856923904,
-        "size": 1503,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/6. Prompt 6/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/6. Prompt 6/1. ChatGPT.md",
-        "mtime": 1785856995582,
-        "size": 3042,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/2. Assign/1. ChatGPT.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/2. Assign/1. ChatGPT.md",
-        "mtime": 1785861077117,
-        "size": 30175,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/2. Assign/2. ChatGPT (new).md": {
-        "path": "2. Aws/2. Auction/12. Lambda/2. Assign/2. ChatGPT (new).md",
-        "mtime": 1785862198957,
-        "size": 18373,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.4.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.4.md",
-        "mtime": 1786173483151,
-        "size": 5093,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.6.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.6.md",
-        "mtime": 1786173929132,
-        "size": 3039,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.7.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.7.md",
-        "mtime": 1786174145518,
-        "size": 5467,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.8.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.8.md",
-        "mtime": 1786176080217,
-        "size": 4096,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.9.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.9.md",
-        "mtime": 1786176347489,
-        "size": 2081,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.10.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.10.md",
-        "mtime": 1786176629742,
-        "size": 1355,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.md",
-        "mtime": 1786176781595,
-        "size": 2202,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.1.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.1.md",
-        "mtime": 1786176872337,
-        "size": 1947,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "8. Ticktick/1. CML Setting time for existing checklists.md": {
-        "path": "8. Ticktick/1. CML Setting time for existing checklists.md",
-        "mtime": 1786179904795,
-        "size": 2537,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.md",
-        "mtime": 1786180060930,
-        "size": 14001,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.14.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.14.md",
-        "mtime": 1786181088762,
-        "size": 1885,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.1.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.1.md",
-        "mtime": 1786181441174,
-        "size": 6238,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.md",
-        "mtime": 1786182222134,
-        "size": 13016,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.2.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.2.md",
-        "mtime": 1786182303194,
-        "size": 2270,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.3.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.3.md",
-        "mtime": 1786182459544,
-        "size": 4587,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.4.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.4.md",
-        "mtime": 1786182690153,
-        "size": 4249,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.5.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.5.md",
-        "mtime": 1786182925263,
-        "size": 3908,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.6.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.6.md",
-        "mtime": 1786183005404,
-        "size": 5702,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.7.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.7.md",
-        "mtime": 1786183759563,
-        "size": 6464,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.8.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.8.md",
-        "mtime": 1786184342005,
-        "size": 6035,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.9.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.9.md",
-        "mtime": 1786184602138,
-        "size": 6685,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.10.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.10.md",
-        "mtime": 1786184910834,
-        "size": 6982,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.11.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.11.md",
-        "mtime": 1786185147176,
-        "size": 6920,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.12.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.12.md",
-        "mtime": 1786185328783,
-        "size": 9357,
-        "blockIds": [],
-        "referencedIds": []
-      },
-      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.13.md": {
-        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.13.md",
-        "mtime": 1786185618757,
-        "size": 2300,
+      "2. Aws/2. Auction/2. Phases/Phase 1 AWS.md": {
+        "path": "2. Aws/2. Auction/2. Phases/Phase 1 AWS.md",
+        "mtime": 1788061572927,
+        "size": 7281,
         "blockIds": [],
         "referencedIds": []
       },
       "2. Aws/2. Auction/14. Report/1. ChatGPT response/res 1.md": {
         "path": "2. Aws/2. Auction/14. Report/1. ChatGPT response/res 1.md",
-        "mtime": 1786280802195,
-        "size": 14470,
+        "mtime": 1788061572926,
+        "size": 14805,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.md",
+        "mtime": 1788061572924,
+        "size": 13531,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.9.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.9.md",
+        "mtime": 1788061572923,
+        "size": 6963,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.8.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.8.md",
+        "mtime": 1788061572922,
+        "size": 6296,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.7.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.7.md",
+        "mtime": 1788061572922,
+        "size": 6716,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.6.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.6.md",
+        "mtime": 1788061572921,
+        "size": 5961,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.5.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.5.md",
+        "mtime": 1788061572920,
+        "size": 4042,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.4.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.4.md",
+        "mtime": 1788061572920,
+        "size": 4425,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.3.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.3.md",
+        "mtime": 1788061572919,
+        "size": 4761,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.2.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.2.md",
+        "mtime": 1788061572918,
+        "size": 2357,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.13.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.13.md",
+        "mtime": 1788061572916,
+        "size": 2377,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.12.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.12.md",
+        "mtime": 1788061572916,
+        "size": 9827,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.11.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.11.md",
+        "mtime": 1788061572915,
+        "size": 7207,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.10.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.10.md",
+        "mtime": 1788061572915,
+        "size": 7195,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.1.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-003.1.md",
+        "mtime": 1788061572914,
+        "size": 6492,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.md",
+        "mtime": 1788061572913,
+        "size": 14607,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.9.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.9.md",
+        "mtime": 1788061572913,
+        "size": 2159,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.8.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.8.md",
+        "mtime": 1788061572912,
+        "size": 4265,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.7.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.7.md",
+        "mtime": 1788061572912,
+        "size": 5641,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.6.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.6.md",
+        "mtime": 1788061572910,
+        "size": 3189,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.md",
+        "mtime": 1788061572896,
+        "size": 2309,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.4.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.4.md",
+        "mtime": 1788061572909,
+        "size": 5293,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.14.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.14.md",
+        "mtime": 1788061572896,
+        "size": 1955,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.1.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.11.1.md",
+        "mtime": 1788061572896,
+        "size": 2014,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.10.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/3. ChatGPT response/LAM-002.10.md",
+        "mtime": 1788061572896,
+        "size": 1407,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/2. Assign/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/2. Assign/1. ChatGPT.md",
+        "mtime": 1788061572896,
+        "size": 31220,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/2. Assign/2. ChatGPT (new).md": {
+        "path": "2. Aws/2. Auction/12. Lambda/2. Assign/2. ChatGPT (new).md",
+        "mtime": 1788061572896,
+        "size": 18702,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/6. Prompt 6/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/6. Prompt 6/1. ChatGPT.md",
+        "mtime": 1788061572896,
+        "size": 3170,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/4. Prompt 4/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/4. Prompt 4/1. ChatGPT.md",
+        "mtime": 1788061572896,
+        "size": 909,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/5. Prompt 5/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/5. Prompt 5/1. ChatGPT.md",
+        "mtime": 1788061572896,
+        "size": 1561,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/3. Prompt 3/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/3. Prompt 3/1. ChatGPT.md",
+        "mtime": 1788061572896,
+        "size": 1082,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/2. Prompt 2/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/2. Prompt 2/1. ChatGPT.md",
+        "mtime": 1788061572894,
+        "size": 1150,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/1. Prompt 1/1. ChatGPT.md": {
+        "path": "2. Aws/2. Auction/12. Lambda/1. Promp ChatGPT/1. Prompt 1/1. ChatGPT.md",
+        "mtime": 1788061572892,
+        "size": 999,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/11. Websocket/use case/use case.md": {
+        "path": "2. Aws/2. Auction/11. Websocket/use case/use case.md",
+        "mtime": 1788061572891,
+        "size": 284,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/11. Websocket/res4.md": {
+        "path": "2. Aws/2. Auction/11. Websocket/res4.md",
+        "mtime": 1788061572889,
+        "size": 14445,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/11. Websocket/res3.md": {
+        "path": "2. Aws/2. Auction/11. Websocket/res3.md",
+        "mtime": 1788061572888,
+        "size": 9714,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/11. Websocket/res2.md": {
+        "path": "2. Aws/2. Auction/11. Websocket/res2.md",
+        "mtime": 1788061572888,
+        "size": 16811,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/11. Websocket/res1.md": {
+        "path": "2. Aws/2. Auction/11. Websocket/res1.md",
+        "mtime": 1788061572887,
+        "size": 14166,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Plan.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Plan.md",
+        "mtime": 1788061572885,
+        "size": 32223,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/3. Phase 6 task list (version 3).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/3. Phase 6 task list (version 3).md",
+        "mtime": 1788061572884,
+        "size": 13464,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/2. Phase 6 task list (version 2).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/2. Phase 6 task list (version 2).md",
+        "mtime": 1788061572883,
+        "size": 24269,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/1. Phase 6 task list.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 6/3. Phases/1. Phase 6 task list.md",
+        "mtime": 1788061572882,
+        "size": 18361,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.md",
+        "mtime": 1788061572880,
+        "size": 20135,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.md",
+        "mtime": 1788061572879,
+        "size": 9344,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.2.md",
+        "mtime": 1788061572879,
+        "size": 2100,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.md",
+        "mtime": 1788061572878,
+        "size": 8591,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.md",
+        "mtime": 1788061572877,
+        "size": 3510,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.md",
+        "mtime": 1788061572876,
+        "size": 7795,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.md",
+        "mtime": 1788061572875,
+        "size": 7324,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.3.md",
+        "mtime": 1788061572874,
+        "size": 1818,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.md",
+        "mtime": 1788061572874,
+        "size": 4279,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.md",
+        "mtime": 1788061572873,
+        "size": 3160,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.2.1.1.md",
+        "mtime": 1788061572871,
+        "size": 4312,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.7.1.md",
+        "mtime": 1788061572871,
+        "size": 7458,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.6.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.6.md",
+        "mtime": 1788061572870,
+        "size": 5372,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.5.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.5.md",
+        "mtime": 1788061572869,
+        "size": 6319,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.4.md",
+        "mtime": 1788061572869,
+        "size": 2873,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.md",
+        "mtime": 1788061572868,
+        "size": 6218,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.4.md",
+        "mtime": 1788061572867,
+        "size": 1400,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.3.md",
+        "mtime": 1788061572867,
+        "size": 2981,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.2.md",
+        "mtime": 1788061572865,
+        "size": 3669,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.3.1.md",
+        "mtime": 1788061572864,
+        "size": 5706,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.2.1.1.md",
+        "mtime": 1788061572864,
+        "size": 2279,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 8.1.1.1.md",
+        "mtime": 1788061572863,
+        "size": 2381,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 7.md",
+        "mtime": 1788061572863,
+        "size": 18017,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.md",
+        "mtime": 1788061572862,
+        "size": 13949,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 6.1.md",
+        "mtime": 1788061572860,
+        "size": 1180,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 5.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 5.md",
+        "mtime": 1788061572859,
+        "size": 11317,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.md",
+        "mtime": 1788061572859,
+        "size": 11002,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 4.1.md",
+        "mtime": 1788061572853,
+        "size": 5715,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.md",
+        "mtime": 1788061572853,
+        "size": 12341,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 3.1.md",
+        "mtime": 1788061572853,
+        "size": 1484,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.md",
+        "mtime": 1788061572853,
+        "size": 19736,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.8.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.8.md",
+        "mtime": 1788061572853,
+        "size": 6390,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.7.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.7.md",
+        "mtime": 1788061572853,
+        "size": 7941,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.6.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.6.md",
+        "mtime": 1788061572853,
+        "size": 1871,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.5.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.5.md",
+        "mtime": 1788061572851,
+        "size": 12389,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.4.md",
+        "mtime": 1788061572851,
+        "size": 1075,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.3.md",
+        "mtime": 1788061572851,
+        "size": 4117,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.2.md",
+        "mtime": 1788061572844,
+        "size": 1002,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 2.1.md",
+        "mtime": 1788061572844,
+        "size": 848,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 15.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 15.md",
+        "mtime": 1788061572844,
+        "size": 5785,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.md",
+        "mtime": 1788061572844,
+        "size": 13383,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.md",
+        "mtime": 1788061572844,
+        "size": 5579,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.2.md",
+        "mtime": 1788061572844,
+        "size": 4795,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.2.1.md",
+        "mtime": 1788061572844,
+        "size": 1924,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 14.1.md",
+        "mtime": 1788061572844,
+        "size": 8827,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 13.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 13.md",
+        "mtime": 1788061572843,
+        "size": 9445,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/4. Response Chat (new)/res 1.md",
+        "mtime": 1788061572842,
+        "size": 8959,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/3. Phase 3 task  list (version 2).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/3. Phase 3 task  list (version 2).md",
+        "mtime": 1788061572841,
+        "size": 11344,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/2. Phase 3 task list (version 1).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/2. Phase 3 task list (version 1).md",
+        "mtime": 1788061572840,
+        "size": 25196,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/1. Phase 3 task list.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 3/3. Phases/1. Phase 3 task list.md",
+        "mtime": 1788061572839,
+        "size": 26967,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 9.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 9.md",
+        "mtime": 1788061572837,
+        "size": 7340,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 8.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 8.md",
+        "mtime": 1788061572836,
+        "size": 10321,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 7.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 7.md",
+        "mtime": 1788061572835,
+        "size": 6666,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 6.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 6.md",
+        "mtime": 1788061572835,
+        "size": 6691,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 5.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 5.md",
+        "mtime": 1788061572834,
+        "size": 5917,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.md",
+        "mtime": 1788061572833,
+        "size": 7916,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 4.1.md",
+        "mtime": 1788061572832,
+        "size": 5867,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 3.md",
+        "mtime": 1788061572831,
+        "size": 6212,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 2.md",
+        "mtime": 1788061572831,
+        "size": 3064,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.md",
+        "mtime": 1788061572830,
+        "size": 13305,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.4.md",
+        "mtime": 1788061572828,
+        "size": 6554,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.3.md",
+        "mtime": 1788061572828,
+        "size": 8237,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.2.md",
+        "mtime": 1788061572826,
+        "size": 3520,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.md",
+        "mtime": 1788061572825,
+        "size": 7654,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 11.1.1.md",
+        "mtime": 1788061572824,
+        "size": 4318,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 10.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 10.md",
+        "mtime": 1788061572823,
+        "size": 7695,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Response Chat (new)/res 1.md",
+        "mtime": 1788061572823,
+        "size": 3188,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/4. Outside/Things i have not undertood.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/4. Outside/Things i have not undertood.md",
+        "mtime": 1788061572821,
+        "size": 1783,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/4. phase 2 task list (version 3).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/4. phase 2 task list (version 3).md",
+        "mtime": 1788061572820,
+        "size": 8182,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/3. phase 2 task list (version 2).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/3. phase 2 task list (version 2).md",
+        "mtime": 1788061572820,
+        "size": 18552,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/2,. phase 2 task list (new).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/2,. phase 2 task list (new).md",
+        "mtime": 1788061572819,
+        "size": 14365,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/1. phase 2 task list (old).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/3. Phases/1. phase 2 task list (old).md",
+        "mtime": 1788061572818,
+        "size": 9859,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 9.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 9.md",
+        "mtime": 1788061572817,
+        "size": 7036,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 8.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 8.md",
+        "mtime": 1788061572815,
+        "size": 8110,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 7.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 7.md",
+        "mtime": 1788061572814,
+        "size": 4636,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.md",
+        "mtime": 1788061572813,
+        "size": 6965,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 6.1.md",
+        "mtime": 1788061572813,
+        "size": 920,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 5.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 5.md",
+        "mtime": 1788061572812,
+        "size": 4441,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 4.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 4.md",
+        "mtime": 1788061572812,
+        "size": 3721,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 3.md",
+        "mtime": 1788061572809,
+        "size": 4105,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 2.md",
+        "mtime": 1788061572809,
+        "size": 3961,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/2. Response Chat (Older)/res 1.md",
+        "mtime": 1788061572806,
+        "size": 4067,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 2/1. Doc/Doc1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 2/1. Doc/Doc1.md",
+        "mtime": 1788061572806,
+        "size": 334,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list.md",
+        "mtime": 1788061572804,
+        "size": 17108,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list (version 2).md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 1/3. Phases/1. phase 1 task list (version 2).md",
+        "mtime": 1788061572804,
+        "size": 8348,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 2.md",
+        "mtime": 1788061572804,
+        "size": 17898,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Phase 1/2. Response Chat (old)/res 1.md",
+        "mtime": 1788061572793,
+        "size": 8811,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Doc3.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Doc3.md",
+        "mtime": 1788061572793,
+        "size": 5015,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Doc 2.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Doc 2.md",
+        "mtime": 1788061572793,
+        "size": 15839,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/10. Doc/Doc 1.md": {
+        "path": "2. Aws/2. Auction/10. Doc/Doc 1.md",
+        "mtime": 1788061572793,
+        "size": 16113,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/1. Database/2. Docker-compose.md": {
+        "path": "2. Aws/2. Auction/1. Database/2. Docker-compose.md",
+        "mtime": 1788061572793,
+        "size": 136,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/2. Auction/1. Database/1. Database.md": {
+        "path": "2. Aws/2. Auction/1. Database/1. Database.md",
+        "mtime": 1788061572793,
+        "size": 8936,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 7/Phase 7 task list.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 7/Phase 7 task list.md",
+        "mtime": 1788061572793,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 6/Phase 6 task list.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 6/Phase 6 task list.md",
+        "mtime": 1788061572793,
+        "size": 18361,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 5/Phase 5 task list.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 5/Phase 5 task list.md",
+        "mtime": 1788061572793,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 4/Phase 4 task list.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 4/Phase 4 task list.md",
+        "mtime": 1788061572793,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 3/Phase 3 task list.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 3/Phase 3 task list.md",
+        "mtime": 1788061572792,
+        "size": 26967,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Things i have not undertood.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Things i have not undertood.md",
+        "mtime": 1788061572790,
+        "size": 1783,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 9.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 9.md",
+        "mtime": 1788061572789,
+        "size": 7036,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 8.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 8.md",
+        "mtime": 1788061572788,
+        "size": 8110,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 7.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 7.md",
+        "mtime": 1788061572788,
+        "size": 4636,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.md",
+        "mtime": 1788061572786,
+        "size": 6965,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.1.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 6.1.md",
+        "mtime": 1788061572786,
+        "size": 920,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 5.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 5.md",
+        "mtime": 1788061572785,
+        "size": 4441,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 4.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 4.md",
+        "mtime": 1788061572784,
+        "size": 3721,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 3.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 3.md",
+        "mtime": 1788061572784,
+        "size": 4105,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 2.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 2.md",
+        "mtime": 1788061572783,
+        "size": 3961,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 1.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Response Chat/res 1.md",
+        "mtime": 1788061572782,
+        "size": 4067,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (old).md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (old).md",
+        "mtime": 1788061572791,
+        "size": 9859,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (new).md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/phase 2 task list (new).md",
+        "mtime": 1788061572790,
+        "size": 14365,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 2/Doc/Doc1.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 2/Doc/Doc1.md",
+        "mtime": 1788061572781,
+        "size": 334,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Phase 1/response budget.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Phase 1/response budget.md",
+        "mtime": 1788061572780,
+        "size": 8804,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Doc3.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Doc3.md",
+        "mtime": 1788061572779,
+        "size": 5015,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Doc 2.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Doc 2.md",
+        "mtime": 1788061572777,
+        "size": 15839,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/3. Doc/Doc 1.md": {
+        "path": "2. Aws/14. PetShop/3. Doc/Doc 1.md",
+        "mtime": 1788061572776,
+        "size": 16113,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md",
+        "mtime": 1788061572774,
+        "size": 15492,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 5 Deploy React Frontend.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 5 Deploy React Frontend.md",
+        "mtime": 1788061572773,
+        "size": 12769,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 4 Deploy Backend Spring Boot.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 4 Deploy Backend Spring Boot.md",
+        "mtime": 1788061572772,
+        "size": 14135,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md",
+        "mtime": 1788061572771,
+        "size": 11173,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 2 Networking cho app.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 2 Networking cho app.md",
+        "mtime": 1788061572771,
+        "size": 9562,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/2. Phases/Phase 1 AWS.md": {
+        "path": "2. Aws/14. PetShop/2. Phases/Phase 1 AWS.md",
+        "mtime": 1788061572770,
+        "size": 7281,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/14. PetShop/1. Response/1. res 1.md": {
+        "path": "2. Aws/14. PetShop/1. Response/1. res 1.md",
+        "mtime": 1788061572769,
+        "size": 10783,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/2. Checklist.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/2. Checklist.md",
+        "mtime": 1788061572767,
+        "size": 19855,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/1. Introduction.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/9. Static Website Hosting with Amazon S3/1. Introduction.md",
+        "mtime": 1788061572766,
+        "size": 5113,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/2. Checklist.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/2. Checklist.md",
+        "mtime": 1788061572764,
+        "size": 24050,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/1. INTRODUCTION.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/6. Compute Essentials with Amazon Elastic Compute Cloud (EC2)/1. INTRODUCTION.md",
+        "mtime": 1788061572763,
+        "size": 12782,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/3. Checklist for NETWORK ACLS.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/3. Checklist for NETWORK ACLS.md",
+        "mtime": 1788061572762,
+        "size": 14814,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/2. Checklist for Security Group.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/2. Checklist for Security Group.md",
+        "mtime": 1788061572760,
+        "size": 5239,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/1. Checklist for Firewall in VPC.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/4. Checklist/1. Checklist for Firewall in VPC.md",
+        "mtime": 1788061572760,
+        "size": 19362,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/3. NETWORK ACLS.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/3. NETWORK ACLS.md",
+        "mtime": 1788061572744,
+        "size": 2609,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/2. Security Group.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/2. Security Group.md",
+        "mtime": 1788061572744,
+        "size": 5239,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/1. Firewall in VPC.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/2. Firewall in VPC/1. Firewall in VPC.md",
+        "mtime": 1788061572744,
+        "size": 3812,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/9. Bandwidth.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/9. Bandwidth.md",
+        "mtime": 1788061572744,
+        "size": 221,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/8. Network.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/8. Network.md",
+        "mtime": 1788061572744,
+        "size": 9814,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/7. Route table.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/7. Route table.md",
+        "mtime": 1788061572744,
+        "size": 3283,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/6. Gateway.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/6. Gateway.md",
+        "mtime": 1788061572744,
+        "size": 7444,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/5. IP addresses.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/5. IP addresses.md",
+        "mtime": 1788061572744,
+        "size": 4828,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/4. Subnet.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/4. Subnet.md",
+        "mtime": 1788061572744,
+        "size": 5264,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/3. VPC.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/3. VPC.md",
+        "mtime": 1788061572744,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/2. EC2.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/2. EC2.md",
+        "mtime": 1788061572744,
+        "size": 4411,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/11. Protocol.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/11. Protocol.md",
+        "mtime": 1788061572744,
+        "size": 841,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/10. Traffic.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/10. Traffic.md",
+        "mtime": 1788061572744,
+        "size": 0,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/1. CIDR.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Review/1. CIDR.md",
+        "mtime": 1788061572744,
+        "size": 2551,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/5. Checklist for NAT Gateway.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/5. Checklist for NAT Gateway.md",
+        "mtime": 1788061572744,
+        "size": 15836,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/4. Checklist for Internet Gateway.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/4. Checklist for Internet Gateway.md",
+        "mtime": 1788061572744,
+        "size": 11927,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/3. Checklist for route table.md",
+        "mtime": 1788061572744,
+        "size": 11611,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/2. Checklist for subnets.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/2. Checklist for subnets.md",
+        "mtime": 1788061572744,
+        "size": 6485,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC.md",
+        "mtime": 1788061572740,
+        "size": 16095,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/5. NAT Gateway.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/5. NAT Gateway.md",
+        "mtime": 1788061572739,
+        "size": 2413,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/4. INTERNET GATEWAY.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/4. INTERNET GATEWAY.md",
+        "mtime": 1788061572738,
+        "size": 1078,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/3. ROUTE TABLE.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/3. ROUTE TABLE.md",
+        "mtime": 1788061572738,
+        "size": 1806,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/2. Subnets.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/2. Subnets.md",
+        "mtime": 1788061572737,
+        "size": 1557,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md",
+        "mtime": 1788061572736,
+        "size": 5503,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/2. Checklist.md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/2. Checklist.md",
+        "mtime": 1788061572735,
+        "size": 19714,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/1. Amazon Relational Database Service (Amazon RDS).md": {
+        "path": "2. Aws/1. Aws fcaj/Explore AWS Services/10. Database Essentials with Amazon Relational Database Service (RDS)/1. Amazon Relational Database Service (Amazon RDS).md",
+        "mtime": 1788061572734,
+        "size": 3692,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/Trello/Trello.md": {
+        "path": "1. IT/Trello/Trello.md",
+        "mtime": 1788061572728,
+        "size": 26933,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/6. Checklist for theory of JWT.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/6. Checklist for theory of JWT.md",
+        "mtime": 1788061572727,
+        "size": 7587,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/5. Checklist for JwtAuthenticationFilter.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/5. Checklist for JwtAuthenticationFilter.md",
+        "mtime": 1788061572726,
+        "size": 4817,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/4. Checklist for PasswordConfig.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/4. Checklist for PasswordConfig.md",
+        "mtime": 1788061572725,
+        "size": 1456,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/3. Checklist for AuthController.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/3. Checklist for AuthController.md",
+        "mtime": 1788061572724,
+        "size": 4422,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/2. Checklist for AuthService.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/2. Checklist for AuthService.md",
+        "mtime": 1788061572724,
+        "size": 3761,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/1. Checklist for JwtService.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/2. Checklist/1. Checklist for JwtService.md",
+        "mtime": 1788061572723,
+        "size": 7943,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/2. JWT Auth/1. Code/1. Step to step.md": {
+        "path": "1. IT/5. Spring boot/2. JWT Auth/1. Code/1. Step to step.md",
+        "mtime": 1788061572722,
+        "size": 16221,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/5. Spring boot/1. Create new project.md": {
+        "path": "1. IT/5. Spring boot/1. Create new project.md",
+        "mtime": 1788061572721,
+        "size": 15388,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/3. Django/2. Steps to run Django backend.md": {
+        "path": "1. IT/3. Django/2. Steps to run Django backend.md",
+        "mtime": 1788061572720,
+        "size": 8678,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/2. Docker/1. Explain docker-compose.md": {
+        "path": "1. IT/2. Docker/1. Explain docker-compose.md",
+        "mtime": 1788061572719,
+        "size": 7651,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/2. Docker/1. Docker Command line.md": {
+        "path": "1. IT/2. Docker/1. Docker Command line.md",
+        "mtime": 1788061572717,
+        "size": 1519,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "1. IT/1. Database/1. MySQL/1. MySql Command line.md": {
+        "path": "1. IT/1. Database/1. MySQL/1. MySql Command line.md",
+        "mtime": 1788061572716,
+        "size": 1656,
+        "blockIds": [],
+        "referencedIds": []
+      },
+      "TaskNotes/Start Here.md": {
+        "path": "TaskNotes/Start Here.md",
+        "mtime": 1788081794498,
+        "size": 4984,
         "blockIds": [],
         "referencedIds": []
       }
     },
-    "blocks": {
-      "e78c0dbf-a2dc-47ea-bec9-381a67c6621e": {
-        "id": "e78c0dbf-a2dc-47ea-bec9-381a67c6621e",
-        "filePath": "3. Todo list/3. Anything about AWS before.md",
-        "rawContent": "[ ] Learn `Amazon VPC` [[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC]]",
-        "childrenMarkdown": "",
-        "startLine": 0,
-        "endLine": 1,
-        "childrenIDs": [],
-        "sourceUpdatedAt": 1785380281014,
-        "status": "active",
-        "firstSeenAt": 1783695488143,
-        "lastSeenAt": 1785380281033
-      },
-      "9587a973-3a76-43c5-bb7c-5d486914efd7": {
-        "id": "9587a973-3a76-43c5-bb7c-5d486914efd7",
-        "filePath": "Telegram todo list/07.2026/06-12.07.2026.md",
-        "rawContent": "[ ] Đã đến giờ ôn tập rồi (@2026-07-10 14:21)",
-        "childrenMarkdown": "",
-        "startLine": 1,
-        "endLine": 2,
-        "childrenIDs": [],
-        "sourceUpdatedAt": 1783695805636,
-        "status": "stale",
-        "firstSeenAt": 1783695583210,
-        "lastSeenAt": 1783695805689,
-        "lostAt": 1783695808051
-      }
-    },
+    "blocks": {},
     "refsById": {
       "9587a973-3a76-43c5-bb7c-5d486914efd7": [
         {
@@ -2080,23 +2057,7 @@
         }
       ]
     },
-    "sourceBlocksByFile": {
-      "3. Todo list/3. Anything about AWS before.md": [
-        {
-          "id": "e78c0dbf-a2dc-47ea-bec9-381a67c6621e",
-          "filePath": "3. Todo list/3. Anything about AWS before.md",
-          "rawContent": "[ ] Learn `Amazon VPC` [[2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/6. Checklist/1. Checklist for Amazon VPC]]",
-          "childrenMarkdown": "",
-          "startLine": 0,
-          "endLine": 1,
-          "childrenIDs": [],
-          "sourceUpdatedAt": 1785380281014,
-          "status": "active",
-          "firstSeenAt": 1783695488143,
-          "lastSeenAt": 1785380281033
-        }
-      ]
-    }
+    "sourceBlocksByFile": {}
   },
   "dualPropertySyncState": {
     "schemaVersion": 1,

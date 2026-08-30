@@ -1,18 +1,10 @@
 [
-  "system3-relay",
-  "highlightr-plugin",
-  "draw-in-canvas",
   "obsidian-hover-editor",
-  "regex-replace",
-  "obsidian-tts",
   "dataview",
-  "block-reference-enhancer",
-  "light-mindmap",
-  "obsidian-dynamic-background",
-  "mindelixir-mindmap",
   "obsidian-excalidraw-plugin",
-  "obsidian-full-calendar",
   "obsidian-spaced-repetition",
   "obsidian-advanced-slides",
-  "paste-reformatter"
+  "paste-reformatter",
+  "tasknotes",
+  "regex-replace"
 ]
