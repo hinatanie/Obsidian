@@ -4,39 +4,153 @@
     "type": "split",
     "children": [
       {
-        "id": "1f8b980b4973ac05",
+        "id": "2ccae9859aa9bff5",
         "type": "tabs",
         "children": [
           {
-            "id": "c92fe6877d9234b4",
+            "id": "95d134e8dc308a1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Aws/2. Auction/14. Report/1. ChatGPT response/res 1.md",
+                "file": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "res 1"
+              "title": "1. Amazon VPC"
             }
           },
           {
-            "id": "6c35208ccea31ca3",
+            "id": "d621597db52c76b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Prompt/1. Prompt for AI help learn things.md",
+                "file": "Untitled 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Prompt for AI help learn things"
+              "title": "Untitled 4"
+            }
+          },
+          {
+            "id": "944e3b9f67467212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 5"
+            }
+          },
+          {
+            "id": "b2daec1a0e65b0dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 6"
+            }
+          },
+          {
+            "id": "7b9eb7efb6ecc0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 7"
+            }
+          },
+          {
+            "id": "ee267e42d5d4cccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 8"
+            }
+          },
+          {
+            "id": "ce8f6122f282ae59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 8"
+            }
+          },
+          {
+            "id": "0f1e2382af5f1718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agentic Cloud Investigation Series/3. Theory/2.8 Incident investigation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.8 Incident investigation"
+            }
+          },
+          {
+            "id": "029201d6f51ffdaf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
+          },
+          {
+            "id": "d34700b69a8694e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Challenger/RideNow/1. Overview/1. Over view.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Over view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -95,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.02501678466797
+    "width": 907.5
   },
   "right": {
     "id": "9430295687da19f5",
@@ -205,11 +319,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "system3-relay:Relay": false,
-      "obsidian-tts:Text to Speech": false,
-      "mindelixir-mindmap:Open as mind map": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "tasknotes:Open mini calendar view": false,
@@ -222,46 +332,48 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "6c35208ccea31ca3",
+  "active": "d34700b69a8694e2",
   "lastOpenFiles": [
-    "Videos/Java intern/download_playlist.py",
-    "Videos/Java intern/downloaded.txt",
-    "Videos/Java intern/005 - JAVA Intern (01)： Vì sao dev BE lại thích sử dụng Stream().vi.srt",
-    "Videos/Java intern/005 - JAVA Intern (01)： Vì sao dev BE lại thích sử dụng Stream().mp4",
-    "Videos/Java intern/005 - JAVA Intern (01)： Vì sao dev BE lại thích sử dụng Stream().en.srt",
-    "Videos/Java intern/004 - JAVA Intern (02)： Vì sao bắt đầu lại là Thread cho Lập trình đồng thời？.vi.srt",
-    "Videos/Java intern/004 - JAVA Intern (02)： Vì sao bắt đầu lại là Thread cho Lập trình đồng thời？.mp4",
-    "Videos/Java intern/004 - JAVA Intern (02)： Vì sao bắt đầu lại là Thread cho Lập trình đồng thời？.en.srt",
-    "Videos/Java intern/003 - JAVA Intern (3)： ThreadPool ưu điểm NHANH, nhược điểm hệ thống TREO DeadLock.vi.srt",
-    "Videos/Java intern/003 - JAVA Intern (3)： ThreadPool ưu điểm NHANH, nhược điểm hệ thống TREO DeadLock.mp4",
-    "Videos/Java intern/003 - JAVA Intern (3)： ThreadPool ưu điểm NHANH, nhược điểm hệ thống TREO DeadLock.en.srt",
-    "Excalidraw/Drawing 2026-07-30 14.03.32.excalidraw.md",
-    "7. Prompt/1. Prompt for AI help learn things.md",
-    "30 days.md",
-    "lambda.md",
+    "AWS Challenger/RideNow/1. Overview/1.2 Technical issue.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.28 Configuration Management.md",
+    "SGU/Fourth year/Train ticket booking",
+    "AWS Challenger/RideNow/1. Overview/1.6 System Architecture Overview.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.14 Distributed Lock.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.27 Secrets Management.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.26 Authentication & Authorization.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.25 API Gateway - Copy (7).md",
+    "AWS Challenger/RideNow/1. Overview/1.6.25 API Gateway - Copy (6).md",
+    "AWS Challenger/RideNow/1. Overview/1.6.25 API Gateway - Copy (5).md",
+    "AWS Challenger/RideNow/1. Overview/1.6.25 API Gateway - Copy (4).md",
+    "AWS Challenger/RideNow/1. Overview/1.6.25 API Gateway.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.24 Containerization.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.23 CI,CD.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.22 Observability.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.21 WebSocket.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.20 Health Checks.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.19 HPA.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.18 Load Balancing.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.17 Service Discovery.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.15 Eventual Consistency.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.16 Kubernetes.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.13 Timeout.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.12 Circuit Breaker.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.11 Retry.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.10 Saga.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.9 EventBridge.md",
+    "AWS Challenger/RideNow/1. Overview",
+    "SGU/Fourth year/Seminar/Chapter 2 Graph Models and Applications",
+    "SGU/Fourth year/Seminar/Chapter 1 Optimization Problem",
+    "AWS Challenger/RideNow/2. Scrum",
+    "AWS Challenger/AI Content",
+    "AWS Challenger/RideNow",
+    "AWS Challenger",
+    "Pasted image 20260910170250.png",
+    "SGU/Fourth year",
+    "SGU",
+    "Untitled.canvas",
     "Pasted image 20260805220332.png",
     "Pasted image 20260806144523.png",
-    "Untitled.md",
-    "Untitled 3.md",
-    "Untitled 5.md",
-    "Untitled 6.md",
-    "Untitled 7.md",
-    "3. Todo list/1. todo list.md",
-    "7. Prompt/9. Create a process.md",
-    "7. Prompt/8. Create file based on topic.md",
-    "7. Prompt/7. Split to smaller question and answer.md",
-    "7. Prompt/5. Prompt for cursor.md",
-    "7. Prompt/1. Prompt file markdown into .canvas.md",
-    "TaskNotes/Start Here.md",
-    "2. Aws/2. Auction/14. Report/1. ChatGPT response/res 1.md",
-    "2. Aws/14. PetShop/2. Phases/Phase 3 tạo database thật trên AWS cho Auction app.md",
-    "2. Aws/14. PetShop/2. Phases/Phase 6 Upload ảnh sản phẩm đấu giá.md",
-    "2. Aws/14. PetShop/2. Phases/Phase 5 Deploy React Frontend.md",
-    "2. Aws/14. PetShop/2. Phases/Phase 4 Deploy Backend Spring Boot.md",
-    "2. Aws/14. PetShop/2. Phases/Phase 2 Networking cho app.md",
-    "2. Aws/14. PetShop/3. Doc/Phase 1/response budget.md",
-    "2. Aws/14. PetShop/2. Phases/Phase 1 AWS.md",
-    "2. Aws/14. PetShop/1. Response/1. res 1.md",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Checklist for Amazon VPC.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/1. CIDR.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/9. Bandwith.canvas",
@@ -271,14 +383,12 @@
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/5. Checklist for NAT Gateway.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/10. Traffic.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/11. Protocol.canvas",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/2. EC2.canvas",
     "Slide-Deck-Export/aws-vpc-field-guide-linked/09-aws-vpc-field-guide-linked.png",
     "Slide-Deck-Export/aws-vpc-field-guide-linked/08-aws-vpc-field-guide-linked.png",
     "Slide-Deck-Export/aws-vpc-field-guide-linked/07-aws-vpc-field-guide-linked.png",
     "Slide-Deck-Export/aws-vpc-field-guide-linked/06-aws-vpc-field-guide-linked.png",
     "Slide-Deck-Export/aws-vpc-field-guide-linked/05-aws-vpc-field-guide-linked.png",
     "Slide-Deck-Export/aws-vpc-field-guide-linked/04-aws-vpc-field-guide-linked.png",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/03-aws-vpc-field-guide-linked.png",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/02-aws-vpc-field-guide-linked.png"
+    "Slide-Deck-Export/aws-vpc-field-guide-linked/03-aws-vpc-field-guide-linked.png"
   ]
 }

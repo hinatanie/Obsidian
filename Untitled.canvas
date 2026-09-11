@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"73da4bfdac10aa97","x":-500,"y":-60,"width":250,"height":60,"type":"text","text":"install Python with winget."},
+		{"id":"1d9767976d9e9b6f","x":-210,"y":-60,"width":250,"height":60,"type":"text","text":"winget install Python.Python.3.13"},
+		{"id":"08063fb3516910d6","x":80,"y":-60,"width":250,"height":60,"type":"text","text":"check:"},
+		{"id":"b1eec0ece19a58b6","x":960,"y":-60,"width":250,"height":60,"type":"text","text":"```\npip --version\n```"},
+		{"id":"377e66b7da9f3d10","x":630,"y":-60,"width":250,"height":60,"type":"text","text":"Also check:"},
+		{"id":"af2c6916548711ff","x":330,"y":-60,"width":250,"height":60,"type":"text","text":"python --version"}
+	],
+	"edges":[]
+}
