@@ -8,5 +8,6 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "attachmentFolderPath": "Media"
 }

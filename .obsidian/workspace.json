@@ -4,153 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "2ccae9859aa9bff5",
+        "id": "8ef6bcb9cb2b6265",
         "type": "tabs",
+        "dimension": 57.68608414239482,
         "children": [
           {
-            "id": "95d134e8dc308a1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/1. Amazon VPC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Amazon VPC"
-            }
-          },
-          {
-            "id": "d621597db52c76b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 4"
-            }
-          },
-          {
-            "id": "944e3b9f67467212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 5"
-            }
-          },
-          {
-            "id": "b2daec1a0e65b0dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 6"
-            }
-          },
-          {
-            "id": "7b9eb7efb6ecc0d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 7"
-            }
-          },
-          {
-            "id": "ee267e42d5d4cccc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 8"
-            }
-          },
-          {
-            "id": "ce8f6122f282ae59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 8"
-            }
-          },
-          {
-            "id": "0f1e2382af5f1718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agentic Cloud Investigation Series/3. Theory/2.8 Incident investigation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.8 Incident investigation"
-            }
-          },
-          {
-            "id": "029201d6f51ffdaf",
+            "id": "5aa047f48dec80e9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "SGU/Fourth year/Research Proposal/1. Lý do chọn đề tài.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "1. Lý do chọn đề tài"
             }
           },
           {
-            "id": "d34700b69a8694e2",
+            "id": "15a2f1e8fc7cee71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Challenger/RideNow/1. Overview/1. Over view.md",
+                "file": "Untitled 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Over view"
+              "title": "Untitled 10"
+            }
+          },
+          {
+            "id": "1ab063bda51d258f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SGU/Fourth year/Research Proposal/4. Đối tượng và phạm vi nghiên cứu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Đối tượng và phạm vi nghiên cứu"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
+      },
+      {
+        "id": "f4a945e818f7127c",
+        "type": "tabs",
+        "dimension": 42.31391585760518,
+        "children": [
+          {
+            "id": "0e1a3c5359dc6e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SGU/Fourth year/Research Proposal/0. Vấn đáp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Vấn đáp"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "happy-pet-s",
+                "query": "Alternating path",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -209,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 907.5
+    "width": 344.16668701171875
   },
   "right": {
     "id": "9430295687da19f5",
@@ -225,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Aws/2. Auction/6. Doc/Doc3.md",
+                "file": "AWS Challenger/AI Content/4. ECS, EC2 vs VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Doc3"
+              "title": "Backlinks"
             }
           },
           {
@@ -307,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 664.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -332,48 +256,55 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "d34700b69a8694e2",
+  "active": "47c44cdf3bb4f681",
   "lastOpenFiles": [
-    "AWS Challenger/RideNow/1. Overview/1.2 Technical issue.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.28 Configuration Management.md",
-    "SGU/Fourth year/Train ticket booking",
-    "AWS Challenger/RideNow/1. Overview/1.6 System Architecture Overview.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.14 Distributed Lock.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.27 Secrets Management.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.26 Authentication & Authorization.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.25 API Gateway - Copy (7).md",
-    "AWS Challenger/RideNow/1. Overview/1.6.25 API Gateway - Copy (6).md",
-    "AWS Challenger/RideNow/1. Overview/1.6.25 API Gateway - Copy (5).md",
-    "AWS Challenger/RideNow/1. Overview/1.6.25 API Gateway - Copy (4).md",
-    "AWS Challenger/RideNow/1. Overview/1.6.25 API Gateway.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.24 Containerization.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.23 CI,CD.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.22 Observability.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.21 WebSocket.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.20 Health Checks.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.19 HPA.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.18 Load Balancing.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.17 Service Discovery.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.15 Eventual Consistency.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.16 Kubernetes.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.13 Timeout.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.12 Circuit Breaker.md",
+    "SGU/Fourth year/Research Proposal/4. Đối tượng và phạm vi nghiên cứu.md",
+    "SGU/Fourth year/Research Proposal/0. Vấn đáp.md",
+    "SGU/Fourth year/Research Proposal/3. Mục đích và nhiệm vụ nghiên cứu.md",
+    "SGU/Fourth year/Research Proposal/2. Lịch sử nghiên cứu vấn đề.md",
+    "SGU/Fourth year/Research Proposal/1. Lý do chọn đề tài.md",
+    "SGU/Fourth year/Research Proposal/8. Dự kiến kế hoạch nghiên cứu.md",
+    "AWS Challenger/AI Content/4. ECS, EC2 vs VPC.md",
+    "AWS Challenger/AI Content/3. S3.md",
+    "AWS Challenger/AI Content/2. RDS.md",
+    "AWS Challenger/AI Content/1. Amazon Bedrock.md",
+    "AWS Challenger/RideNow/1. Overview/1. Over view.md",
     "AWS Challenger/RideNow/1. Overview/1.6.11 Retry.md",
     "AWS Challenger/RideNow/1. Overview/1.6.10 Saga.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.9 EventBridge.md",
-    "AWS Challenger/RideNow/1. Overview",
-    "SGU/Fourth year/Seminar/Chapter 2 Graph Models and Applications",
-    "SGU/Fourth year/Seminar/Chapter 1 Optimization Problem",
-    "AWS Challenger/RideNow/2. Scrum",
-    "AWS Challenger/AI Content",
-    "AWS Challenger/RideNow",
-    "AWS Challenger",
-    "Pasted image 20260910170250.png",
-    "SGU/Fourth year",
-    "SGU",
+    "AWS Challenger/RideNow/1. Overview/1.6.1.1.4 HTTP , REST.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.1.2 Compare Microservice with Monolith.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.1.1.2.4 Common Kafka Use Cases.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.1.1.2.3 Kafka vs. Traditional Message Queues (e.g., RabbitMQ).md",
+    "AWS Challenger/RideNow/1. Overview/1.6.1.1.2.2 4 Core Concepts in Kafka.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.1.1.2.1 The Problem Kafka Solves.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.1.1.2 Kafka.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.1.1.1 gRPC.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.1.1 separate applications,processes.md",
+    "AWS Challenger/RideNow/1. Overview/1.6.1 Microservices.md",
+    "AWS Challenger/RideNow/1. Overview/1.3 Objectives.md",
+    "AWS Challenger/RideNow/1. Overview/1.4 Risks.md",
+    "AWS Challenger/RideNow/1. Overview/1.2.6 Ensure the system can scale effectively and remain stable in the event of failures.md",
+    "SGU/Fourth year/Research Proposal",
+    "SGU/Fourth year/Specialized Project/Untitled",
+    "Videos/System Design With Go/download_playlist.py",
+    "Videos/Node.js Backend Architecture/download_playlist.py",
+    "Videos/NestJS Backend Architecture/download_playlist.py",
+    "Videos/Go Junior/download_playlist.py",
+    "Videos/Go intern/download_playlist.py",
+    "Videos/Go fresher/download_playlist.py",
+    "Videos/Go Backend Architecture/download_playlist.py",
+    "Videos/NestJS Backend Architecture",
+    "Media/Pasted image 20260914155046.png",
+    "Media/Pasted image 20260914154558.png",
+    "Media/Pasted image 20260914154547.png",
+    "Media/Pasted image 20260914154251.png",
+    "Media/Pasted image 20260914152945.png",
+    "Media/Pasted image 20260914145420.png",
+    "Media/Pasted image 20260914145002.png",
+    "Media/Pasted image 20260914144403.png",
+    "Media/Pasted image 20260914144228.png",
+    "Media/Pasted image 20260914144056.png",
     "Untitled.canvas",
-    "Pasted image 20260805220332.png",
-    "Pasted image 20260806144523.png",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/1. Checklist for Amazon VPC.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/1. CIDR.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/9. Bandwith.canvas",
@@ -382,13 +313,6 @@
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/2. Checklist for subnets.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/5. Checklist for NAT Gateway.canvas",
     "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/10. Traffic.canvas",
-    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/11. Protocol.canvas",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/09-aws-vpc-field-guide-linked.png",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/08-aws-vpc-field-guide-linked.png",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/07-aws-vpc-field-guide-linked.png",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/06-aws-vpc-field-guide-linked.png",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/05-aws-vpc-field-guide-linked.png",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/04-aws-vpc-field-guide-linked.png",
-    "Slide-Deck-Export/aws-vpc-field-guide-linked/03-aws-vpc-field-guide-linked.png"
+    "2. Aws/1. Aws fcaj/Explore AWS Services/5. Networking Essentials with Amazon Virtual Private Cloud (VPC)/1. In troduction/7. Canvas review/Folder/11. Protocol.canvas"
   ]
 }
