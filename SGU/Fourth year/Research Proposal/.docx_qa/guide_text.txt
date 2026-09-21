@@ -1,0 +1,100 @@
+P000 [Normal] HƯỚNG DẪN TRÌNH BÀY ĐỀ CƯƠNG ĐỒ ÁN CHUYÊN NGÀNH
+P002 [Normal] 1. CẤU TRÚC ĐỀ CƯƠNG ĐACN
+P004 [Normal] (Dự kiến)
+P006 [Normal] 1. Lý do chọn đề tài 
+P007 [Normal] 2. Lịch sử nghiên cứu vấn đề / Tổng quan (nếu có)
+P008 [Normal] 3. Mục đích và nhiệm vụ nghiên cứu
+P009 [Normal] 4. Đối tượng và phạm vi nghiên cứu
+P010 [Normal] 5. Phương pháp nghiên cứu
+P011 [Normal] 6. Giả thuyết khoa học
+P012 [Normal] 7. Những đóng góp mới của đề tài
+P013 [Normal] 8. Dự kiến kế hoạch nghiên cứu
+P014 [Normal] 9. Dự kiến nội dung của ĐACN
+P015 [Normal] Chương 1: …………………
+P016 [Normal] 1.1. …………………
+P017 [Normal] 1.1.1. …………………
+P018 [Normal] 1.1.2. …………………
+P019 [Normal] 1.2. …………………
+P020 [Normal] Chương 2: …………………
+P021 [Normal] Chương 3: …………………
+P022 [Normal] 10. Danh mục tài liệu tham khảo
+P024 [Normal] 2. QUY ĐỊNH VỀ CÁCH TRÌNH BÀY ĐỀ CƯƠNG 
+P025 [Normal] Đề cương phải được trình bày ngắn gọn, rõ ràng, mạch lạc, sạch sẽ, không được tẩy xóa, có đánh số trang, đánh số bảng biểu, hình vẽ, đồ thị, sử dụng khổ giấy A4 (210 x 297mm).
+P026 [Normal] 2.1. Soạn thảo văn bản
+P027 [Normal] Sử dụng phông chữ Times New Roman cỡ 13 hoặc 14 của hệ soạn thảo Winword hoặc tương đương; mật độ chữ bình thường, không được nén hoặc kéo dãn khoảng cách giữa các chữ; dãn dòng đặt ở chế độ 1,5 lines; lề trên 3cm; lề dưới 3 cm; lề trái 3,5 cm; lề phải 2 cm. 
+P028 [Normal] Nếu có bảng biểu, hình vẽ trình bày theo chiều ngang khổ giấy thì đầu bảng là lề trái của trang (nên hạn chế trình bày theo cách này).
+P029 [Normal] 2.2. Đánh số trong đề cương và một số yêu cầu liên quan
+P030 [Normal] 2.2.1. Số trang
+P031 [Normal] Số trang được đánh ở giữa, phía trên mỗi trang giấy. 
+P032 [Normal] Không đánh số trang ở trang bìa.
+P033 [Normal] 2.2.2. Mục và tiểu mục
+P034 [Normal] Mục được đánh số theo chương, tiểu mục được đánh số theo mục, tiểu mục con được đánh số theo tiểu mục. Việc đánh số này được sử dụng tối đa là 4 chữ số. 
+P035 [Normal] Ví dụ:  3.4.2.1. chỉ tiểu mục con 1 của tiểu mục 2 trong mục 4 thuộc chương 3
+P036 [Normal] Chỉ được đánh số mục trong một chương khi trong chương đó có từ 2 mục trở lên (tương tự như vậy đối với tiểu mục, tiểu mục con). 
+P037 [Normal] Sau mỗi dãy số chỉ số mục, tiểu mục, tiểu mục con phải có tên đi kèm, in đậm hoặc in nghiêng.
+P038 [Normal] 2.2.3. Bảng biểu, hình vẽ, sơ đồ, biểu thức
+P039 [Normal] Việc đánh số bảng biểu, hình vẽ, biểu thức phải gắn với số chương (ví dụ hình 3.4 có nghĩa là hình thứ 4 trong chương 3). 
+P040 [Normal] Mọi đồ thị, bảng biểu lấy từ các nguồn khác phải được trích dẫn đầy đủ (ví dụ “Nguồn: Bộ Tài chính 1996”). Nguồn được trích dẫn phải được liệt kê chính xác trong danh mục tài liệu tham khảo.
+P041 [Normal] Tên của bảng biểu ghi phía trên bảng; Tên của hình vẽ, sơ đồ ghi phía dưới hình vẽ, sơ đồ. 
+P042 [Normal] Những bảng biểu ngắn và đồ thị nhỏ phải đi liền với phần nội dung liên quan. Các bảng biểu dài có thể để ở những trang riêng nhưng cũng phải tiếp theo ngay phần nội dung đề cập tới bảng này. 
+P043 [Normal] Mỗi loại bảng biểu và đồ thị chỉ xuất hiện một lần ngay lúc đề cập đầu tiên.
+P044 [Normal] Các bảng biểu rộng nên trình bày theo chiều đứng dài 297mm của trang giấy, chiều rộng của trang giấy có thể hơn 210mm. Chú ý gấp trang giấy sao cho số và đầu đề của hình vẽ, đồ thị hoặc bảng biểu có thể nhìn thấy ngay mà không cần mở rộng tờ giấy, tránh bị cắt xén khi đóng bìa. 
+P045 [Normal] Hình vẽ phải được vẽ sạch sẽ bằng mực đen để có thể sao chụp lại; có đánh số và ghi đầy đủ tên hình, cỡ chữ phải bằng cỡ chữ sử dụng trong văn bản đồ án. Khi đề cập đến các bảng biểu và hình vẽ cần phải nêu rõ số của hình và bảng biểu đó (ví dụ: viết “xem hình 3.2”, không viết “xem hình dưới đây”). 
+P046 [Normal] Các biểu thức toán học nếu cần, được viết riêng trên một dòng hoặc nhóm dòng (canh giữa). Nếu có đánh số các biểu thức thì canh số theo lề phải và đặt trong ngoặc đơn. Biểu thức được đánh số theo chương (ví dụ: biểu thức đánh số (3.4) để chỉ rằng đó là biểu thức thứ 4 trong chương 3), biểu thức con được đánh số theo biểu thức (ví dụ: các biểu thức (3.4.1) và (3.4.2) là thuộc nhóm biểu thức (3.4)).
+P047 [Normal] 2.3. Tài liệu tham khảo
+P048 [Normal] 2.3.1. Quy định chung
+P049 [Normal] a) Trích dẫn tham khảo và lập danh mục các tài liệu tham khảo khi sử dụng thông tin khoa học của người khác trong các sản phẩm học thuật là yêu cầu bắt buộc. Trích dẫn tài liệu tham khảo thể hiện sự tôn trọng quyền tác giả, hạn chế đạo văn và giúp người đọc dễ dàng xác định các nguồn tài liệu đã sử dụng. Do vậy trích dẫn tài liệu tham khảo phải được trình bày đúng quy chuẩn. Trích dẫn tham khảo được thực hiện trong nội dung của bài viết, danh mục tài liệu tham khảo thường đặt ở cuối bài viết, cung cấp các thông tin chi tiết về các tài liệu đã tham khảo và có trích dẫn trong bài viết.
+P050 [Normal] b) Các ý kiến, đánh giá, kết luận không phải của riêng tác giả và mọi tham khảo khác phải được trích dẫn và chỉ rõ nguồn trong danh mục tài liệu tham khảo. Phải nêu rõ cả việc sử dụng những đề xuất hoặc kết quả của đồng tác giả. Nếu sử dụng tài liệu của người khác và của đồng tác giả (bảng biểu, hình vẽ, công thức, đồ thị, phương trình, ý tưởng…) thì phải chú dẫn tác giả và nguồn tài liệu.
+P051 [Normal] c) Các tài liệu tham khảo được trích dẫn phải đảm bảo độ tin cậy về khoa học.
+P052 [Normal] Sách in, sách điện tử, chương sách, sách chuyên khảo, sách đã qua biên tập, đoạn phim, số liệu, hình ảnh phải có nguồn gốc rõ ràng;
+P053 [Normal] Bài báo khoa học thuộc tạp chí các chuyên ngành, được phản biện trước khi đăng;
+P054 [Normal] Luận văn, luận án, đề án, báo cáo khoa học (nếu các kết quả trong các công trình này chưa được công bố trên một tạp chí chuyên ngành);
+P055 [Normal] Trao đổi cá nhân với chuyên gia cũng phải được trích dẫn cụ thể;
+P056 [Normal] Các tài liệu khác cần thận trọng khi sử dụng, ví dụ các bài báo phổ biến kiến thức khoa học, các trang web không được xem là tài liệu khoa học, trừ khi dùng để minh họa cơ sở thực tiễn.
+P057 [Normal] d) Các hình thức trích dẫn tham khảo thông dụng
+P058 [Normal] Trích dẫn nguyên văn: khi cần trích dẫn chính xác từ ngữ, câu, đoạn văn, hình ảnh, sơ đồ, quy trình … từ các sản phẩm khoa học khác thì phần trích dẫn phải được đặt trong ngoặc kép, dẫn nguồn trong bài viế và thể hiện đầy đủ thông tin về nguồn trích dẫn ở danh mục tài liệu tham khảo.
+P059 [Normal] Trích dẫn diễn giải: khi cần sử dụng ý tưởng, kết quả, hoặc ý của một vấn đè để diễn tả lại theo cách viết của mình nhưng phải đảm bảo đúng nội dung của bản gốc, dẫn nguồn trong bài viết và thể hiện đầy đủ thông tin về nguồn trích ở danh mục tài liệu tham khảo. Đây là cách trích dẫn được khuyến khích sử dụng trong nghiên cứu khoa học. Khi trích dẫn theo cách này cần cẩn trọng, đảm bảo diễn dịch trung thành với nội dung của tài liệu gốc.
+P060 [Normal] e) Một số nguyên tắc chung trong trích dẫn tham khảo
+P061 [Normal] Cách ghi trích dẫn phải thống nhất trong toàn bộ sản phẩm học thuật và phù hợp với cách trình bày trong danh mục tài liệu tham khảo;
+P062 [Normal] Không ghi học hàm, học vị, địa vị xã hội của tác giả vào thông tin trích dẫn.
+P063 [Normal] Tài liệu được trích dẫn trong bài viết phải có trong danh mục tài liệu tham khảo.
+P064 [Normal] Tài liệu liệt kê trong danh mục tài liệu tham khảo phải có trích dẫn trong bài viết.
+P065 [Normal] Không trích dẫn tài liệu mà người viết chưa đọc. Không nên trích dẫn những chi tiết nhỏ, ý kiến cá nhân, kinh nghiệm chủ quan, những kiến thức phổ thông.
+P066 [Normal] Khi một thông tin có nhiều người nói đến, nên trích dẫn những nghiên cứu/ bài báo/ tác giả có tiếng trong chuyên ngành (người viết đầu tiên/ công trình xuất bản sớm nhất).
+P067 [Normal] Khi cần trích dẫn 1 đoạn ít hơn 2 câu hoặc 4 dòng đánh máy thì có thể dùng dấu ngoặc kép để mở đầu và kết thúc trích dẫn. Nếu cần trích dẫn dài hơn thì phải tách phần này thành một đoạn riêng khỏi phần nội dung đang trình bày, với lề trái phải lùi vào thêm 2 cm và giãn cách dòng chọn chế độ double, cỡ chữ nhỏ hơn 1 size so với cỡ chữ của văn bản, canh lề đều hai bên. Khi đó mở đầu và kết thúc đoạn trích này không phải sử dụng dấu ngoặc kép.
+P068 [Normal] 2.3.2. Quy định kiểu trích dẫn và lập danh mục tài liệu tham khảo
+P069 [Normal] Thống nhất chung cách trích dẫn và lập danh mục tài liệu tham khảo như sau:
+P070 [Normal] - Kiểu trích dẫn IEEE được sử dụng cho các nhóm ngành trong lĩnh vực khoa học tự nhiên, khoa học kỹ thuật và công nghệ, khoa học y – dược, khoa học nông nghiệp;
+P071 [Normal] Để quản lý, trích dẫn, lập danh mục tài liệu tham khảo một cách có hiệu quả, khuyến khích sử dụng các phần mềm hỗ trợ quản lý và trích dẫn tài liệu tham khảo như Zotero, Mendeley hoặc Endnote.
+P072 [Normal] a) Cách trích dẫn tham khảo theo kiểu IEEE
+P073 [Normal] Không cần thiết phải đề cập tới tên tác giả, các trang được sử dụng hoặc năm xuất bản trong trích dẫn văn bản;
+P074 [Normal] Sử dụng số thứ tự của tài liệu tham khảo trong danh mục tài liệu tham khảo và đặt trong dấu ngoặc vuông, ví dụ: [1], ngay sau phần trích dẫn, trước bất kỳ dấu chấm câu và có khoảng trắng trước dấu ngoặc đầu tiên;
+P075 [Normal] Khi trích dẫn nhiều nguồn cùng một chỗ, liệt kê riêng từng số thứ tự tài liệu tham khảo trong ngoặc riêng, ví dụ: [1], [3], [5], hoặc sử dụng dấu gạch ngang, ví dụ: [1] – [5], nếu các tài liệu tham khảo được trích dẫn có số thứ tự liên tục.
+P076 [Normal] b) Cách lập danh mục tài liệu tham khảo theo kiểu IEEE
+P077 [Normal] Liệt kê tất cả các tài liệu trích dẫn và đánh số theo thứ tự đã được trích dẫn trong tài liệu. Các chữ số được đặt trong dấu ngoặc vuông ở đầu mỗi trích dẫn;
+P078 [Normal] Danh mục tài liệu tham khảo được đánh theo số tự nhiên và không dùng ký tự. Khi đã trích dẫn một nguồn và cung cấp cho tài liệu đó một số thứ tự thì số thứ tự này tiếp tục sử dụng lại trong toàn bộ bài viết;
+P079 [Normal] Lùi đầu dòng cho mỗi tài liệu tham khảo với các số trong dấu ngoặc vuông được đẩy về phía bên trái của trang. Lùi đầu dòng nhằm làm nổi bật các số thứ tự của tài liệu trích dẫn;
+P080 [Normal] Danh sách tài liệu tham khảo xuất hiện ở cuối bài viết và trước phần phụ lục, cung cấp các trích dẫn đầy đủ cho tất cả các tài liệu tham khảo đã sử dụng. Liệt kê tất cả các tài liệu tham khảo bằng số theo thứ tự chúng đã được trích dẫn trong bài báo và bao gồm số được đóng dấu ở đầu mỗi tài liệu tham khảo.
+P083 [Normal] MẪU 1: TRANG BÌA ĐỀ CƯƠNG ĐACN
+P084 [Normal] (Khổ 210 x 297 mm)
+P086 [Normal] ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH
+P087 [Normal] TRƯỜNG ĐẠI HỌC SÀI GÒN
+P088 [Normal] KHOA CÔNG NGHỆ THÔNG TIN
+P093 [Normal] HỌ VÀ TÊN
+P094 [Normal] (Tác giả đồ án chuyên ngành)
+P099 [Normal] THUẬT TOÁN BEES GIẢI BÀI TOÁN TÔ MÀU ĐỒ THỊ
+P105 [Normal] ĐỀ CƯƠNG ĐỒ ÁN CHUYÊN NGÀNH
+P106 [Normal] NGÀNH:................................... 
+P114 [Normal] Thành phố Hồ Chí Minh, năm 20...
+P117 [Normal] MẪU 2: TRANG BÌA BÊN TRONG ĐỀ CƯƠNG 
+P118 [Normal] (Khổ 210 x 297 mm)
+P120 [Normal] ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH
+P121 [Normal] TRƯỜNG ĐẠI HỌC SÀI GÒN
+P122 [Normal] KHOA CÔNG NGHỆ THÔNG TIN
+P126 [Normal] HỌ VÀ TÊN
+P127 [Normal] (Tác giả đồ án chuyên ngành)
+P131 [Normal] THUẬT TOÁN BEES GIẢI BÀI TOÁN TÔ MÀU ĐỒ THỊ
+P135 [Normal] ĐỀ CƯƠNG ĐỒ ÁN CHUYÊN NGÀNH
+P136 [Normal] ngành: .......................................................
+P139 [Normal] GIẢNG VIÊN HƯỚNG DẪN:
+P150 [Normal] Thành phố Hồ Chí Minh, năm 20..

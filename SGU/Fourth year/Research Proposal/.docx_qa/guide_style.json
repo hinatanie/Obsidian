@@ -1,0 +1,170 @@
+{
+  "input": "C:\\Users\\Admin\\Documents\\Obsidian\\SGU\\Fourth year\\Research Proposal\\HD trinh bay de cuong \u0110ACN.docx",
+  "fonts_by_char_count": {
+    "Times New Roman": 10730
+  },
+  "direct_run_formatting_runs": 229,
+  "direct_paragraph_formatting_paragraphs": 130,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "H\u01af\u1edaNG D\u1eaaN TR\u00ccNH B\u00c0Y \u0110\u1ec0 C\u01af\u01a0NG \u0110\u1ed2 \u00c1N CHUY\u00caN NG\u00c0NH",
+      "style": "Normal"
+    },
+    {
+      "para_index": 3,
+      "text": "1. C\u1ea4U TR\u00daC \u0110\u1ec0 C\u01af\u01a0NG \u0110ACN",
+      "style": "Normal"
+    },
+    {
+      "para_index": 7,
+      "text": "1. L\u00fd do ch\u1ecdn \u0111\u1ec1 t\u00e0i ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 8,
+      "text": "2. L\u1ecbch s\u1eed nghi\u00ean c\u1ee9u v\u1ea5n \u0111\u1ec1 / T\u1ed5ng quan (n\u1ebfu c\u00f3)",
+      "style": "Normal"
+    },
+    {
+      "para_index": 9,
+      "text": "3. M\u1ee5c \u0111\u00edch v\u00e0 nhi\u1ec7m v\u1ee5 nghi\u00ean c\u1ee9u",
+      "style": "Normal"
+    },
+    {
+      "para_index": 10,
+      "text": "4. \u0110\u1ed1i t\u01b0\u1ee3ng v\u00e0 ph\u1ea1m vi nghi\u00ean c\u1ee9u",
+      "style": "Normal"
+    },
+    {
+      "para_index": 11,
+      "text": "5. Ph\u01b0\u01a1ng ph\u00e1p nghi\u00ean c\u1ee9u",
+      "style": "Normal"
+    },
+    {
+      "para_index": 12,
+      "text": "6. Gi\u1ea3 thuy\u1ebft khoa h\u1ecdc",
+      "style": "Normal"
+    },
+    {
+      "para_index": 13,
+      "text": "7. Nh\u1eefng \u0111\u00f3ng g\u00f3p m\u1edbi c\u1ee7a \u0111\u1ec1 t\u00e0i",
+      "style": "Normal"
+    },
+    {
+      "para_index": 14,
+      "text": "8. D\u1ef1 ki\u1ebfn k\u1ebf ho\u1ea1ch nghi\u00ean c\u1ee9u",
+      "style": "Normal"
+    },
+    {
+      "para_index": 15,
+      "text": "9. D\u1ef1 ki\u1ebfn n\u1ed9i dung c\u1ee7a \u0110ACN",
+      "style": "Normal"
+    },
+    {
+      "para_index": 16,
+      "text": "Ch\u01b0\u01a1ng 1: \u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+      "style": "Normal"
+    },
+    {
+      "para_index": 21,
+      "text": "Ch\u01b0\u01a1ng 2: \u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+      "style": "Normal"
+    },
+    {
+      "para_index": 22,
+      "text": "Ch\u01b0\u01a1ng 3: \u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+      "style": "Normal"
+    },
+    {
+      "para_index": 23,
+      "text": "10. Danh m\u1ee5c t\u00e0i li\u1ec7u tham kh\u1ea3o",
+      "style": "Normal"
+    },
+    {
+      "para_index": 25,
+      "text": "2. QUY \u0110\u1ecaNH V\u1ec0 C\u00c1CH TR\u00ccNH B\u00c0Y \u0110\u1ec0 C\u01af\u01a0NG ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 27,
+      "text": "2.1. So\u1ea1n th\u1ea3o v\u0103n b\u1ea3n",
+      "style": "Normal"
+    },
+    {
+      "para_index": 30,
+      "text": "2.2. \u0110\u00e1nh s\u1ed1 trong \u0111\u1ec1 c\u01b0\u01a1ng v\u00e0 m\u1ed9t s\u1ed1 y\u00eau c\u1ea7u li\u00ean quan",
+      "style": "Normal"
+    },
+    {
+      "para_index": 31,
+      "text": "2.2.1. S\u1ed1 trang",
+      "style": "Normal"
+    },
+    {
+      "para_index": 34,
+      "text": "2.2.2. M\u1ee5c v\u00e0 ti\u1ec3u m\u1ee5c",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "H\u01af\u1edaNG D\u1eaaN TR\u00ccNH B\u00c0Y ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "\u0110\u1ec0 C\u01af\u01a0NG ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "\u0110\u1ed2 \u00c1N CHUY\u00caN NG\u00c0NH",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "1. ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "C\u1ea4U TR\u00daC \u0110\u1ec0 C\u01af\u01a0NG",
+        "style": "Normal"
+      }
+    ],
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 7,
+        "text": "1. L\u00fd do ch\u1ecdn \u0111\u1ec1 t\u00e0i ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 8,
+        "text": "2. L\u1ecbch s\u1eed nghi\u00ean c\u1ee9u v\u1ea5n \u0111\u1ec1 / T\u1ed5ng quan (n\u1ebfu c\u00f3)",
+        "style": "Normal"
+      },
+      {
+        "para_index": 9,
+        "text": "3. M\u1ee5c \u0111\u00edch v\u00e0 nhi\u1ec7m v\u1ee5 nghi\u00ean c\u1ee9u",
+        "style": "Normal"
+      },
+      {
+        "para_index": 10,
+        "text": "4. \u0110\u1ed1i t\u01b0\u1ee3ng v\u00e0 ph\u1ea1m vi nghi\u00ean c\u1ee9u",
+        "style": "Normal"
+      },
+      {
+        "para_index": 11,
+        "text": "5. Ph\u01b0\u01a1ng ph\u00e1p nghi\u00ean c\u1ee9u",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

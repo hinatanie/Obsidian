@@ -1,0 +1,5238 @@
+{
+  "paragraphs": [
+    {
+      "index": 0,
+      "text": "HƯỚNG DẪN TRÌNH BÀY ĐỀ CƯƠNG ĐỒ ÁN CHUYÊN NGÀNH",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "HƯỚNG DẪN TRÌNH BÀY ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 15.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "ĐỀ CƯƠNG ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 15.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "ĐỒ ÁN CHUYÊN NGÀNH",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 15.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 2,
+      "text": "1. CẤU TRÚC ĐỀ CƯƠNG ĐACN",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "1. ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "CẤU TRÚC ĐỀ CƯƠNG",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "ĐACN",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 15.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 4,
+      "text": "(Dự kiến)",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "(Dự kiến)",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 6,
+      "text": "1. Lý do chọn đề tài ",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "1. ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "L",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "ý",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " do chọn đề tài",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "text": "2. Lịch sử nghiên cứu vấn đề / Tổng quan (nếu có)",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "2. ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "Lịch sử nghiên cứu vấn đề",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "/ Tổng quan",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " (nếu có)",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "3. Mục đích và nhiệm vụ nghiên cứu",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "3",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ". ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "Mục đích ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "và nhiệm vụ nghiên cứu",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "text": "4. Đối tượng và phạm vi nghiên cứu",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "4",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ". ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "Đối tượng và phạm vi",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " nghiên cứu",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "text": "5. Phương pháp nghiên cứu",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "5",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ". Phương pháp nghiên cứu",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "text": "6. Giả thuyết khoa học",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "6",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ". Giả thuyết khoa học",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "text": "7. Những đóng góp mới của đề tài",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "7.",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "Những đóng góp mới của đề tài",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "text": "8. Dự kiến kế hoạch nghiên cứu",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "8",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ". Dự kiến kế hoạch nghiên cứu",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "text": "9. Dự kiến nội dung của ĐACN",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "9",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ". Dự kiến nội dung của ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "ĐACN",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "text": "Chương 1: …………………",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 49.65,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Chương 1",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ": ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "…………………",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "text": "1.1. …………………",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 49.65,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "1.1.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "…………………",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "text": "1.1.1. …………………",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 49.65,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "1.1.1.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "…………………",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "text": "1.1.2. …………………",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 49.65,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "1.1.2.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "…………………",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "text": "1.2. …………………",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 49.65,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "1.2",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "…………………",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "text": "Chương 2: …………………",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 49.65,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Chương 2: ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "…………………",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "text": "Chương 3: …………………",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 49.65,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Chương 3: ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "…………………",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "text": "10. Danh mục tài liệu tham khảo",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": 4.0,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "10",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ". Danh mục tài liệu tham khảo",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": 8.0,
+      "line_spacing": "1.0791666666666666",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "text": "2. QUY ĐỊNH VỀ CÁCH TRÌNH BÀY ĐỀ CƯƠNG ",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "2. QUY ĐỊNH VỀ CÁCH TRÌNH BÀY ĐỀ CƯƠNG ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "text": "Đề cương phải được trình bày ngắn gọn, rõ ràng, mạch lạc, sạch sẽ, không được tẩy xóa, có đánh số trang, đánh số bảng biểu, hình vẽ, đồ thị, sử dụng khổ giấy A4 (210 x 297mm).",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Đề cương ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "phải được trình bày ngắn gọn, rõ ràng, mạch lạc, sạch sẽ, không được tẩy ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "xóa",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ", có đánh số trang, đánh số bảng biểu, hình vẽ, đồ thị",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ", sử dụng ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "khổ ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "giấy ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "A4 ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "(210 x 297mm).",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "text": "2.1. Soạn thảo văn bản",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "2.1. Soạn thảo văn bản",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "text": "Sử dụng phông chữ Times New Roman cỡ 13 hoặc 14 của hệ soạn thảo Winword hoặc tương đương; mật độ chữ bình thường, không được nén hoặc kéo dãn khoảng cách giữa các chữ; dãn dòng đặt ở chế độ 1,5 lines; lề trên 3cm; lề dưới 3 cm; lề trái 3,5 cm; lề phải 2 cm. ",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Sử ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "dụng phông chữ Times New Roman cỡ 13 hoặc 14 của hệ soạn thảo Winword hoặc tương đương; mật độ chữ bình thường, không được nén hoặc kéo dãn khoảng cách giữa các chữ; dãn dòng đặt ở chế độ 1,5 lines; lề trên 3cm; lề dưới 3 cm; lề trái 3,5 cm; lề ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "phải",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " 2 cm. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "text": "Nếu có bảng biểu, hình vẽ trình bày theo chiều ngang khổ giấy thì đầu bảng là lề trái của trang (nên hạn chế trình bày theo cách này).",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Nếu có bảng biểu, hình vẽ trình bày theo chiều ngang khổ giấy thì đầu bảng là lề trái của trang (nên hạn chế trình bày theo cách này).",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "text": "2.2. Đánh số trong đề cương và một số yêu cầu liên quan",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "2.2. Đánh số trong ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "đề cương ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "và một số yêu cầu liên quan",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "text": "2.2.1. Số trang",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "2.2.1. Số trang",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "text": "Số trang được đánh ở giữa, phía trên mỗi trang giấy. ",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Số trang được đánh ở giữa, phía ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "trên",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " mỗi trang giấy",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "text": "Không đánh số trang ở trang bìa.",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Không đánh số trang ở trang bìa.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "text": "2.2.2. Mục và tiểu mục",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "2.2.2. Mục và tiểu mục",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "text": "Mục được đánh số theo chương, tiểu mục được đánh số theo mục, tiểu mục con được đánh số theo tiểu mục. Việc đánh số này được sử dụng tối đa là 4 chữ số. ",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Mục được đánh số theo chương,",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "tiểu mục được đánh số theo mục, tiểu mục con được đánh số theo tiểu mục. Việc đánh số này được sử dụng tối đa là 4 chữ số. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "text": "Ví dụ:  3.4.2.1. chỉ tiểu mục con 1 của tiểu mục 2 trong mục 4 thuộc chương 3",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 49.65,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Ví dụ:",
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "  ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "3.4.2.1",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ".",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " chỉ tiểu mục con ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "1",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " của tiểu mục ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "2",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " trong mục ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "4",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " thuộc chương ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "3",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "text": "Chỉ được đánh số mục trong một chương khi trong chương đó có từ 2 mục trở lên (tương tự như vậy đối với tiểu mục, tiểu mục con). ",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Chỉ được đánh số mục trong một chương khi trong chương đó có từ 2 mục trở lên (tương tự như vậy đối với tiểu mục, tiểu mục con). ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "text": "Sau mỗi dãy số chỉ số mục, tiểu mục, tiểu mục con phải có tên đi kèm, in đậm hoặc in nghiêng.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Sau mỗi dãy số chỉ số mục, tiểu mục, ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "tiểu mục con phải có tên đi kèm, ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "in đậm",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " hoặc in nghiêng",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "text": "2.2.3. Bảng biểu, hình vẽ, sơ đồ, biểu thức",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "2.2.3. Bảng biểu, hình vẽ, sơ đồ, biểu thức",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "text": "Việc đánh số bảng biểu, hình vẽ, biểu thức phải gắn với số chương (ví dụ hình 3.4 có nghĩa là hình thứ 4 trong chương 3). ",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Việc đánh số bảng biểu, hình vẽ, biểu thức phải gắn với số chương (ví dụ hình 3.4 có nghĩa là hình thứ 4 trong chương 3). ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "text": "Mọi đồ thị, bảng biểu lấy từ các nguồn khác phải được trích dẫn đầy đủ (ví dụ “Nguồn: Bộ Tài chính 1996”). Nguồn được trích dẫn phải được liệt kê chính xác trong danh mục tài liệu tham khảo.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Mọi đồ thị, bảng biểu lấy từ các nguồn khác phải được trích dẫn đầy đủ (ví dụ “Nguồn: Bộ Tài chính 1996”). Nguồn được trích dẫn phải được liệt kê chính xác trong danh mục tài liệu tham khảo.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "text": "Tên của bảng biểu ghi phía trên bảng; Tên của hình vẽ, sơ đồ ghi phía dưới hình vẽ, sơ đồ. ",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Tên của bảng biểu ghi phía trên bảng; Tên của hình vẽ, sơ đồ ghi phía dưới hình vẽ, sơ đồ. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "text": "Những bảng biểu ngắn và đồ thị nhỏ phải đi liền với phần nội dung liên quan. Các bảng biểu dài có thể để ở những trang riêng nhưng cũng phải tiếp theo ngay phần nội dung đề cập tới bảng này. ",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.45",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Những bảng ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "biểu ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "ngắn và đồ thị nhỏ phải đi liền với phần nội dung liên quan. Các bảng ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "biểu ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "dài có thể để ở những trang riêng nhưng cũng phải tiếp theo ngay phần nội dung đề cập tới bảng này. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "text": "Mỗi loại bảng biểu và đồ thị chỉ xuất hiện một lần ngay lúc đề cập đầu tiên.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.45",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Mỗi loại bảng ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "biểu ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "và đồ thị chỉ xuất hiện một lần ngay lúc đề cập đầu tiên.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "text": "Các bảng biểu rộng nên trình bày theo chiều đứng dài 297mm của trang giấy, chiều rộng của trang giấy có thể hơn 210mm. Chú ý gấp trang giấy sao cho số và đầu đề của hình vẽ, đồ thị hoặc bảng biểu có thể nhìn thấy ngay mà không cần mở rộng tờ giấy, tránh bị cắt xén khi đóng bìa. ",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.45",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Các bảng ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "biểu ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "rộng nên trình bày theo chiều đứng dài 297mm của trang giấy, chiều rộng của trang giấy có thể hơn 210mm. Chú ý gấp trang giấy sao cho số và đầu đề của hình vẽ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ", đồ thị",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " hoặc bảng ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "biểu ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "có thể nhìn thấy ngay mà không cần mở rộng tờ giấy, tránh bị cắt xén khi đóng bìa. ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "text": "Hình vẽ phải được vẽ sạch sẽ bằng mực đen để có thể sao chụp lại; có đánh số và ghi đầy đủ tên hình, cỡ chữ phải bằng cỡ chữ sử dụng trong văn bản đồ án. Khi đề cập đến các bảng biểu và hình vẽ cần phải nêu rõ số của hình và bảng biểu đó (ví dụ: viết “xem hình 3.2”, không viết “xem hình dưới đây”). ",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.45",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Hình ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "vẽ ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "phải được vẽ sạch sẽ bằng mực đen để có thể sao chụp lại; có đánh số và ghi đầy đủ tên hình, cỡ chữ phải bằng cỡ chữ sử dụng trong văn bản",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " đồ án",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ". Khi đề cập đến các bảng biểu và hình ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "vẽ ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "cần phải nêu rõ số của hình và bảng biểu đó (ví dụ: viết ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "“xem hình 3.2”, không viết “xem hình dưới đây”). ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "text": "Các biểu thức toán học nếu cần, được viết riêng trên một dòng hoặc nhóm dòng (canh giữa). Nếu có đánh số các biểu thức thì canh số theo lề phải và đặt trong ngoặc đơn. Biểu thức được đánh số theo chương (ví dụ: biểu thức đánh số (3.4) để chỉ rằng đó là biểu thức thứ 4 trong chương 3), biểu thức con được đánh số theo biểu thức (ví dụ: các biểu thức (3.4.1) và (3.4.2) là thuộc nhóm biểu thức (3.4)).",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.45",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Các biểu thức toán học nếu cần, được viết riêng trên một dòng hoặc nhóm dòng (canh giữa). Nếu có đánh số các biểu ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "thức",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " thì canh số theo lề phải và đặt trong ngoặc đơn. Biểu thức được đánh số th",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "eo chương (ví dụ: ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "biểu thức đánh số (3.4) để chỉ rằng đó là biểu thức thứ 4 trong chương 3), biểu thức con được đánh số theo biểu thức (ví dụ: các biểu thức (3.4.1) và (3.4.2) là thuộc nhóm biểu thức (3.4)).",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "text": "2.3. Tài liệu tham khảo",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "2.",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "3",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ". ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "Tài liệu tham khảo",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "text": "2.3.1. Quy định chung",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "2.3.1. Quy định chung",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "text": "a) Trích dẫn tham khảo và lập danh mục các tài liệu tham khảo khi sử dụng thông tin khoa học của người khác trong các sản phẩm học thuật là yêu cầu bắt buộc. Trích dẫn tài liệu tham khảo thể hiện sự tôn trọng quyền tác giả, hạn chế đạo văn và giúp người đọc dễ dàng xác định các nguồn tài liệu đã sử dụng. Do vậy trích dẫn tài liệu tham khảo phải được trình bày đúng quy chuẩn. Trích dẫn tham khảo được thực hiện trong nội dung của bài viết, danh mục tài liệu tham khảo thường đặt ở cuối bài viết, cung cấp các thông tin chi tiết về các tài liệu đã tham khảo và có trích dẫn trong bài viết.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "a) Trích dẫn tham khảo và lập danh mục các tài liệu tham khảo khi sử dụng thông tin khoa học của người khác trong các sản phẩm học thuật là yêu cầu bắt buộc. Trích dẫn tài liệu tham khảo thể hiện sự tôn trọng quyền tác giả, hạn chế đạo văn và giúp người đọc dễ dàng xác định các nguồn tài liệu đã sử dụng. Do vậy trích dẫn tài liệu tham khảo phải được trình bày đúng quy chuẩn. Trích dẫn tham khảo được thực hiện trong nội dung của bài viết, danh mục tài liệu tham khảo thường đặt ở cuối bài viết, cung cấp các thông tin chi tiết về các tài liệu đã tham khảo và có trích dẫn trong bài viết.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "text": "b) Các ý kiến, đánh giá, kết luận không phải của riêng tác giả và mọi tham khảo khác phải được trích dẫn và chỉ rõ nguồn trong danh mục tài liệu tham khảo. Phải nêu rõ cả việc sử dụng những đề xuất hoặc kết quả của đồng tác giả. Nếu sử dụng tài liệu của người khác và của đồng tác giả (bảng biểu, hình vẽ, công thức, đồ thị, phương trình, ý tưởng…) thì phải chú dẫn tác giả và nguồn tài liệu.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "b) Các ý kiến, đánh giá, kết luận không phải của riêng tác giả và mọi tham khảo khác phải được trích dẫn và chỉ rõ nguồn trong danh mục tài liệu tham khảo. Phải nêu rõ cả việc sử dụng những đề xuất hoặc kết quả của đồng tác giả. Nếu sử dụng tài liệu của người khác và của đồng tác giả (bảng biểu, hình vẽ, công thức, đồ thị, phương trình, ý tưởng…) thì phải chú dẫn tác giả và nguồn tài liệu.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "text": "c) Các tài liệu tham khảo được trích dẫn phải đảm bảo độ tin cậy về khoa học.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "c) Các tài liệu tham khảo được trích dẫn phải đảm bảo độ tin cậy về khoa học.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "text": "Sách in, sách điện tử, chương sách, sách chuyên khảo, sách đã qua biên tập, đoạn phim, số liệu, hình ảnh phải có nguồn gốc rõ ràng;",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Sách in, sách điện tử, chương sách, sách chuyên khảo, sách đã qua biên tập, đoạn phim, số liệu, hình ảnh phải có nguồn gốc rõ ràng;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "text": "Bài báo khoa học thuộc tạp chí các chuyên ngành, được phản biện trước khi đăng;",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Bài báo khoa học thuộc tạp chí các chuyên ngành, được phản biện trước khi đăng;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "text": "Luận văn, luận án, đề án, báo cáo khoa học (nếu các kết quả trong các công trình này chưa được công bố trên một tạp chí chuyên ngành);",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Luận văn, luận án, ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "đề án, ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "báo cáo khoa học (nếu các kết quả trong các công trình này chưa được công bố trên một tạp chí chuyên ngành);",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "text": "Trao đổi cá nhân với chuyên gia cũng phải được trích dẫn cụ thể;",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Trao đổi cá nhân với chuyên gia cũng phải được trích dẫn cụ thể;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "text": "Các tài liệu khác cần thận trọng khi sử dụng, ví dụ các bài báo phổ biến kiến thức khoa học, các trang web không được xem là tài liệu khoa học, trừ khi dùng để minh họa cơ sở thực tiễn.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Các tài liệu khác cần thận trọng khi sử dụng, ví dụ các bài báo phổ biến kiến thức khoa học, các trang web không được xem là tài liệu khoa học, trừ khi dùng để minh họa cơ sở thực tiễn.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "text": "d) Các hình thức trích dẫn tham khảo thông dụng",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "d) Các hình thức trích dẫn tham khảo thông dụng",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "text": "Trích dẫn nguyên văn: khi cần trích dẫn chính xác từ ngữ, câu, đoạn văn, hình ảnh, sơ đồ, quy trình … từ các sản phẩm khoa học khác thì phần trích dẫn phải được đặt trong ngoặc kép, dẫn nguồn trong bài viế và thể hiện đầy đủ thông tin về nguồn trích dẫn ở danh mục tài liệu tham khảo.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Trích dẫn nguyên văn: khi cần trích dẫn chính xác từ ngữ, câu, đoạn văn, hình ảnh, sơ đồ, quy trình … từ các sản phẩm khoa học khác thì phần trích dẫn phải được đặt trong ngoặc kép, dẫn nguồn trong bài viế và thể hiện đầy đủ thông tin về nguồn trích dẫn ở danh mục tài liệu tham khảo.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "text": "Trích dẫn diễn giải: khi cần sử dụng ý tưởng, kết quả, hoặc ý của một vấn đè để diễn tả lại theo cách viết của mình nhưng phải đảm bảo đúng nội dung của bản gốc, dẫn nguồn trong bài viết và thể hiện đầy đủ thông tin về nguồn trích ở danh mục tài liệu tham khảo. Đây là cách trích dẫn được khuyến khích sử dụng trong nghiên cứu khoa học. Khi trích dẫn theo cách này cần cẩn trọng, đảm bảo diễn dịch trung thành với nội dung của tài liệu gốc.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Trích dẫn diễn giải: khi cần sử dụng ý tưởng, kết quả, hoặc ý của một vấn đè để diễn tả lại theo cách viết của mình nhưng phải đảm bảo đúng nội dung của bản gốc, dẫn nguồn trong bài viết và thể hiện đầy đủ thông tin về nguồn trích ở danh mục tài liệu tham khảo. Đây là cách trích dẫn được khuyến khích sử dụng trong nghiên cứu khoa học. Khi trích dẫn theo cách này cần cẩn trọng, đảm bảo diễn dịch trung thành với nội dung của tài liệu gốc.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "text": "e) Một số nguyên tắc chung trong trích dẫn tham khảo",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "e) Một số nguyên tắc chung trong trích dẫn tham khảo",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "text": "Cách ghi trích dẫn phải thống nhất trong toàn bộ sản phẩm học thuật và phù hợp với cách trình bày trong danh mục tài liệu tham khảo;",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Cách ghi trích dẫn phải thống nhất trong toàn bộ sản phẩm học thuật và phù hợp với cách trình bày trong danh mục tài liệu tham khảo;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "text": "Không ghi học hàm, học vị, địa vị xã hội của tác giả vào thông tin trích dẫn.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Không ghi học hàm, học vị, địa vị xã hội của tác giả vào thông tin trích dẫn.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "text": "Tài liệu được trích dẫn trong bài viết phải có trong danh mục tài liệu tham khảo.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Tài liệu được trích dẫn trong bài viết phải có trong danh mục tài liệu tham khảo.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "text": "Tài liệu liệt kê trong danh mục tài liệu tham khảo phải có trích dẫn trong bài viết.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Tài liệu liệt kê trong danh mục tài liệu tham khảo phải có trích dẫn trong bài viết.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "text": "Không trích dẫn tài liệu mà người viết chưa đọc. Không nên trích dẫn những chi tiết nhỏ, ý kiến cá nhân, kinh nghiệm chủ quan, những kiến thức phổ thông.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Không trích dẫn tài liệu mà người viết chưa đọc. Không nên trích dẫn những chi tiết nhỏ, ý kiến cá nhân, kinh nghiệm chủ quan, những kiến thức phổ thông.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "text": "Khi một thông tin có nhiều người nói đến, nên trích dẫn những nghiên cứu/ bài báo/ tác giả có tiếng trong chuyên ngành (người viết đầu tiên/ công trình xuất bản sớm nhất).",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Khi một thông tin có nhiều người nói đến, nên trích dẫn những nghiên cứu/ bài báo/ tác giả có tiếng trong chuyên ngành (người viết đầu tiên/ công trình xuất bản sớm nhất).",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "text": "Khi cần trích dẫn 1 đoạn ít hơn 2 câu hoặc 4 dòng đánh máy thì có thể dùng dấu ngoặc kép để mở đầu và kết thúc trích dẫn. Nếu cần trích dẫn dài hơn thì phải tách phần này thành một đoạn riêng khỏi phần nội dung đang trình bày, với lề trái phải lùi vào thêm 2 cm và giãn cách dòng chọn chế độ double, cỡ chữ nhỏ hơn 1 size so với cỡ chữ của văn bản, canh lề đều hai bên. Khi đó mở đầu và kết thúc đoạn trích này không phải sử dụng dấu ngoặc kép.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4208333333333334",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Khi cần trích dẫn 1 đoạn ít hơn 2 câu hoặc 4 dòng đánh máy thì có thể dùng dấu ngoặc kép để mở đầu và kết thúc trích dẫn. Nếu cần trích dẫn dài hơn thì phải tách phần này thành một đoạn riêng khỏi phần nội dung đang trình bày, với lề trái phải lùi vào thêm 2",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "cm và giãn cách dòng chọn chế độ double, cỡ chữ nhỏ hơn 1 size so với cỡ chữ của văn bản, canh lề đều hai bên. Khi đó mở đầu và kết thúc đoạn trích này không phải sử dụng dấu ngoặc kép.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "text": "2.3.2. Quy định kiểu trích dẫn và lập danh mục tài liệu tham khảo",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "2.3.2. Quy định kiểu trích dẫn và lập danh mục tài liệu tham khảo",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "text": "Thống nhất chung cách trích dẫn và lập danh mục tài liệu tham khảo như sau:",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.45",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Thống nhất chung cách trích dẫn và lập danh mục tài liệu tham khảo như sau:",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "text": "- Kiểu trích dẫn IEEE được sử dụng cho các nhóm ngành trong lĩnh vực khoa học tự nhiên, khoa học kỹ thuật và công nghệ, khoa học y – dược, khoa học nông nghiệp;",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.45",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "- ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "Kiểu trích dẫn IEEE được sử dụng cho các nhóm ngành trong lĩnh vực khoa học tự nhiên, khoa học kỹ thuật và công nghệ, khoa học y – dược, khoa học nông nghiệp;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "text": "Để quản lý, trích dẫn, lập danh mục tài liệu tham khảo một cách có hiệu quả, khuyến khích sử dụng các phần mềm hỗ trợ quản lý và trích dẫn tài liệu tham khảo như Zotero, Mendeley hoặc Endnote.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.45",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Để quản lý, trích dẫn, lập danh mục tài liệu tham khảo một cách có hiệu quả, khuyến khích sử dụng các phần mềm hỗ trợ quản lý và trích dẫn tài liệu tham khảo như Zotero, Mendeley hoặc Endnote.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "text": "a) Cách trích dẫn tham khảo theo kiểu IEEE",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4291666666666667",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "a) Cách trích dẫn tham khảo theo kiểu IEEE",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "text": "Không cần thiết phải đề cập tới tên tác giả, các trang được sử dụng hoặc năm xuất bản trong trích dẫn văn bản;",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4291666666666667",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Không cần thiết phải đề cập tới tên tác giả, các trang được sử dụng hoặc năm xuất bản trong trích dẫn văn bản;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "text": "Sử dụng số thứ tự của tài liệu tham khảo trong danh mục tài liệu tham khảo và đặt trong dấu ngoặc vuông, ví dụ: [1], ngay sau phần trích dẫn, trước bất kỳ dấu chấm câu và có khoảng trắng trước dấu ngoặc đầu tiên;",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4291666666666667",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Sử dụng số thứ tự của tài liệu tham khảo trong danh mục tài liệu tham khảo và đặt trong dấu ngoặc vuông, ví dụ: [1], ngay sau phần trích dẫn, trước bất kỳ dấu chấm câu và có khoảng trắng trước dấu ngoặc đầu tiên;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "text": "Khi trích dẫn nhiều nguồn cùng một chỗ, liệt kê riêng từng số thứ tự tài liệu tham khảo trong ngoặc riêng, ví dụ: [1], [3], [5], hoặc sử dụng dấu gạch ngang, ví dụ: [1] – [5], nếu các tài liệu tham khảo được trích dẫn có số thứ tự liên tục.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4291666666666667",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Khi trích dẫn nhiều nguồn cùng một chỗ, liệt kê riêng từng số thứ tự tài liệu tham khảo trong ngoặc riêng, ví dụ: [1], [3], [5], hoặc sử dụng dấu gạch ngang, ví dụ: [1] – [5], nếu các tài liệu tham khảo được trích dẫn có số thứ tự liên tục.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "text": "b) Cách lập danh mục tài liệu tham khảo theo kiểu IEEE",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4291666666666667",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "b) Cách lập danh mục tài liệu tham khảo theo kiểu IEEE",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "text": "Liệt kê tất cả các tài liệu trích dẫn và đánh số theo thứ tự đã được trích dẫn trong tài liệu. Các chữ số được đặt trong dấu ngoặc vuông ở đầu mỗi trích dẫn;",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4291666666666667",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Liệt kê tất cả các tài liệu trích dẫn và đánh số theo thứ tự đã được trích dẫn trong tài liệu. Các chữ số được đặt trong dấu ngoặc vuông ở đầu mỗi trích dẫn;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "text": "Danh mục tài liệu tham khảo được đánh theo số tự nhiên và không dùng ký tự. Khi đã trích dẫn một nguồn và cung cấp cho tài liệu đó một số thứ tự thì số thứ tự này tiếp tục sử dụng lại trong toàn bộ bài viết;",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4291666666666667",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Danh mục tài liệu tham khảo được đánh theo số tự nhiên và không dùng ký tự. Khi đã trích dẫn một nguồn và cung cấp cho tài liệu đó một số thứ tự thì số thứ tự này tiếp tục sử dụng lại trong toàn bộ bài viết;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "text": "Lùi đầu dòng cho mỗi tài liệu tham khảo với các số trong dấu ngoặc vuông được đẩy về phía bên trái của trang. Lùi đầu dòng nhằm làm nổi bật các số thứ tự của tài liệu trích dẫn;",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4291666666666667",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Lùi đầu dòng cho mỗi tài liệu tham khảo với các số trong dấu ngoặc vuông được đẩy về phía bên trái của trang. Lùi đầu dòng nhằm làm nổi bật các số thứ tự của tài liệu trích dẫn;",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "text": "Danh sách tài liệu tham khảo xuất hiện ở cuối bài viết và trước phần phụ lục, cung cấp các trích dẫn đầy đủ cho tất cả các tài liệu tham khảo đã sử dụng. Liệt kê tất cả các tài liệu tham khảo bằng số theo thứ tự chúng đã được trích dẫn trong bài báo và bao gồm số được đóng dấu ở đầu mỗi tài liệu tham khảo.",
+      "style": "Normal",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": 28.35,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.4291666666666667",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Danh sách tài liệu tham khảo xuất hiện ở cuối bài viết và trước phần phụ lục, cung cấp các trích dẫn đầy đủ cho tất cả các tài liệu tham khảo đã sử dụng. Liệt kê tất cả các tài liệu tham khảo bằng số theo thứ tự chúng đã được trích dẫn trong bài báo và bao gồm số được đóng dấu ở đầu mỗi tài liệu tham khảo.",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": 8.0,
+      "line_spacing": "1.0791666666666666",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 82,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": 8.0,
+      "line_spacing": "1.0791666666666666",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "text": "MẪU 1: TRANG BÌA ĐỀ CƯƠNG ĐACN",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "MẪU",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " 1: ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "TRANG ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "BÌA",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ĐỀ CƯƠNG",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "Đ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "ACN",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "text": "(Khổ 210 x 297 mm)",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": 6.0,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "(",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "Khổ 210 x 297 mm",
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ")",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 86,
+      "text": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "text": "TRƯỜNG ĐẠI HỌC SÀI GÒN",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "TRƯỜNG ĐẠI HỌC SÀI GÒN",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "text": "KHOA CÔNG NGHỆ THÔNG TIN",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "KHOA CÔNG NGHỆ THÔNG TIN",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 89,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 91,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 92,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 93,
+      "text": "HỌ VÀ TÊN",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "HỌ VÀ TÊN",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "text": "(Tác giả đồ án chuyên ngành)",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "(Tác giả ",
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "đồ án chuyên ngành",
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ")",
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 96,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 97,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 98,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 99,
+      "text": "THUẬT TOÁN BEES GIẢI BÀI TOÁN TÔ MÀU ĐỒ THỊ",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "THUẬT TOÁN BEES GIẢI BÀI TOÁN TÔ MÀU ĐỒ THỊ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 18.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 100,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 101,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 102,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 103,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 104,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 105,
+      "text": "ĐỀ CƯƠNG ĐỒ ÁN CHUYÊN NGÀNH",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "ĐỀ CƯƠNG ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "ĐỒ ÁN CHUYÊN NGÀNH",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 106,
+      "text": "NGÀNH:................................... ",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "NGÀNH:................................... ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 107,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.3",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 108,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.3",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 109,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.3",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 110,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.3",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 111,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.3",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 112,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.3",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 113,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.3",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 114,
+      "text": "Thành phố Hồ Chí Minh, năm 20...",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Thành phố Hồ Chí Minh, năm 20...",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 115,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 116,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.3",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 14.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 117,
+      "text": "MẪU 2: TRANG BÌA BÊN TRONG ĐỀ CƯƠNG ",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "MẪU",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": " 2: TRANG BÌA BÊN TRONG ĐỀ CƯƠNG ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 118,
+      "text": "(Khổ 210 x 297 mm)",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": 6.0,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "(",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "Khổ 210 x 297 mm",
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ")",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 13.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 119,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 120,
+      "text": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 121,
+      "text": "TRƯỜNG ĐẠI HỌC SÀI GÒN",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "TRƯỜNG ĐẠI HỌC SÀI GÒN",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 122,
+      "text": "KHOA CÔNG NGHỆ THÔNG TIN",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "KHOA CÔNG NGHỆ THÔNG TIN",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 123,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 124,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 125,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 126,
+      "text": "HỌ VÀ TÊN",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "HỌ VÀ TÊN",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 127,
+      "text": "(Tác giả đồ án chuyên ngành)",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "None",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "(Tác giả ",
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "đồ án chuyên ngành",
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ")",
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 128,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 129,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 130,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 131,
+      "text": "THUẬT TOÁN BEES GIẢI BÀI TOÁN TÔ MÀU ĐỒ THỊ",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "THUẬT TOÁN BEES GIẢI BÀI TOÁN TÔ MÀU ĐỒ THỊ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 18.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 132,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 133,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 134,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 135,
+      "text": "ĐỀ CƯƠNG ĐỒ ÁN CHUYÊN NGÀNH",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "ĐỀ CƯƠNG ",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "ĐỒ ÁN CHUYÊN NGÀNH",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 136,
+      "text": "ngành: .......................................................",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "ngành: ",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "..................",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ".....................................",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 137,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 138,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 139,
+      "text": "GIẢNG VIÊN HƯỚNG DẪN:",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "GIẢNG VIÊN HƯỚNG DẪN",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": null,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": ":",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": null,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 140,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 141,
+      "text": "",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.5",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 142,
+      "text": "\t\t",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "\t",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        },
+        {
+          "text": "\t",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    },
+    {
+      "index": 143,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 144,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 145,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 146,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 147,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 148,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 149,
+      "text": "",
+      "style": "Normal",
+      "alignment": "None",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.2",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": []
+    },
+    {
+      "index": 150,
+      "text": "Thành phố Hồ Chí Minh, năm 20..",
+      "style": "Normal",
+      "alignment": "CENTER (1)",
+      "left_indent_pt": null,
+      "right_indent_pt": null,
+      "first_line_indent_pt": null,
+      "space_before_pt": null,
+      "space_after_pt": null,
+      "line_spacing": "1.3",
+      "keep_with_next": null,
+      "page_break_before": null,
+      "runs": [
+        {
+          "text": "Thành phố Hồ Chí Minh, năm 20..",
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "font_name": "Times New Roman",
+          "font_size_pt": 16.0,
+          "fonts_xml": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman"
+          }
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "styles": [
+    {
+      "name": "Normal",
+      "base": null,
+      "font": ".VnTime",
+      "size_pt": 12.0,
+      "bold": null,
+      "italic": null
+    },
+    {
+      "name": "Heading 1",
+      "base": "Normal",
+      "font": "Times New Roman",
+      "size_pt": 13.0,
+      "bold": true,
+      "italic": null
+    },
+    {
+      "name": "Heading 4",
+      "base": "Normal",
+      "font": "Times New Roman",
+      "size_pt": 13.0,
+      "bold": true,
+      "italic": true
+    },
+    {
+      "name": "Footer",
+      "base": "Normal",
+      "font": null,
+      "size_pt": null,
+      "bold": null,
+      "italic": null
+    },
+    {
+      "name": "Header",
+      "base": "Normal",
+      "font": null,
+      "size_pt": null,
+      "bold": null,
+      "italic": null
+    },
+    {
+      "name": "List Paragraph",
+      "base": "Normal",
+      "font": null,
+      "size_pt": null,
+      "bold": null,
+      "italic": null
+    },
+    {
+      "name": "Body Text",
+      "base": "Normal",
+      "font": null,
+      "size_pt": 14.0,
+      "bold": null,
+      "italic": null
+    },
+    {
+      "name": "Balloon Text",
+      "base": "Normal",
+      "font": "Segoe UI",
+      "size_pt": 9.0,
+      "bold": null,
+      "italic": null
+    }
+  ]
+}
