@@ -4,55 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8ef6bcb9cb2b6265",
+        "id": "a59b8a9ee523a459",
         "type": "tabs",
         "children": [
           {
-            "id": "5aa047f48dec80e9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SGU/Fourth year/Research Proposal/1. Lý do chọn đề tài.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1. Lý do chọn đề tài"
-            }
-          },
-          {
-            "id": "15a2f1e8fc7cee71",
+            "id": "bc6d7339a7111886",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 10.md",
+                "file": "SGU/Fourth year/J2EE/CHƯƠNG 1 KIẾN TRÚC SPRING BOOT/1.3 PHẦN 3 SPRING PROJECT/1.3.2 BÀI LÀM MẪU/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 10"
-            }
-          },
-          {
-            "id": "1ab063bda51d258f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SGU/Fourth year/Research Proposal/0. Vấn đáp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. Vấn đáp"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Alternating path",
+                "query": "NYC",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -235,22 +204,30 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "1ab063bda51d258f",
+  "active": "bc6d7339a7111886",
   "lastOpenFiles": [
-    "SGU/Fourth year/0. Vấn đáp.md",
+    "SGU/Fourth year/J2EE/CHƯƠNG 1 KIẾN TRÚC SPRING BOOT/1.3 PHẦN 3 SPRING PROJECT/1.3.1 ÔN TẬP LÝ THUYẾT VỚI CÁC PROMPT/Lý thuyết.md",
+    "SGU/Fourth year/J2EE/CHƯƠNG 1 KIẾN TRÚC SPRING BOOT/1.3 PHẦN 3 SPRING PROJECT/1.3.2 BÀI LÀM MẪU/Untitled.md",
+    "SGU/Fourth year/Report Specialized Project/Untitled.md",
+    "SGU/Fourth year/J2EE/CHƯƠNG 1 KIẾN TRÚC SPRING BOOT/1.3 PHẦN 3 SPRING PROJECT/1.3.3 BÀI TẬP LÀM THÊM",
+    "SGU/Fourth year/J2EE/CHƯƠNG 1 KIẾN TRÚC SPRING BOOT/1.3 PHẦN 3 SPRING PROJECT/1.3.2 BÀI LÀM MẪU",
+    "SGU/Fourth year/J2EE/CHƯƠNG 1 KIẾN TRÚC SPRING BOOT/1.3 PHẦN 3 SPRING PROJECT/1.3.1 ÔN TẬP LÝ THUYẾT VỚI CÁC PROMPT",
+    "SGU/Fourth year/J2EE/CHƯƠNG 1 KIẾN TRÚC SPRING BOOT/1.3 PHẦN 3 SPRING PROJECT",
+    "SGU/Fourth year/J2EE/CHƯƠNG 1 KIẾN TRÚC SPRING BOOT/1.2 PHẦN 2 SPRING BOOT",
+    "SGU/Fourth year/J2EE/CHƯƠNG 1 KIẾN TRÚC SPRING BOOT/1.1 PHẦN 1 SPRING FRAMEWORK",
+    "SGU/Fourth year/J2EE/CHƯƠNG 1 KIẾN TRÚC SPRING BOOT",
+    "SGU/Fourth year/J2EE",
+    "SGU/Fourth year/Seminar/Chapter 2 Graph Models and Applications/Matching Problem/3.4 Alternating Path.md",
+    "SGU/Fourth year/Seminar/Chapter 2 Graph Models and Applications/Matching Problem/3.5 Augmenting Path.md",
+    "SGU/Fourth year/Seminar/Chapter 2 Graph Models and Applications/Matching Problem/3.2 Matched Edges and Unmatched Edges.md",
+    "SGU/Fourth year/Seminar/Chapter 2 Graph Models and Applications/Maximum Flow Problem/1. Network.md",
     "SGU/Fourth year/Research Proposal/0. Vấn đáp.md",
+    "SGU/Fourth year/0. Vấn đáp.md",
     "SGU/Fourth year/Research Proposal/5. Phương pháp nghiên cứu.md",
     "SGU/Fourth year/Research Proposal/De_cuong_nghien_cuu_NSGAII_Ride_Hailing~0774B.tmp",
     "SGU/Fourth year/Research Proposal/De_cuong_nghien_cuu_NSGAII_Ride_Hailing~9C406.tmp",
-    "SGU/Fourth year/Research Proposal/~$_cuong_nghien_cuu_NSGAII_Ride_Hailing.docx",
-    "SGU/Fourth year/Research Proposal/De_cuong_nghien_cuu_NSGAII_Ride_Hailing~029A6.tmp",
-    "SGU/Fourth year/Research Proposal/De_cuong_nghien_cuu_NSGAII_Ride_Hailing~F6387.tmp",
-    "SGU/Fourth year/Research Proposal/De_cuong_nghien_cuu_NSGAII_Ride_Hailing~E080E.tmp",
-    "SGU/Fourth year/Research Proposal/~$ trinh bay de cuong ĐACN.docx",
     "SGU/Fourth year/Research Proposal/4. Đối tượng và phạm vi nghiên cứu.md",
     "SGU/Fourth year/Research Proposal/6. Giả thuyết khoa học.md",
-    "SGU/Fourth year/Research Proposal/HD trinh bay de cuong ĐACN.docx",
-    "SGU/Fourth year/Research Proposal/0. Vấn đáp.md",
     "SGU/Fourth year/Research Proposal/3. Mục đích và nhiệm vụ nghiên cứu.md",
     "SGU/Fourth year/Research Proposal/2. Lịch sử nghiên cứu vấn đề.md",
     "SGU/Fourth year/Research Proposal/1. Lý do chọn đề tài.md",
@@ -265,14 +242,6 @@
     "AWS Challenger/RideNow/1. Overview/1.6.1.1.4 HTTP , REST.md",
     "AWS Challenger/RideNow/1. Overview/1.6.1.2 Compare Microservice with Monolith.md",
     "AWS Challenger/RideNow/1. Overview/1.6.1.1.2.4 Common Kafka Use Cases.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.1.1.2.3 Kafka vs. Traditional Message Queues (e.g., RabbitMQ).md",
-    "AWS Challenger/RideNow/1. Overview/1.6.1.1.2.2 4 Core Concepts in Kafka.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.1.1.2.1 The Problem Kafka Solves.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.1.1.2 Kafka.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.1.1.1 gRPC.md",
-    "AWS Challenger/RideNow/1. Overview/1.6.1.1 separate applications,processes.md",
-    "SGU/Fourth year/Research Proposal",
-    "SGU/Fourth year/Specialized Project/Untitled",
     "Media/Pasted image 20260914155046.png",
     "Media/Pasted image 20260914154558.png",
     "Media/Pasted image 20260914154547.png",

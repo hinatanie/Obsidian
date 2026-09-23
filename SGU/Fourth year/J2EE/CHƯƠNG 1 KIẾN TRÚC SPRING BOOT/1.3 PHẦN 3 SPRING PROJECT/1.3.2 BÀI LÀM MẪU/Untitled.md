@@ -1,0 +1,19 @@
+The project is organized into the following packages:
+- Common layer
+	- form package: contains classes that support handling the user interface and user interactions
+	- dto package: contain classes used to transfer data between the application layer and the service layer
+- Data layer:
+	- model package: contains data bean/model classes
+	- repository package: contains classes responsible for handling data storage and retrieval
+- Service layer:
+	- service package: contains classes that provide business logic and support for application layer
+- Application layer(User Interface):
+	- config package: contains configurations used by the application , such as database connection settings, mail server connection settings, and beans that need to be initialized
+	- controller package: contains classes that handle user interactions on the web platform
+	- EazyschoolApplication class: the main Spring Boot application class
+- Application resources
+	- static/assets: contains static resources used by the project, such as CSS files, images, and other assets
+	- templates: contains Thymeleaf pages used to build the web application's user interface
+- Other information 
+	- The project uses Lombok. Details about how to use Lombok can be found in Chapter 5
+- 
